@@ -1,0 +1,1239 @@
+L 06/07/2020 - 16:28:48: Log file started (file "logs\L0607005.log") (game "cstrike") (version "48/1.1.2.7/8308")
+L 06/07/2020 - 16:28:48: Loading map "$2000$"
+L 06/07/2020 - 16:28:48: Server cvars start
+L 06/07/2020 - 16:28:48: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 06/07/2020 - 16:28:48: Server cvar "_tutor_debug_level" = "0"
+L 06/07/2020 - 16:28:48: Server cvar "_tutor_examine_time" = "0.5"
+L 06/07/2020 - 16:28:48: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 06/07/2020 - 16:28:48: Server cvar "_tutor_look_angle" = "10"
+L 06/07/2020 - 16:28:48: Server cvar "_tutor_look_distance" = "200"
+L 06/07/2020 - 16:28:48: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 06/07/2020 - 16:28:48: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 06/07/2020 - 16:28:48: Server cvar "_tutor_message_repeats" = "5"
+L 06/07/2020 - 16:28:48: Server cvar "_tutor_view_distance" = "1000"
+L 06/07/2020 - 16:28:48: Server cvar "allow_spectators" = "1"
+L 06/07/2020 - 16:28:48: Server cvar "amx_client_languages" = "1"
+L 06/07/2020 - 16:28:48: Server cvar "amx_language" = "en"
+L 06/07/2020 - 16:28:48: Server cvar "amx_nextmap" = "de_inferno"
+L 06/07/2020 - 16:28:48: Server cvar "amx_timeleft" = "64924:19"
+L 06/07/2020 - 16:28:48: Server cvar "amxmodx_version" = "1.8.2"
+L 06/07/2020 - 16:28:48: Server cvar "coop" = "0"
+L 06/07/2020 - 16:28:48: Server cvar "deathmatch" = "1"
+L 06/07/2020 - 16:28:48: Server cvar "decalfrequency" = "60"
+L 06/07/2020 - 16:28:48: Server cvar "dp_version" = "0.9.582"
+L 06/07/2020 - 16:28:48: Server cvar "edgefriction" = "2"
+L 06/07/2020 - 16:28:48: Server cvar "hostage_debug" = "0"
+L 06/07/2020 - 16:28:48: Server cvar "hostage_stop" = "0"
+L 06/07/2020 - 16:28:48: Server cvar "humans_join_team" = "any"
+L 06/07/2020 - 16:28:48: Server cvar "max_queries_sec" = "3.0"
+L 06/07/2020 - 16:28:48: Server cvar "max_queries_sec_global" = "30"
+L 06/07/2020 - 16:28:48: Server cvar "max_queries_window" = "60"
+L 06/07/2020 - 16:28:48: Server cvar "metamod_version" = "1.20"
+L 06/07/2020 - 16:28:48: Server cvar "mp_allowmonsters" = "0"
+L 06/07/2020 - 16:28:48: Server cvar "mp_autokick" = "0"
+L 06/07/2020 - 16:28:48: Server cvar "mp_autokick_timeout" = "-1"
+L 06/07/2020 - 16:28:48: Server cvar "mp_autoteambalance" = "0"
+L 06/07/2020 - 16:28:48: Server cvar "mp_buytime" = "1.5"
+L 06/07/2020 - 16:28:48: Server cvar "mp_c4timer" = "45"
+L 06/07/2020 - 16:28:48: Server cvar "mp_chattime" = "0"
+L 06/07/2020 - 16:28:48: Server cvar "mp_consistency" = "1"
+L 06/07/2020 - 16:28:48: Server cvar "mp_fadetoblack" = "0"
+L 06/07/2020 - 16:28:48: Server cvar "mp_flashlight" = "0"
+L 06/07/2020 - 16:28:48: Server cvar "mp_footsteps" = "1"
+L 06/07/2020 - 16:28:48: Server cvar "mp_forcecamera" = "0"
+L 06/07/2020 - 16:28:48: Server cvar "mp_forcechasecam" = "2"
+L 06/07/2020 - 16:28:48: Server cvar "mp_fragsleft" = "0"
+L 06/07/2020 - 16:28:48: Server cvar "mp_freezetime" = "7"
+L 06/07/2020 - 16:28:48: Server cvar "mp_friendlyfire" = "1"
+L 06/07/2020 - 16:28:48: Server cvar "mp_ghostfrequency" = "0.1"
+L 06/07/2020 - 16:28:48: Server cvar "mp_hostagepenalty" = "2"
+L 06/07/2020 - 16:28:48: Server cvar "mp_infinite_ammo" = "0"
+L 06/07/2020 - 16:28:48: Server cvar "mp_kickpercent" = "0.66"
+L 06/07/2020 - 16:28:48: Server cvar "mp_limitteams" = "5"
+L 06/07/2020 - 16:28:48: Server cvar "mp_logdetail" = "0"
+L 06/07/2020 - 16:28:48: Server cvar "mp_logfile" = "1"
+L 06/07/2020 - 16:28:48: Server cvar "mp_logmessages" = "1"
+L 06/07/2020 - 16:28:48: Server cvar "mp_mapvoteratio" = "0.66"
+L 06/07/2020 - 16:28:48: Server cvar "mp_maxrounds" = "0"
+L 06/07/2020 - 16:28:48: Server cvar "mp_mirrordamage" = "0"
+L 06/07/2020 - 16:28:48: Server cvar "mp_playerid" = "0"
+L 06/07/2020 - 16:28:48: Server cvar "mp_roundtime" = "2"
+L 06/07/2020 - 16:28:48: Server cvar "mp_scoreboard_showhealth" = "3"
+L 06/07/2020 - 16:28:48: Server cvar "mp_scoreboard_showmoney" = "3"
+L 06/07/2020 - 16:28:48: Server cvar "mp_startmoney" = "800"
+L 06/07/2020 - 16:28:48: Server cvar "mp_timeleft" = "0"
+L 06/07/2020 - 16:28:48: Server cvar "mp_timelimit" = "65535"
+L 06/07/2020 - 16:28:48: Server cvar "mp_tkpunish" = "0"
+L 06/07/2020 - 16:28:48: Server cvar "mp_windifference" = "1"
+L 06/07/2020 - 16:28:48: Server cvar "mp_winlimit" = "0"
+L 06/07/2020 - 16:28:48: Server cvar "pausable" = "0"
+L 06/07/2020 - 16:28:48: Server cvar "sv_accelerate" = "5"
+L 06/07/2020 - 16:28:48: Server cvar "sv_aim" = "0"
+L 06/07/2020 - 16:28:48: Server cvar "sv_airaccelerate" = "10"
+L 06/07/2020 - 16:28:48: Server cvar "sv_allowupload" = "1"
+L 06/07/2020 - 16:28:48: Server cvar "sv_alltalk" = "0"
+L 06/07/2020 - 16:28:48: Server cvar "sv_bounce" = "1"
+L 06/07/2020 - 16:28:48: Server cvar "sv_cheats" = "0"
+L 06/07/2020 - 16:28:48: Server cvar "sv_clienttrace" = "1"
+L 06/07/2020 - 16:28:48: Server cvar "sv_contact" = "apoo12345@gmail.com"
+L 06/07/2020 - 16:28:48: Server cvar "sv_friction" = "4"
+L 06/07/2020 - 16:28:48: Server cvar "sv_gravity" = "800"
+L 06/07/2020 - 16:28:48: Server cvar "sv_logblocks" = "0"
+L 06/07/2020 - 16:28:48: Server cvar "sv_maxrate" = "20000"
+L 06/07/2020 - 16:28:48: Server cvar "sv_maxspeed" = "900"
+L 06/07/2020 - 16:28:48: Server cvar "sv_minrate" = "5000"
+L 06/07/2020 - 16:28:48: Server cvar "sv_password" = "Lauda"
+L 06/07/2020 - 16:28:48: Server cvar "sv_proxies" = "1"
+L 06/07/2020 - 16:28:48: Server cvar "sv_restart" = "0"
+L 06/07/2020 - 16:28:48: Server cvar "sv_restartround" = "0"
+L 06/07/2020 - 16:28:48: Server cvar "sv_stepsize" = "18"
+L 06/07/2020 - 16:28:48: Server cvar "sv_stopspeed" = "75"
+L 06/07/2020 - 16:28:48: Server cvar "sv_uploadmax" = "0.5"
+L 06/07/2020 - 16:28:48: Server cvar "sv_voiceenable" = "0"
+L 06/07/2020 - 16:28:48: Server cvar "sv_wateraccelerate" = "10"
+L 06/07/2020 - 16:28:48: Server cvar "sv_waterfriction" = "1"
+L 06/07/2020 - 16:28:48: Server cvars end
+L 06/07/2020 - 16:28:49: Server cvar "amx_nextmap" = "$2000$"
+L 06/07/2020 - 16:28:50: Started map "$2000$" (CRC "-1688392397")
+L 06/07/2020 - 16:28:54: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><>" entered the game
+L 06/07/2020 - 16:28:57: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><>" joined team "TERRORIST"
+L 06/07/2020 - 16:28:58: World triggered "Round_Start"
+L 06/07/2020 - 16:32:25: [DPROTO]: Client 1 - Set AuthIdType 1 [dp_RevEmu]; pClient = 057D8040
+L 06/07/2020 - 16:32:25: "Cristiano<592><STEAM_0:0:1465890162><>" connected, address "103.200.40.94:27005"
+L 06/07/2020 - 16:32:33: "Cristiano<592><STEAM_0:0:1465890162><>" entered the game
+L 06/07/2020 - 16:33:09: "Cristiano<592><STEAM_0:0:1465890162><>" joined team "SPECTATOR"
+L 06/07/2020 - 16:34:02: [DPROTO]: Client 9 - Set AuthIdType 1 [Native]; pClient = 05800100
+L 06/07/2020 - 16:34:02: "pRo_reVoluTion<593><STEAM_0:1:546352772><>" connected, address "223.229.162.38:27005"
+L 06/07/2020 - 16:34:02: "pRo_reVoluTion<593><STEAM_0:1:546352772><>" STEAM USERID validated
+L 06/07/2020 - 16:34:14: "pRo_reVoluTion<593><STEAM_0:1:546352772><>" entered the game
+L 06/07/2020 - 16:34:20: "pRo_reVoluTion<593><STEAM_0:1:546352772><>" joined team "CT"
+L 06/07/2020 - 16:34:20: World triggered "Game_Commencing"
+L 06/07/2020 - 16:34:20: World triggered "Game_Commencing" (CT "0") (T "0")
+L 06/07/2020 - 16:34:20: World triggered "Round_End"
+L 06/07/2020 - 16:34:29: "Cristiano<592><STEAM_0:0:1465890162><SPECTATOR>" joined team "CT"
+L 06/07/2020 - 16:34:30: World triggered "Round_Start"
+L 06/07/2020 - 16:34:36: Rcon: "rcon 1864394520 "Lauda" mp_freezetime 0" from "103.76.82.177:40119"
+L 06/07/2020 - 16:34:36: Server cvar "mp_freezetime" = "0"
+L 06/07/2020 - 16:34:45: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" with "awp"
+L 06/07/2020 - 16:34:45: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 06/07/2020 - 16:34:45: World triggered "Round_End"
+L 06/07/2020 - 16:34:50: World triggered "Round_Start"
+L 06/07/2020 - 16:34:56: "Cristiano<592><STEAM_0:0:1465890162><CT>" disconnected
+L 06/07/2020 - 16:35:02: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" with "m4a1"
+L 06/07/2020 - 16:35:02: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 06/07/2020 - 16:35:02: World triggered "Round_End"
+L 06/07/2020 - 16:35:07: World triggered "Round_Start"
+L 06/07/2020 - 16:35:21: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" with "m4a1"
+L 06/07/2020 - 16:35:21: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "3")
+L 06/07/2020 - 16:35:21: World triggered "Round_End"
+L 06/07/2020 - 16:35:26: World triggered "Round_Start"
+L 06/07/2020 - 16:35:29: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" with "m4a1"
+L 06/07/2020 - 16:35:29: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "4")
+L 06/07/2020 - 16:35:29: World triggered "Round_End"
+L 06/07/2020 - 16:35:34: World triggered "Round_Start"
+L 06/07/2020 - 16:35:39: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" with "m4a1"
+L 06/07/2020 - 16:35:39: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "5")
+L 06/07/2020 - 16:35:39: World triggered "Round_End"
+L 06/07/2020 - 16:35:44: World triggered "Round_Start"
+L 06/07/2020 - 16:35:54: "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "m4a1"
+L 06/07/2020 - 16:35:54: Team "CT" triggered "CTs_Win" (CT "1") (T "5")
+L 06/07/2020 - 16:35:54: World triggered "Round_End"
+L 06/07/2020 - 16:35:59: World triggered "Round_Start"
+L 06/07/2020 - 16:36:06: "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "m4a1"
+L 06/07/2020 - 16:36:06: Team "CT" triggered "CTs_Win" (CT "2") (T "5")
+L 06/07/2020 - 16:36:06: World triggered "Round_End"
+L 06/07/2020 - 16:36:11: World triggered "Round_Start"
+L 06/07/2020 - 16:36:19: [DPROTO]: Client 1 - Set AuthIdType 1 [dp_RevEmu]; pClient = 057D8040
+L 06/07/2020 - 16:36:19: "Cristiano<594><STEAM_0:0:1465890162><>" connected, address "103.200.40.94:27005"
+L 06/07/2020 - 16:36:21: "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "m4a1"
+L 06/07/2020 - 16:36:21: Team "CT" triggered "CTs_Win" (CT "3") (T "5")
+L 06/07/2020 - 16:36:21: World triggered "Round_End"
+L 06/07/2020 - 16:36:23: "Cristiano<594><STEAM_0:0:1465890162><>" entered the game
+L 06/07/2020 - 16:36:26: World triggered "Round_Start"
+L 06/07/2020 - 16:36:27: "Cristiano<594><STEAM_0:0:1465890162><>" joined team "CT"
+L 06/07/2020 - 16:36:35: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" with "m4a1"
+L 06/07/2020 - 16:36:41: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Cristiano<594><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 16:36:41: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "6")
+L 06/07/2020 - 16:36:41: World triggered "Round_End"
+L 06/07/2020 - 16:36:46: World triggered "Round_Start"
+L 06/07/2020 - 16:36:53: "Cristiano<594><STEAM_0:0:1465890162><CT>" disconnected
+L 06/07/2020 - 16:37:09: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" with "ak47"
+L 06/07/2020 - 16:37:09: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "7")
+L 06/07/2020 - 16:37:09: World triggered "Round_End"
+L 06/07/2020 - 16:37:14: World triggered "Round_Start"
+L 06/07/2020 - 16:37:19: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" with "ak47"
+L 06/07/2020 - 16:37:19: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "8")
+L 06/07/2020 - 16:37:19: World triggered "Round_End"
+L 06/07/2020 - 16:37:24: World triggered "Round_Start"
+L 06/07/2020 - 16:37:27: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" with "m4a1"
+L 06/07/2020 - 16:37:27: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "9")
+L 06/07/2020 - 16:37:27: World triggered "Round_End"
+L 06/07/2020 - 16:37:32: World triggered "Round_Start"
+L 06/07/2020 - 16:37:36: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" with "m4a1"
+L 06/07/2020 - 16:37:36: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "10")
+L 06/07/2020 - 16:37:36: World triggered "Round_End"
+L 06/07/2020 - 16:37:41: World triggered "Round_Start"
+L 06/07/2020 - 16:37:45: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" with "m4a1"
+L 06/07/2020 - 16:37:45: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "11")
+L 06/07/2020 - 16:37:45: World triggered "Round_End"
+L 06/07/2020 - 16:37:50: World triggered "Round_Start"
+L 06/07/2020 - 16:37:53: "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 06/07/2020 - 16:37:53: Team "CT" triggered "CTs_Win" (CT "4") (T "11")
+L 06/07/2020 - 16:37:53: World triggered "Round_End"
+L 06/07/2020 - 16:37:58: World triggered "Round_Start"
+L 06/07/2020 - 16:38:06: "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "m4a1"
+L 06/07/2020 - 16:38:06: Team "CT" triggered "CTs_Win" (CT "5") (T "11")
+L 06/07/2020 - 16:38:06: World triggered "Round_End"
+L 06/07/2020 - 16:38:11: World triggered "Round_Start"
+L 06/07/2020 - 16:38:16: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" with "m4a1"
+L 06/07/2020 - 16:38:16: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "12")
+L 06/07/2020 - 16:38:16: World triggered "Round_End"
+L 06/07/2020 - 16:38:21: World triggered "Round_Start"
+L 06/07/2020 - 16:38:36: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" with "awp"
+L 06/07/2020 - 16:38:36: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "13")
+L 06/07/2020 - 16:38:36: World triggered "Round_End"
+L 06/07/2020 - 16:38:41: World triggered "Round_Start"
+L 06/07/2020 - 16:39:00: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" with "awp"
+L 06/07/2020 - 16:39:00: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "14")
+L 06/07/2020 - 16:39:00: World triggered "Round_End"
+L 06/07/2020 - 16:39:05: World triggered "Round_Start"
+L 06/07/2020 - 16:39:17: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" with "awp"
+L 06/07/2020 - 16:39:17: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "15")
+L 06/07/2020 - 16:39:18: World triggered "Round_End"
+L 06/07/2020 - 16:39:23: World triggered "Round_Start"
+L 06/07/2020 - 16:39:25: "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "awp"
+L 06/07/2020 - 16:39:25: Team "CT" triggered "CTs_Win" (CT "6") (T "15")
+L 06/07/2020 - 16:39:25: World triggered "Round_End"
+L 06/07/2020 - 16:39:30: World triggered "Round_Start"
+L 06/07/2020 - 16:39:45: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" with "m4a1"
+L 06/07/2020 - 16:39:45: Team "TERRORIST" triggered "Terrorists_Win" (CT "6") (T "16")
+L 06/07/2020 - 16:39:45: World triggered "Round_End"
+L 06/07/2020 - 16:39:50: World triggered "Round_Start"
+L 06/07/2020 - 16:39:56: "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "m4a1"
+L 06/07/2020 - 16:39:56: Team "CT" triggered "CTs_Win" (CT "7") (T "16")
+L 06/07/2020 - 16:39:56: World triggered "Round_End"
+L 06/07/2020 - 16:40:01: World triggered "Round_Start"
+L 06/07/2020 - 16:40:12: "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "m4a1"
+L 06/07/2020 - 16:40:12: Team "CT" triggered "CTs_Win" (CT "8") (T "16")
+L 06/07/2020 - 16:40:12: World triggered "Round_End"
+L 06/07/2020 - 16:40:17: World triggered "Round_Start"
+L 06/07/2020 - 16:40:30: "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "m4a1"
+L 06/07/2020 - 16:40:30: Team "CT" triggered "CTs_Win" (CT "9") (T "16")
+L 06/07/2020 - 16:40:30: World triggered "Round_End"
+L 06/07/2020 - 16:40:35: World triggered "Round_Start"
+L 06/07/2020 - 16:40:38: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" with "m4a1"
+L 06/07/2020 - 16:40:38: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "17")
+L 06/07/2020 - 16:40:38: World triggered "Round_End"
+L 06/07/2020 - 16:40:43: World triggered "Round_Start"
+L 06/07/2020 - 16:40:54: [DPROTO]: Client 1 - Set AuthIdType 1 [dp_RevEmu]; pClient = 057D8040
+L 06/07/2020 - 16:40:54: "Cristiano<595><STEAM_0:0:1465890162><>" connected, address "103.200.40.94:27005"
+L 06/07/2020 - 16:41:09: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" with "m4a1"
+L 06/07/2020 - 16:41:09: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "18")
+L 06/07/2020 - 16:41:09: World triggered "Round_End"
+L 06/07/2020 - 16:41:14: World triggered "Round_Start"
+L 06/07/2020 - 16:41:18: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" with "ak47"
+L 06/07/2020 - 16:41:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "19")
+L 06/07/2020 - 16:41:18: World triggered "Round_End"
+L 06/07/2020 - 16:41:23: World triggered "Round_Start"
+L 06/07/2020 - 16:41:27: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" with "ak47"
+L 06/07/2020 - 16:41:27: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "20")
+L 06/07/2020 - 16:41:27: World triggered "Round_End"
+L 06/07/2020 - 16:41:32: World triggered "Round_Start"
+L 06/07/2020 - 16:41:36: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" with "ak47"
+L 06/07/2020 - 16:41:36: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "21")
+L 06/07/2020 - 16:41:36: World triggered "Round_End"
+L 06/07/2020 - 16:41:41: World triggered "Round_Start"
+L 06/07/2020 - 16:41:44: "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "mp5navy"
+L 06/07/2020 - 16:41:44: Team "CT" triggered "CTs_Win" (CT "10") (T "21")
+L 06/07/2020 - 16:41:44: World triggered "Round_End"
+L 06/07/2020 - 16:41:49: World triggered "Round_Start"
+L 06/07/2020 - 16:42:02: "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 06/07/2020 - 16:42:02: Team "CT" triggered "CTs_Win" (CT "11") (T "21")
+L 06/07/2020 - 16:42:02: World triggered "Round_End"
+L 06/07/2020 - 16:42:07: World triggered "Round_Start"
+L 06/07/2020 - 16:42:14: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" with "ak47"
+L 06/07/2020 - 16:42:14: Team "TERRORIST" triggered "Terrorists_Win" (CT "11") (T "22")
+L 06/07/2020 - 16:42:14: World triggered "Round_End"
+L 06/07/2020 - 16:42:19: World triggered "Round_Start"
+L 06/07/2020 - 16:42:25: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" with "ak47"
+L 06/07/2020 - 16:42:25: Team "TERRORIST" triggered "Terrorists_Win" (CT "11") (T "23")
+L 06/07/2020 - 16:42:25: World triggered "Round_End"
+L 06/07/2020 - 16:42:30: World triggered "Round_Start"
+L 06/07/2020 - 16:42:43: [DPROTO]: Client 1 - Set AuthIdType 1 [dp_RevEmu]; pClient = 057D8040
+L 06/07/2020 - 16:42:43: "Cristiano<596><STEAM_0:0:1465890162><>" connected, address "103.200.40.94:27005"
+L 06/07/2020 - 16:42:46: "Cristiano<596><STEAM_0:0:1465890162><>" entered the game
+L 06/07/2020 - 16:42:48: "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "mp5navy"
+L 06/07/2020 - 16:42:48: Team "CT" triggered "CTs_Win" (CT "12") (T "23")
+L 06/07/2020 - 16:42:48: World triggered "Round_End"
+L 06/07/2020 - 16:42:50: "Cristiano<596><STEAM_0:0:1465890162><>" joined team "CT"
+L 06/07/2020 - 16:42:53: World triggered "Round_Start"
+L 06/07/2020 - 16:43:00: "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "mp5navy"
+L 06/07/2020 - 16:43:00: Team "CT" triggered "CTs_Win" (CT "13") (T "23")
+L 06/07/2020 - 16:43:00: World triggered "Round_End"
+L 06/07/2020 - 16:43:05: World triggered "Round_Start"
+L 06/07/2020 - 16:43:30: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" with "m4a1"
+L 06/07/2020 - 16:43:35: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "m4a1"
+L 06/07/2020 - 16:43:35: Team "CT" triggered "CTs_Win" (CT "14") (T "23")
+L 06/07/2020 - 16:43:35: World triggered "Round_End"
+L 06/07/2020 - 16:43:40: World triggered "Round_Start"
+L 06/07/2020 - 16:43:51: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 16:43:57: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" with "m4a1"
+L 06/07/2020 - 16:43:57: Team "TERRORIST" triggered "Terrorists_Win" (CT "14") (T "24")
+L 06/07/2020 - 16:43:57: World triggered "Round_End"
+L 06/07/2020 - 16:44:03: World triggered "Round_Start"
+L 06/07/2020 - 16:44:08: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 16:44:16: "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 06/07/2020 - 16:44:16: Team "CT" triggered "CTs_Win" (CT "15") (T "24")
+L 06/07/2020 - 16:44:16: World triggered "Round_End"
+L 06/07/2020 - 16:44:21: World triggered "Round_Start"
+L 06/07/2020 - 16:44:30: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 16:45:00: "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 06/07/2020 - 16:45:00: Team "CT" triggered "CTs_Win" (CT "16") (T "24")
+L 06/07/2020 - 16:45:00: World triggered "Round_End"
+L 06/07/2020 - 16:45:05: World triggered "Round_Start"
+L 06/07/2020 - 16:45:08: "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 06/07/2020 - 16:45:08: Team "CT" triggered "CTs_Win" (CT "17") (T "24")
+L 06/07/2020 - 16:45:08: World triggered "Round_End"
+L 06/07/2020 - 16:45:13: World triggered "Round_Start"
+L 06/07/2020 - 16:45:27: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 06/07/2020 - 16:45:27: Team "CT" triggered "CTs_Win" (CT "18") (T "24")
+L 06/07/2020 - 16:45:27: World triggered "Round_End"
+L 06/07/2020 - 16:45:32: World triggered "Round_Start"
+L 06/07/2020 - 16:45:37: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" with "aug"
+L 06/07/2020 - 16:45:52: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 16:45:52: Team "TERRORIST" triggered "Terrorists_Win" (CT "18") (T "25")
+L 06/07/2020 - 16:45:52: World triggered "Round_End"
+L 06/07/2020 - 16:45:54: "pRo_reVoluTion<593><STEAM_0:1:546352772><CT>" joined team "SPECTATOR"
+L 06/07/2020 - 16:45:57: World triggered "Round_Start"
+L 06/07/2020 - 16:45:59: "pRo_reVoluTion<593><STEAM_0:1:546352772><SPECTATOR>" disconnected
+L 06/07/2020 - 16:46:18: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 16:46:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "18") (T "26")
+L 06/07/2020 - 16:46:18: World triggered "Round_End"
+L 06/07/2020 - 16:46:23: World triggered "Round_Start"
+L 06/07/2020 - 16:46:28: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "m4a1"
+L 06/07/2020 - 16:46:28: Team "CT" triggered "CTs_Win" (CT "19") (T "26")
+L 06/07/2020 - 16:46:28: World triggered "Round_End"
+L 06/07/2020 - 16:46:33: World triggered "Round_Start"
+L 06/07/2020 - 16:46:38: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "ak47"
+L 06/07/2020 - 16:46:38: Team "TERRORIST" triggered "Terrorists_Win" (CT "19") (T "27")
+L 06/07/2020 - 16:46:38: World triggered "Round_End"
+L 06/07/2020 - 16:46:43: World triggered "Round_Start"
+L 06/07/2020 - 16:46:50: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 06/07/2020 - 16:46:50: Team "CT" triggered "CTs_Win" (CT "20") (T "27")
+L 06/07/2020 - 16:46:50: World triggered "Round_End"
+L 06/07/2020 - 16:46:51: [DPROTO]: Client 2 - Set AuthIdType 1 [dp_RevEmu]; pClient = 057DD058
+L 06/07/2020 - 16:46:51: "Achillies<597><STEAM_0:0:1663171942><>" connected, address "106.51.233.53:14210"
+L 06/07/2020 - 16:46:55: World triggered "Round_Start"
+L 06/07/2020 - 16:46:57: [DPROTO]: Client 3 - Set AuthIdType 1 [dp_RevEmu]; pClient = 057E2070
+L 06/07/2020 - 16:46:57: "U<598><STEAM_0:0:294118000><>" connected, address "94.212.60.141:27005"
+L 06/07/2020 - 16:46:59: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "awp"
+L 06/07/2020 - 16:46:59: Team "TERRORIST" triggered "Terrorists_Win" (CT "20") (T "28")
+L 06/07/2020 - 16:46:59: World triggered "Round_End"
+L 06/07/2020 - 16:47:02: "Achillies<597><STEAM_0:0:1663171942><>" entered the game
+L 06/07/2020 - 16:47:04: World triggered "Round_Start"
+L 06/07/2020 - 16:47:09: "U<598><STEAM_0:0:294118000><>" entered the game
+L 06/07/2020 - 16:47:13: "Achillies<597><STEAM_0:0:1663171942><>" joined team "CT"
+L 06/07/2020 - 16:47:15: "U<598><STEAM_0:0:294118000><>" joined team "TERRORIST"
+L 06/07/2020 - 16:47:15: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 16:47:18: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "m4a1"
+L 06/07/2020 - 16:47:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "20") (T "29")
+L 06/07/2020 - 16:47:18: World triggered "Round_End"
+L 06/07/2020 - 16:47:23: World triggered "Round_Start"
+L 06/07/2020 - 16:47:30: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "grenade"
+L 06/07/2020 - 16:47:31: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "m4a1"
+L 06/07/2020 - 16:47:38: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/07/2020 - 16:47:38: Team "TERRORIST" triggered "Terrorists_Win" (CT "20") (T "30")
+L 06/07/2020 - 16:47:38: World triggered "Round_End"
+L 06/07/2020 - 16:47:43: World triggered "Round_Start"
+L 06/07/2020 - 16:47:54: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "m4a1"
+L 06/07/2020 - 16:47:55: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 06/07/2020 - 16:48:01: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "ak47"
+L 06/07/2020 - 16:48:01: Team "TERRORIST" triggered "Terrorists_Win" (CT "20") (T "31")
+L 06/07/2020 - 16:48:01: World triggered "Round_End"
+L 06/07/2020 - 16:48:06: World triggered "Round_Start"
+L 06/07/2020 - 16:48:12: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 06/07/2020 - 16:48:22: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "m4a1"
+L 06/07/2020 - 16:48:39: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 16:48:39: Team "TERRORIST" triggered "Terrorists_Win" (CT "20") (T "32")
+L 06/07/2020 - 16:48:39: World triggered "Round_End"
+L 06/07/2020 - 16:48:44: World triggered "Round_Start"
+L 06/07/2020 - 16:48:49: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 06/07/2020 - 16:48:49: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 16:49:10: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "ak47"
+L 06/07/2020 - 16:49:10: Team "CT" triggered "CTs_Win" (CT "21") (T "32")
+L 06/07/2020 - 16:49:10: World triggered "Round_End"
+L 06/07/2020 - 16:49:15: World triggered "Round_Start"
+L 06/07/2020 - 16:49:20: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 16:49:20: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 06/07/2020 - 16:49:26: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/07/2020 - 16:49:26: Team "TERRORIST" triggered "Terrorists_Win" (CT "21") (T "33")
+L 06/07/2020 - 16:49:26: World triggered "Round_End"
+L 06/07/2020 - 16:49:31: World triggered "Round_Start"
+L 06/07/2020 - 16:49:37: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "ak47"
+L 06/07/2020 - 16:49:42: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/07/2020 - 16:49:42: Team "TERRORIST" triggered "Terrorists_Win" (CT "21") (T "34")
+L 06/07/2020 - 16:49:42: World triggered "Round_End"
+L 06/07/2020 - 16:49:47: World triggered "Round_Start"
+L 06/07/2020 - 16:49:54: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/07/2020 - 16:49:56: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "awp"
+L 06/07/2020 - 16:50:03: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "ak47"
+L 06/07/2020 - 16:50:03: Team "TERRORIST" triggered "Terrorists_Win" (CT "21") (T "35")
+L 06/07/2020 - 16:50:03: World triggered "Round_End"
+L 06/07/2020 - 16:50:08: World triggered "Round_Start"
+L 06/07/2020 - 16:50:20: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "m4a1"
+L 06/07/2020 - 16:50:25: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "m4a1"
+L 06/07/2020 - 16:50:25: Team "CT" triggered "CTs_Win" (CT "22") (T "35")
+L 06/07/2020 - 16:50:25: World triggered "Round_End"
+L 06/07/2020 - 16:50:30: World triggered "Round_Start"
+L 06/07/2020 - 16:50:37: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "m4a1"
+L 06/07/2020 - 16:50:47: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "m4a1"
+L 06/07/2020 - 16:51:05: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "awp"
+L 06/07/2020 - 16:51:05: Team "CT" triggered "CTs_Win" (CT "23") (T "35")
+L 06/07/2020 - 16:51:05: World triggered "Round_End"
+L 06/07/2020 - 16:51:08: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" say "hi chi" (dead)
+L 06/07/2020 - 16:51:10: "Achillies<597><STEAM_0:0:1663171942><CT>" say "pagol" (dead)
+L 06/07/2020 - 16:51:10: World triggered "Round_Start"
+L 06/07/2020 - 16:51:21: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "m4a1"
+L 06/07/2020 - 16:51:21: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/07/2020 - 16:51:30: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "ak47"
+L 06/07/2020 - 16:51:30: Team "TERRORIST" triggered "Terrorists_Win" (CT "23") (T "36")
+L 06/07/2020 - 16:51:30: World triggered "Round_End"
+L 06/07/2020 - 16:51:35: World triggered "Round_Start"
+L 06/07/2020 - 16:51:45: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "m4a1"
+L 06/07/2020 - 16:51:46: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "grenade"
+L 06/07/2020 - 16:51:50: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 16:51:50: Team "TERRORIST" triggered "Terrorists_Win" (CT "23") (T "37")
+L 06/07/2020 - 16:51:50: World triggered "Round_End"
+L 06/07/2020 - 16:51:55: World triggered "Round_Start"
+L 06/07/2020 - 16:52:05: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 16:52:08: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "m4a1"
+L 06/07/2020 - 16:52:08: Team "TERRORIST" triggered "Terrorists_Win" (CT "23") (T "38")
+L 06/07/2020 - 16:52:08: World triggered "Round_End"
+L 06/07/2020 - 16:52:13: World triggered "Round_Start"
+L 06/07/2020 - 16:52:20: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "grenade"
+L 06/07/2020 - 16:52:21: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 16:52:21: Team "TERRORIST" triggered "Terrorists_Win" (CT "23") (T "39")
+L 06/07/2020 - 16:52:21: World triggered "Round_End"
+L 06/07/2020 - 16:52:26: World triggered "Round_Start"
+L 06/07/2020 - 16:52:30: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 16:52:37: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "m4a1"
+L 06/07/2020 - 16:52:37: Team "TERRORIST" triggered "Terrorists_Win" (CT "23") (T "40")
+L 06/07/2020 - 16:52:37: World triggered "Round_End"
+L 06/07/2020 - 16:52:42: World triggered "Round_Start"
+L 06/07/2020 - 16:52:49: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "awp"
+L 06/07/2020 - 16:53:03: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "m4a1"
+L 06/07/2020 - 16:53:03: Team "CT" triggered "CTs_Win" (CT "24") (T "40")
+L 06/07/2020 - 16:53:03: World triggered "Round_End"
+L 06/07/2020 - 16:53:08: World triggered "Round_Start"
+L 06/07/2020 - 16:53:13: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "grenade"
+L 06/07/2020 - 16:53:20: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/07/2020 - 16:53:31: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "ak47"
+L 06/07/2020 - 16:53:31: Team "TERRORIST" triggered "Terrorists_Win" (CT "24") (T "41")
+L 06/07/2020 - 16:53:31: World triggered "Round_End"
+L 06/07/2020 - 16:53:36: World triggered "Round_Start"
+L 06/07/2020 - 16:53:44: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "m4a1"
+L 06/07/2020 - 16:53:45: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "m4a1"
+L 06/07/2020 - 16:53:46: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 16:53:46: Team "TERRORIST" triggered "Terrorists_Win" (CT "24") (T "42")
+L 06/07/2020 - 16:53:46: World triggered "Round_End"
+L 06/07/2020 - 16:53:51: World triggered "Round_Start"
+L 06/07/2020 - 16:53:57: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 16:53:58: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "m4a1"
+L 06/07/2020 - 16:53:58: Team "TERRORIST" triggered "Terrorists_Win" (CT "24") (T "43")
+L 06/07/2020 - 16:53:58: World triggered "Round_End"
+L 06/07/2020 - 16:54:03: World triggered "Round_Start"
+L 06/07/2020 - 16:54:14: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "m4a1"
+L 06/07/2020 - 16:54:15: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "m4a1"
+L 06/07/2020 - 16:54:18: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "glock18"
+L 06/07/2020 - 16:54:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "24") (T "44")
+L 06/07/2020 - 16:54:18: World triggered "Round_End"
+L 06/07/2020 - 16:54:23: World triggered "Round_Start"
+L 06/07/2020 - 16:54:29: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 06/07/2020 - 16:54:36: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 16:54:55: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "grenade"
+L 06/07/2020 - 16:54:55: Team "TERRORIST" triggered "Terrorists_Win" (CT "24") (T "45")
+L 06/07/2020 - 16:54:55: World triggered "Round_End"
+L 06/07/2020 - 16:55:00: World triggered "Round_Start"
+L 06/07/2020 - 16:55:06: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 16:55:17: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "m4a1"
+L 06/07/2020 - 16:55:18: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/07/2020 - 16:55:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "24") (T "46")
+L 06/07/2020 - 16:55:18: World triggered "Round_End"
+L 06/07/2020 - 16:55:23: World triggered "Round_Start"
+L 06/07/2020 - 16:55:29: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" say "ektu age 80- oping hilo"
+L 06/07/2020 - 16:55:37: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "ak47"
+L 06/07/2020 - 16:55:40: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "m4a1"
+L 06/07/2020 - 16:55:40: Team "TERRORIST" triggered "Terrorists_Win" (CT "24") (T "47")
+L 06/07/2020 - 16:55:40: World triggered "Round_End"
+L 06/07/2020 - 16:55:45: World triggered "Round_Start"
+L 06/07/2020 - 16:55:47: "Cristiano<596><STEAM_0:0:1465890162><CT>" say_team "dan dhik theke aasche"
+L 06/07/2020 - 16:55:55: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 16:55:58: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "m4a1"
+L 06/07/2020 - 16:55:58: Team "TERRORIST" triggered "Terrorists_Win" (CT "24") (T "48")
+L 06/07/2020 - 16:55:58: World triggered "Round_End"
+L 06/07/2020 - 16:56:03: World triggered "Round_Start"
+L 06/07/2020 - 16:56:12: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 06/07/2020 - 16:56:17: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "m4a1"
+L 06/07/2020 - 16:56:20: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 16:56:20: Team "TERRORIST" triggered "Terrorists_Win" (CT "24") (T "49")
+L 06/07/2020 - 16:56:20: World triggered "Round_End"
+L 06/07/2020 - 16:56:25: World triggered "Round_Start"
+L 06/07/2020 - 16:56:37: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "grenade"
+L 06/07/2020 - 16:56:41: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "m4a1"
+L 06/07/2020 - 16:56:50: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 16:56:50: Team "TERRORIST" triggered "Terrorists_Win" (CT "24") (T "50")
+L 06/07/2020 - 16:56:50: World triggered "Round_End"
+L 06/07/2020 - 16:56:55: World triggered "Round_Start"
+L 06/07/2020 - 16:57:09: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 16:57:12: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "ak47"
+L 06/07/2020 - 16:57:18: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 06/07/2020 - 16:57:18: Team "CT" triggered "CTs_Win" (CT "25") (T "50")
+L 06/07/2020 - 16:57:18: World triggered "Round_End"
+L 06/07/2020 - 16:57:23: World triggered "Round_Start"
+L 06/07/2020 - 16:57:31: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 16:57:37: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/07/2020 - 16:57:37: Team "TERRORIST" triggered "Terrorists_Win" (CT "25") (T "51")
+L 06/07/2020 - 16:57:37: World triggered "Round_End"
+L 06/07/2020 - 16:57:42: World triggered "Round_Start"
+L 06/07/2020 - 16:57:55: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/07/2020 - 16:57:58: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "glock18"
+L 06/07/2020 - 16:57:58: Team "TERRORIST" triggered "Terrorists_Win" (CT "25") (T "52")
+L 06/07/2020 - 16:57:58: World triggered "Round_End"
+L 06/07/2020 - 16:58:03: World triggered "Round_Start"
+L 06/07/2020 - 16:58:07: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 16:58:16: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 06/07/2020 - 16:58:30: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/07/2020 - 16:58:30: Team "TERRORIST" triggered "Terrorists_Win" (CT "25") (T "53")
+L 06/07/2020 - 16:58:30: World triggered "Round_End"
+L 06/07/2020 - 16:58:35: World triggered "Round_Start"
+L 06/07/2020 - 16:58:42: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "grenade"
+L 06/07/2020 - 16:58:46: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "ak47"
+L 06/07/2020 - 16:58:46: Team "TERRORIST" triggered "Terrorists_Win" (CT "25") (T "54")
+L 06/07/2020 - 16:58:46: World triggered "Round_End"
+L 06/07/2020 - 16:58:51: World triggered "Round_Start"
+L 06/07/2020 - 16:59:00: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 06/07/2020 - 16:59:01: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "ak47"
+L 06/07/2020 - 16:59:05: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "ak47"
+L 06/07/2020 - 16:59:05: Team "CT" triggered "CTs_Win" (CT "26") (T "54")
+L 06/07/2020 - 16:59:05: World triggered "Round_End"
+L 06/07/2020 - 16:59:10: World triggered "Round_Start"
+L 06/07/2020 - 16:59:11: "U<598><STEAM_0:0:294118000><TERRORIST>" say "baapre"
+L 06/07/2020 - 16:59:15: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "m4a1"
+L 06/07/2020 - 16:59:21: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "m4a1"
+L 06/07/2020 - 16:59:21: Team "CT" triggered "CTs_Win" (CT "27") (T "54")
+L 06/07/2020 - 16:59:21: World triggered "Round_End"
+L 06/07/2020 - 16:59:26: World triggered "Round_Start"
+L 06/07/2020 - 16:59:35: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "m4a1"
+L 06/07/2020 - 16:59:55: [DPROTO]: Client 4 - Set AuthIdType 1 [dp_RevEmu]; pClient = 057E7088
+L 06/07/2020 - 16:59:55: "1729<599><STEAM_0:0:1921819853><>" connected, address "183.82.183.181:54559"
+L 06/07/2020 - 16:59:55: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "m4a1"
+L 06/07/2020 - 16:59:55: Team "CT" triggered "CTs_Win" (CT "28") (T "54")
+L 06/07/2020 - 16:59:55: World triggered "Round_End"
+L 06/07/2020 - 17:00:00: World triggered "Round_Start"
+L 06/07/2020 - 17:00:05: "1729<599><STEAM_0:0:1921819853><>" entered the game
+L 06/07/2020 - 17:00:09: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "ak47"
+L 06/07/2020 - 17:00:12: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:00:13: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/07/2020 - 17:00:13: Team "TERRORIST" triggered "Terrorists_Win" (CT "28") (T "55")
+L 06/07/2020 - 17:00:13: World triggered "Round_End"
+L 06/07/2020 - 17:00:18: World triggered "Round_Start"
+L 06/07/2020 - 17:00:21: "1729<599><STEAM_0:0:1921819853><>" joined team "CT"
+L 06/07/2020 - 17:00:27: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/07/2020 - 17:00:27: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 17:00:30: "1729<599><STEAM_0:0:1921819853><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:00:34: "1729<599><STEAM_0:0:1921819853><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:00:34: Team "CT" triggered "CTs_Win" (CT "29") (T "55")
+L 06/07/2020 - 17:00:34: World triggered "Round_End"
+L 06/07/2020 - 17:00:39: World triggered "Round_Start"
+L 06/07/2020 - 17:00:45: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "1729<599><STEAM_0:0:1921819853><CT>" with "aug"
+L 06/07/2020 - 17:00:51: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "m4a1"
+L 06/07/2020 - 17:01:02: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 17:01:02: Team "TERRORIST" triggered "Terrorists_Win" (CT "29") (T "56")
+L 06/07/2020 - 17:01:02: World triggered "Round_End"
+L 06/07/2020 - 17:01:07: World triggered "Round_Start"
+L 06/07/2020 - 17:01:12: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "1729<599><STEAM_0:0:1921819853><CT>" with "m4a1"
+L 06/07/2020 - 17:01:21: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 17:01:24: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "grenade"
+L 06/07/2020 - 17:01:29: [DPROTO]: Client 5 - Set AuthIdType 1 [dp_RevEmu]; pClient = 057EC0A0
+L 06/07/2020 - 17:01:29: "Berlin<600><STEAM_0:0:355901680><>" connected, address "106.209.218.14:5834"
+L 06/07/2020 - 17:01:35: "Berlin<600><STEAM_0:0:355901680><>" entered the game
+L 06/07/2020 - 17:01:38: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:01:38: Team "CT" triggered "CTs_Win" (CT "30") (T "56")
+L 06/07/2020 - 17:01:38: World triggered "Round_End"
+L 06/07/2020 - 17:01:42: "Berlin<600><STEAM_0:0:355901680><>" joined team "TERRORIST"
+L 06/07/2020 - 17:01:43: World triggered "Round_Start"
+L 06/07/2020 - 17:01:50: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:01:57: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:01:58: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Berlin<600><STEAM_0:0:355901680><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:01:58: Team "CT" triggered "CTs_Win" (CT "31") (T "56")
+L 06/07/2020 - 17:01:58: World triggered "Round_End"
+L 06/07/2020 - 17:02:03: World triggered "Round_Start"
+L 06/07/2020 - 17:02:07: "1729<599><STEAM_0:0:1921819853><CT>" killed "Berlin<600><STEAM_0:0:355901680><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:02:09: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:02:10: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "1729<599><STEAM_0:0:1921819853><CT>" with "m4a1"
+L 06/07/2020 - 17:02:32: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:02:32: Team "CT" triggered "CTs_Win" (CT "32") (T "56")
+L 06/07/2020 - 17:02:32: World triggered "Round_End"
+L 06/07/2020 - 17:02:37: World triggered "Round_Start"
+L 06/07/2020 - 17:02:41: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "1729<599><STEAM_0:0:1921819853><CT>" with "m4a1"
+L 06/07/2020 - 17:02:42: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:02:49: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:02:56: "Berlin<600><STEAM_0:0:355901680><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/07/2020 - 17:02:58: "Berlin<600><STEAM_0:0:355901680><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "ak47"
+L 06/07/2020 - 17:02:58: Team "TERRORIST" triggered "Terrorists_Win" (CT "32") (T "57")
+L 06/07/2020 - 17:02:58: World triggered "Round_End"
+L 06/07/2020 - 17:03:03: World triggered "Round_Start"
+L 06/07/2020 - 17:03:03: "U<598><STEAM_0:0:294118000><TERRORIST>" say "pagol toh"
+L 06/07/2020 - 17:03:16: "Berlin<600><STEAM_0:0:355901680><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/07/2020 - 17:03:17: "1729<599><STEAM_0:0:1921819853><CT>" killed "Berlin<600><STEAM_0:0:355901680><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:03:20: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "ak47"
+L 06/07/2020 - 17:03:23: "1729<599><STEAM_0:0:1921819853><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:03:29: "1729<599><STEAM_0:0:1921819853><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:03:29: Team "CT" triggered "CTs_Win" (CT "33") (T "57")
+L 06/07/2020 - 17:03:29: World triggered "Round_End"
+L 06/07/2020 - 17:03:34: World triggered "Round_Start"
+L 06/07/2020 - 17:03:38: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Berlin<600><STEAM_0:0:355901680><TERRORIST>" with "awp"
+L 06/07/2020 - 17:03:40: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "1729<599><STEAM_0:0:1921819853><CT>" with "m4a1"
+L 06/07/2020 - 17:03:40: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/07/2020 - 17:03:46: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 17:03:46: Team "TERRORIST" triggered "Terrorists_Win" (CT "33") (T "58")
+L 06/07/2020 - 17:03:46: World triggered "Round_End"
+L 06/07/2020 - 17:03:51: World triggered "Round_Start"
+L 06/07/2020 - 17:03:57: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "1729<599><STEAM_0:0:1921819853><CT>" with "ak47"
+L 06/07/2020 - 17:04:00: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "ak47"
+L 06/07/2020 - 17:04:01: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/07/2020 - 17:04:01: Team "TERRORIST" triggered "Terrorists_Win" (CT "33") (T "59")
+L 06/07/2020 - 17:04:01: World triggered "Round_End"
+L 06/07/2020 - 17:04:06: World triggered "Round_Start"
+L 06/07/2020 - 17:04:11: [DPROTO]: Client 9 - Set AuthIdType 1 [Native]; pClient = 05800100
+L 06/07/2020 - 17:04:11: "pRo_reVoluTion<601><STEAM_0:1:546352772><>" connected, address "223.229.162.38:27005"
+L 06/07/2020 - 17:04:11: "pRo_reVoluTion<601><STEAM_0:1:546352772><>" STEAM USERID validated
+L 06/07/2020 - 17:04:14: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "grenade"
+L 06/07/2020 - 17:04:15: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "m4a1"
+L 06/07/2020 - 17:04:16: "1729<599><STEAM_0:0:1921819853><CT>" killed "Berlin<600><STEAM_0:0:355901680><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:04:17: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "1729<599><STEAM_0:0:1921819853><CT>" with "m4a1"
+L 06/07/2020 - 17:04:17: Team "TERRORIST" triggered "Terrorists_Win" (CT "33") (T "60")
+L 06/07/2020 - 17:04:17: World triggered "Round_End"
+L 06/07/2020 - 17:04:18: "pRo_reVoluTion<601><STEAM_0:1:546352772><>" entered the game
+L 06/07/2020 - 17:04:22: World triggered "Round_Start"
+L 06/07/2020 - 17:04:26: "pRo_reVoluTion<601><STEAM_0:1:546352772><>" joined team "TERRORIST"
+L 06/07/2020 - 17:04:27: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "1729<599><STEAM_0:0:1921819853><CT>" with "awp"
+L 06/07/2020 - 17:04:27: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:04:34: "Berlin<600><STEAM_0:0:355901680><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/07/2020 - 17:04:36: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "glock18"
+L 06/07/2020 - 17:04:36: Team "TERRORIST" triggered "Terrorists_Win" (CT "33") (T "61")
+L 06/07/2020 - 17:04:36: World triggered "Round_End"
+L 06/07/2020 - 17:04:41: World triggered "Round_Start"
+L 06/07/2020 - 17:04:49: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "pRo_reVoluTion<601><STEAM_0:1:546352772><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:04:51: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "ak47"
+L 06/07/2020 - 17:04:54: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:04:54: "Berlin<600><STEAM_0:0:355901680><TERRORIST>" killed "1729<599><STEAM_0:0:1921819853><CT>" with "ak47"
+L 06/07/2020 - 17:04:55: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Berlin<600><STEAM_0:0:355901680><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:04:55: "pRo_reVoluTion<601><STEAM_0:1:546352772><TERRORIST>" joined team "SPECTATOR"
+L 06/07/2020 - 17:05:03: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/07/2020 - 17:05:03: Team "TERRORIST" triggered "Terrorists_Win" (CT "33") (T "62")
+L 06/07/2020 - 17:05:03: World triggered "Round_End"
+L 06/07/2020 - 17:05:08: World triggered "Round_Start"
+L 06/07/2020 - 17:05:14: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:05:14: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/07/2020 - 17:05:17: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "Berlin<600><STEAM_0:0:355901680><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:05:29: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:05:29: Team "CT" triggered "CTs_Win" (CT "34") (T "62")
+L 06/07/2020 - 17:05:29: World triggered "Round_End"
+L 06/07/2020 - 17:05:34: World triggered "Round_Start"
+L 06/07/2020 - 17:05:40: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "1729<599><STEAM_0:0:1921819853><CT>" with "awp"
+L 06/07/2020 - 17:05:47: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "awp"
+L 06/07/2020 - 17:05:53: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:05:56: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Berlin<600><STEAM_0:0:355901680><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:06:07: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:06:07: Team "CT" triggered "CTs_Win" (CT "35") (T "62")
+L 06/07/2020 - 17:06:07: World triggered "Round_End"
+L 06/07/2020 - 17:06:11: "Cristiano<596><STEAM_0:0:1465890162><CT>" say "n1" (dead)
+L 06/07/2020 - 17:06:12: World triggered "Round_Start"
+L 06/07/2020 - 17:06:19: "Berlin<600><STEAM_0:0:355901680><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 17:06:23: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Berlin<600><STEAM_0:0:355901680><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:06:27: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:06:30: "1729<599><STEAM_0:0:1921819853><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "awp"
+L 06/07/2020 - 17:06:30: Team "CT" triggered "CTs_Win" (CT "36") (T "62")
+L 06/07/2020 - 17:06:30: World triggered "Round_End"
+L 06/07/2020 - 17:06:35: World triggered "Round_Start"
+L 06/07/2020 - 17:06:45: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Berlin<600><STEAM_0:0:355901680><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:06:47: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/07/2020 - 17:06:49: "1729<599><STEAM_0:0:1921819853><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "awp"
+L 06/07/2020 - 17:07:06: "1729<599><STEAM_0:0:1921819853><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "awp"
+L 06/07/2020 - 17:07:06: Team "CT" triggered "CTs_Win" (CT "37") (T "62")
+L 06/07/2020 - 17:07:06: World triggered "Round_End"
+L 06/07/2020 - 17:07:11: World triggered "Round_Start"
+L 06/07/2020 - 17:07:14: "1729<599><STEAM_0:0:1921819853><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "awp"
+L 06/07/2020 - 17:07:21: "1729<599><STEAM_0:0:1921819853><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "awp"
+L 06/07/2020 - 17:07:27: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Berlin<600><STEAM_0:0:355901680><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:07:27: Team "CT" triggered "CTs_Win" (CT "38") (T "62")
+L 06/07/2020 - 17:07:27: World triggered "Round_End"
+L 06/07/2020 - 17:07:32: World triggered "Round_Start"
+L 06/07/2020 - 17:07:32: "U<598><STEAM_0:0:294118000><TERRORIST>" say "ota ke re 1729?"
+L 06/07/2020 - 17:07:38: "1729<599><STEAM_0:0:1921819853><CT>" killed "Berlin<600><STEAM_0:0:355901680><TERRORIST>" with "awp"
+L 06/07/2020 - 17:07:40: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "ak47"
+L 06/07/2020 - 17:07:41: "Berlin<600><STEAM_0:0:355901680><TERRORIST>" say_team "arpan" (dead)
+L 06/07/2020 - 17:07:43: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:07:43: "Cristiano<596><STEAM_0:0:1465890162><CT>" say "major hob" (dead)
+L 06/07/2020 - 17:07:53: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/07/2020 - 17:07:54: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "grenade"
+L 06/07/2020 - 17:07:54: Team "CT" triggered "CTs_Win" (CT "39") (T "62")
+L 06/07/2020 - 17:07:54: World triggered "Round_End"
+L 06/07/2020 - 17:07:59: World triggered "Round_Start"
+L 06/07/2020 - 17:08:00: "1729<599><STEAM_0:0:1921819853><CT>" say "tomar captain"
+L 06/07/2020 - 17:08:01: "Cristiano<596><STEAM_0:0:1465890162><CT>" say "major  1729"
+L 06/07/2020 - 17:08:10: "1729<599><STEAM_0:0:1921819853><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "awp"
+L 06/07/2020 - 17:08:10: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "m4a1"
+L 06/07/2020 - 17:08:18: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 17:08:22: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "1729<599><STEAM_0:0:1921819853><CT>" with "m4a1"
+L 06/07/2020 - 17:08:22: Team "TERRORIST" triggered "Terrorists_Win" (CT "39") (T "63")
+L 06/07/2020 - 17:08:22: World triggered "Round_End"
+L 06/07/2020 - 17:08:27: World triggered "Round_Start"
+L 06/07/2020 - 17:08:36: "1729<599><STEAM_0:0:1921819853><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:08:39: "Berlin<600><STEAM_0:0:355901680><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/07/2020 - 17:08:42: "Berlin<600><STEAM_0:0:355901680><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "ak47"
+L 06/07/2020 - 17:08:51: "Berlin<600><STEAM_0:0:355901680><TERRORIST>" killed "1729<599><STEAM_0:0:1921819853><CT>" with "ak47"
+L 06/07/2020 - 17:08:51: Team "TERRORIST" triggered "Terrorists_Win" (CT "39") (T "64")
+L 06/07/2020 - 17:08:51: World triggered "Round_End"
+L 06/07/2020 - 17:08:56: World triggered "Round_Start"
+L 06/07/2020 - 17:08:59: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:09:06: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "1729<599><STEAM_0:0:1921819853><CT>" with "m4a1"
+L 06/07/2020 - 17:09:06: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "m4a1"
+L 06/07/2020 - 17:09:16: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 17:09:16: Team "TERRORIST" triggered "Terrorists_Win" (CT "39") (T "65")
+L 06/07/2020 - 17:09:16: World triggered "Round_End"
+L 06/07/2020 - 17:09:21: World triggered "Round_Start"
+L 06/07/2020 - 17:09:29: "1729<599><STEAM_0:0:1921819853><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "awp"
+L 06/07/2020 - 17:09:32: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "1729<599><STEAM_0:0:1921819853><CT>" with "m4a1"
+L 06/07/2020 - 17:09:33: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 17:09:48: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Berlin<600><STEAM_0:0:355901680><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:09:49: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:09:49: Team "CT" triggered "CTs_Win" (CT "40") (T "65")
+L 06/07/2020 - 17:09:49: World triggered "Round_End"
+L 06/07/2020 - 17:09:54: World triggered "Round_Start"
+L 06/07/2020 - 17:10:12: "Berlin<600><STEAM_0:0:355901680><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/07/2020 - 17:10:16: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "ak47"
+L 06/07/2020 - 17:10:16: "1729<599><STEAM_0:0:1921819853><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:10:22: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "1729<599><STEAM_0:0:1921819853><CT>" with "ak47"
+L 06/07/2020 - 17:10:22: Team "TERRORIST" triggered "Terrorists_Win" (CT "40") (T "66")
+L 06/07/2020 - 17:10:22: World triggered "Round_End"
+L 06/07/2020 - 17:10:27: World triggered "Round_Start"
+L 06/07/2020 - 17:10:32: "Berlin<600><STEAM_0:0:355901680><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/07/2020 - 17:10:33: "1729<599><STEAM_0:0:1921819853><CT>" killed "Berlin<600><STEAM_0:0:355901680><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:10:35: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "ak47"
+L 06/07/2020 - 17:10:40: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "1729<599><STEAM_0:0:1921819853><CT>" with "ak47"
+L 06/07/2020 - 17:10:40: Team "TERRORIST" triggered "Terrorists_Win" (CT "40") (T "67")
+L 06/07/2020 - 17:10:40: World triggered "Round_End"
+L 06/07/2020 - 17:10:45: World triggered "Round_Start"
+L 06/07/2020 - 17:10:52: "1729<599><STEAM_0:0:1921819853><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:10:56: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:11:05: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Berlin<600><STEAM_0:0:355901680><TERRORIST>" with "usp"
+L 06/07/2020 - 17:11:05: Team "CT" triggered "CTs_Win" (CT "41") (T "67")
+L 06/07/2020 - 17:11:05: World triggered "Round_End"
+L 06/07/2020 - 17:11:10: World triggered "Round_Start"
+L 06/07/2020 - 17:11:14: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Berlin<600><STEAM_0:0:355901680><TERRORIST>" with "grenade"
+L 06/07/2020 - 17:11:16: "1729<599><STEAM_0:0:1921819853><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:11:19: "1729<599><STEAM_0:0:1921819853><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:11:19: Team "CT" triggered "CTs_Win" (CT "42") (T "67")
+L 06/07/2020 - 17:11:19: World triggered "Round_End"
+L 06/07/2020 - 17:11:24: World triggered "Round_Start"
+L 06/07/2020 - 17:11:28: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 17:11:30: "1729<599><STEAM_0:0:1921819853><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:11:34: "Berlin<600><STEAM_0:0:355901680><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "m4a1"
+L 06/07/2020 - 17:11:35: "1729<599><STEAM_0:0:1921819853><CT>" killed "Berlin<600><STEAM_0:0:355901680><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:11:49: "1729<599><STEAM_0:0:1921819853><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:11:49: Team "CT" triggered "CTs_Win" (CT "43") (T "67")
+L 06/07/2020 - 17:11:49: World triggered "Round_End"
+L 06/07/2020 - 17:11:52: "pRo_reVoluTion<601><STEAM_0:1:546352772><SPECTATOR>" joined team "CT"
+L 06/07/2020 - 17:11:54: World triggered "Round_Start"
+L 06/07/2020 - 17:11:57: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "1729<599><STEAM_0:0:1921819853><CT>" with "m4a1"
+L 06/07/2020 - 17:11:59: "Berlin<600><STEAM_0:0:355901680><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "m4a1"
+L 06/07/2020 - 17:12:04: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 17:12:06: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" with "m4a1"
+L 06/07/2020 - 17:12:06: Team "TERRORIST" triggered "Terrorists_Win" (CT "43") (T "68")
+L 06/07/2020 - 17:12:06: World triggered "Round_End"
+L 06/07/2020 - 17:12:11: World triggered "Round_Start"
+L 06/07/2020 - 17:12:20: "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:12:24: "Berlin<600><STEAM_0:0:355901680><TERRORIST>" killed "1729<599><STEAM_0:0:1921819853><CT>" with "ak47"
+L 06/07/2020 - 17:12:27: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Berlin<600><STEAM_0:0:355901680><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:12:32: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" with "awp"
+L 06/07/2020 - 17:12:40: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:12:40: Team "CT" triggered "CTs_Win" (CT "44") (T "68")
+L 06/07/2020 - 17:12:40: World triggered "Round_End"
+L 06/07/2020 - 17:12:46: World triggered "Round_Start"
+L 06/07/2020 - 17:12:49: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "1729<599><STEAM_0:0:1921819853><CT>" with "awp"
+L 06/07/2020 - 17:12:57: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:13:00: "Berlin<600><STEAM_0:0:355901680><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "ak47"
+L 06/07/2020 - 17:13:00: "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" killed "Berlin<600><STEAM_0:0:355901680><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:13:02: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:13:02: Team "CT" triggered "CTs_Win" (CT "45") (T "68")
+L 06/07/2020 - 17:13:02: World triggered "Round_End"
+L 06/07/2020 - 17:13:07: World triggered "Round_Start"
+L 06/07/2020 - 17:13:13: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "awp"
+L 06/07/2020 - 17:13:14: "Berlin<600><STEAM_0:0:355901680><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "ak47"
+L 06/07/2020 - 17:13:24: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Berlin<600><STEAM_0:0:355901680><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:13:25: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/07/2020 - 17:13:28: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "1729<599><STEAM_0:0:1921819853><CT>" with "m4a1"
+L 06/07/2020 - 17:13:39: "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:13:39: Team "CT" triggered "CTs_Win" (CT "46") (T "68")
+L 06/07/2020 - 17:13:39: World triggered "Round_End"
+L 06/07/2020 - 17:13:44: World triggered "Round_Start"
+L 06/07/2020 - 17:13:44: "Cristiano<596><STEAM_0:0:1465890162><CT>" say "PROO"
+L 06/07/2020 - 17:13:48: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "m4a1"
+L 06/07/2020 - 17:13:51: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 17:13:51: "1729<599><STEAM_0:0:1921819853><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:13:55: "Berlin<600><STEAM_0:0:355901680><TERRORIST>" killed "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" with "m4a1"
+L 06/07/2020 - 17:13:57: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "1729<599><STEAM_0:0:1921819853><CT>" with "m4a1"
+L 06/07/2020 - 17:13:57: Team "TERRORIST" triggered "Terrorists_Win" (CT "46") (T "69")
+L 06/07/2020 - 17:13:57: World triggered "Round_End"
+L 06/07/2020 - 17:14:02: World triggered "Round_Start"
+L 06/07/2020 - 17:14:06: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "m4a1"
+L 06/07/2020 - 17:14:10: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" committed suicide with "grenade"
+L 06/07/2020 - 17:14:10: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "Berlin<600><STEAM_0:0:355901680><TERRORIST>" with "awp"
+L 06/07/2020 - 17:14:11: "1729<599><STEAM_0:0:1921819853><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:14:11: Team "CT" triggered "CTs_Win" (CT "47") (T "69")
+L 06/07/2020 - 17:14:11: World triggered "Round_End"
+L 06/07/2020 - 17:14:16: World triggered "Round_Start"
+L 06/07/2020 - 17:14:19: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "ak47"
+L 06/07/2020 - 17:14:24: "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" killed "Berlin<600><STEAM_0:0:355901680><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:14:28: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/07/2020 - 17:14:32: "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:14:35: "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:14:35: Team "CT" triggered "CTs_Win" (CT "48") (T "69")
+L 06/07/2020 - 17:14:35: World triggered "Round_End"
+L 06/07/2020 - 17:14:40: World triggered "Round_Start"
+L 06/07/2020 - 17:14:49: "1729<599><STEAM_0:0:1921819853><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "grenade"
+L 06/07/2020 - 17:14:54: "1729<599><STEAM_0:0:1921819853><CT>" killed "Berlin<600><STEAM_0:0:355901680><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:14:57: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "awp"
+L 06/07/2020 - 17:15:05: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "awp"
+L 06/07/2020 - 17:15:07: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "1729<599><STEAM_0:0:1921819853><CT>" with "awp"
+L 06/07/2020 - 17:15:12: "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:15:12: Team "CT" triggered "CTs_Win" (CT "49") (T "69")
+L 06/07/2020 - 17:15:12: World triggered "Round_End"
+L 06/07/2020 - 17:15:15: "Berlin<600><STEAM_0:0:355901680><TERRORIST>" say "pagol pagol U" (dead)
+L 06/07/2020 - 17:15:17: World triggered "Round_Start"
+L 06/07/2020 - 17:15:17: "U<598><STEAM_0:0:294118000><TERRORIST>" say "LOL"
+L 06/07/2020 - 17:15:17: "Achillies<597><STEAM_0:0:1663171942><CT>" say "hard luck arpan"
+L 06/07/2020 - 17:15:23: "Berlin<600><STEAM_0:0:355901680><TERRORIST>" say "aaj U er phada katbe mone hochhe"
+L 06/07/2020 - 17:15:24: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:15:29: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "Berlin<600><STEAM_0:0:355901680><TERRORIST>" with "awp"
+L 06/07/2020 - 17:15:39: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/07/2020 - 17:15:46: "1729<599><STEAM_0:0:1921819853><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:15:46: Team "CT" triggered "CTs_Win" (CT "50") (T "69")
+L 06/07/2020 - 17:15:46: World triggered "Round_End"
+L 06/07/2020 - 17:15:51: World triggered "Round_Start"
+L 06/07/2020 - 17:15:59: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "m4a1"
+L 06/07/2020 - 17:16:00: "1729<599><STEAM_0:0:1921819853><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:16:01: "Berlin<600><STEAM_0:0:355901680><TERRORIST>" killed "1729<599><STEAM_0:0:1921819853><CT>" with "ak47"
+L 06/07/2020 - 17:16:13: "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:16:19: "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" killed "Berlin<600><STEAM_0:0:355901680><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:16:19: Team "CT" triggered "CTs_Win" (CT "51") (T "69")
+L 06/07/2020 - 17:16:19: World triggered "Round_End"
+L 06/07/2020 - 17:16:24: World triggered "Round_Start"
+L 06/07/2020 - 17:16:26: "U<598><STEAM_0:0:294118000><TERRORIST>" say "BHAI KHELA SURU HOK PLEASE"
+L 06/07/2020 - 17:16:30: "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" killed "Berlin<600><STEAM_0:0:355901680><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:16:35: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 17:16:36: "1729<599><STEAM_0:0:1921819853><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:16:42: "1729<599><STEAM_0:0:1921819853><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:16:42: Team "CT" triggered "CTs_Win" (CT "52") (T "69")
+L 06/07/2020 - 17:16:42: World triggered "Round_End"
+L 06/07/2020 - 17:16:47: World triggered "Round_Start"
+L 06/07/2020 - 17:16:52: "1729<599><STEAM_0:0:1921819853><CT>" killed "Berlin<600><STEAM_0:0:355901680><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:16:58: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "1729<599><STEAM_0:0:1921819853><CT>" with "ak47"
+L 06/07/2020 - 17:17:04: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:17:10: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "awp"
+L 06/07/2020 - 17:17:10: Team "CT" triggered "CTs_Win" (CT "53") (T "69")
+L 06/07/2020 - 17:17:10: World triggered "Round_End"
+L 06/07/2020 - 17:17:15: World triggered "Round_Start"
+L 06/07/2020 - 17:17:20: "Berlin<600><STEAM_0:0:355901680><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "awp"
+L 06/07/2020 - 17:17:21: "1729<599><STEAM_0:0:1921819853><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:17:23: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "awp"
+L 06/07/2020 - 17:17:23: "1729<599><STEAM_0:0:1921819853><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:17:48: "Berlin<600><STEAM_0:0:355901680><TERRORIST>" killed "1729<599><STEAM_0:0:1921819853><CT>" with "m4a1"
+L 06/07/2020 - 17:17:54: "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" killed "Berlin<600><STEAM_0:0:355901680><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:17:54: Team "CT" triggered "CTs_Win" (CT "54") (T "69")
+L 06/07/2020 - 17:17:54: World triggered "Round_End"
+L 06/07/2020 - 17:17:59: World triggered "Round_Start"
+L 06/07/2020 - 17:18:04: "1729<599><STEAM_0:0:1921819853><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:18:09: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "awp"
+L 06/07/2020 - 17:18:23: "Berlin<600><STEAM_0:0:355901680><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/07/2020 - 17:18:30: "1729<599><STEAM_0:0:1921819853><CT>" killed "Berlin<600><STEAM_0:0:355901680><TERRORIST>" with "knife"
+L 06/07/2020 - 17:18:30: Team "CT" triggered "CTs_Win" (CT "55") (T "69")
+L 06/07/2020 - 17:18:30: World triggered "Round_End"
+L 06/07/2020 - 17:18:35: World triggered "Round_Start"
+L 06/07/2020 - 17:18:40: "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" killed "Berlin<600><STEAM_0:0:355901680><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:18:41: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "m4a1"
+L 06/07/2020 - 17:18:42: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "1729<599><STEAM_0:0:1921819853><CT>" with "m4a1"
+L 06/07/2020 - 17:18:44: "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:18:48: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "awp"
+L 06/07/2020 - 17:18:48: Team "CT" triggered "CTs_Win" (CT "56") (T "69")
+L 06/07/2020 - 17:18:48: World triggered "Round_End"
+L 06/07/2020 - 17:18:53: World triggered "Round_Start"
+L 06/07/2020 - 17:18:57: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "awp"
+L 06/07/2020 - 17:18:58: "1729<599><STEAM_0:0:1921819853><CT>" killed "Berlin<600><STEAM_0:0:355901680><TERRORIST>" with "awp"
+L 06/07/2020 - 17:19:07: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 17:19:20: "1729<599><STEAM_0:0:1921819853><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "usp"
+L 06/07/2020 - 17:19:20: Team "CT" triggered "CTs_Win" (CT "57") (T "69")
+L 06/07/2020 - 17:19:20: World triggered "Round_End"
+L 06/07/2020 - 17:19:25: World triggered "Round_Start"
+L 06/07/2020 - 17:19:35: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 17:19:35: "1729<599><STEAM_0:0:1921819853><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "awp"
+L 06/07/2020 - 17:19:45: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" with "m4a1"
+L 06/07/2020 - 17:20:05: "Berlin<600><STEAM_0:0:355901680><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/07/2020 - 17:20:06: "1729<599><STEAM_0:0:1921819853><CT>" killed "Berlin<600><STEAM_0:0:355901680><TERRORIST>" with "awp"
+L 06/07/2020 - 17:20:13: "1729<599><STEAM_0:0:1921819853><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:20:13: Team "CT" triggered "CTs_Win" (CT "58") (T "69")
+L 06/07/2020 - 17:20:13: World triggered "Round_End"
+L 06/07/2020 - 17:20:18: World triggered "Round_Start"
+L 06/07/2020 - 17:20:21: "1729<599><STEAM_0:0:1921819853><CT>" killed "Berlin<600><STEAM_0:0:355901680><TERRORIST>" with "awp"
+L 06/07/2020 - 17:20:26: "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:20:27: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:20:27: Team "CT" triggered "CTs_Win" (CT "59") (T "69")
+L 06/07/2020 - 17:20:27: World triggered "Round_End"
+L 06/07/2020 - 17:20:32: World triggered "Round_Start"
+L 06/07/2020 - 17:20:38: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "awp"
+L 06/07/2020 - 17:20:44: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "1729<599><STEAM_0:0:1921819853><CT>" with "ak47"
+L 06/07/2020 - 17:20:46: [DPROTO]: Client 6 - Set AuthIdType 1 [Native]; pClient = 057F10B8
+L 06/07/2020 - 17:20:46: "J<602><STEAM_0:0:60684219><>" connected, address "137.132.220.30:27005"
+L 06/07/2020 - 17:20:46: "J<602><STEAM_0:0:60684219><>" STEAM USERID validated
+L 06/07/2020 - 17:20:55: "J<602><STEAM_0:0:60684219><>" entered the game
+L 06/07/2020 - 17:21:00: "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:21:06: [DPROTO]: Client 7 - Set AuthIdType 1 [Native]; pClient = 057F60D0
+L 06/07/2020 - 17:21:06: "no sound<603><STEAM_0:0:65740571><>" connected, address "106.51.105.216:19934"
+L 06/07/2020 - 17:21:06: "no sound<603><STEAM_0:0:65740571><>" STEAM USERID validated
+L 06/07/2020 - 17:21:11: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" with "awp"
+L 06/07/2020 - 17:21:12: "no sound<603><STEAM_0:0:65740571><>" entered the game
+L 06/07/2020 - 17:21:20: "Berlin<600><STEAM_0:0:355901680><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/07/2020 - 17:21:20: Team "TERRORIST" triggered "Terrorists_Win" (CT "59") (T "70")
+L 06/07/2020 - 17:21:20: World triggered "Round_End"
+L 06/07/2020 - 17:21:22: "no sound<603><STEAM_0:0:65740571><>" joined team "TERRORIST"
+L 06/07/2020 - 17:21:25: World triggered "Round_Start"
+L 06/07/2020 - 17:21:33: "Berlin<600><STEAM_0:0:355901680><TERRORIST>" killed "1729<599><STEAM_0:0:1921819853><CT>" with "ak47"
+L 06/07/2020 - 17:21:33: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:21:36: "no sound<603><STEAM_0:0:65740571><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "ak47"
+L 06/07/2020 - 17:21:37: "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" killed "Berlin<600><STEAM_0:0:355901680><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:21:40: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" with "awp"
+L 06/07/2020 - 17:21:40: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:21:48: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "no sound<603><STEAM_0:0:65740571><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:21:48: Team "CT" triggered "CTs_Win" (CT "60") (T "70")
+L 06/07/2020 - 17:21:48: World triggered "Round_End"
+L 06/07/2020 - 17:21:53: World triggered "Round_Start"
+L 06/07/2020 - 17:21:58: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/07/2020 - 17:22:00: "no sound<603><STEAM_0:0:65740571><TERRORIST>" killed "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" with "m4a1"
+L 06/07/2020 - 17:22:12: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "ak47"
+L 06/07/2020 - 17:22:16: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "1729<599><STEAM_0:0:1921819853><CT>" with "awp"
+L 06/07/2020 - 17:22:16: Team "TERRORIST" triggered "Terrorists_Win" (CT "60") (T "71")
+L 06/07/2020 - 17:22:16: World triggered "Round_End"
+L 06/07/2020 - 17:22:21: World triggered "Round_Start"
+L 06/07/2020 - 17:22:25: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "1729<599><STEAM_0:0:1921819853><CT>" with "awp"
+L 06/07/2020 - 17:22:31: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:22:36: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:22:38: "no sound<603><STEAM_0:0:65740571><TERRORIST>" killed "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" with "m4a1"
+L 06/07/2020 - 17:22:56: "no sound<603><STEAM_0:0:65740571><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 17:22:58: "Berlin<600><STEAM_0:0:355901680><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/07/2020 - 17:22:58: Team "TERRORIST" triggered "Terrorists_Win" (CT "60") (T "72")
+L 06/07/2020 - 17:22:58: World triggered "Round_End"
+L 06/07/2020 - 17:23:03: World triggered "Round_Start"
+L 06/07/2020 - 17:23:09: "no sound<603><STEAM_0:0:65740571><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "m4a1"
+L 06/07/2020 - 17:23:11: "1729<599><STEAM_0:0:1921819853><CT>" killed "no sound<603><STEAM_0:0:65740571><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:23:14: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" with "awp"
+L 06/07/2020 - 17:23:18: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "xm1014"
+L 06/07/2020 - 17:23:21: "Berlin<600><STEAM_0:0:355901680><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "ak47"
+L 06/07/2020 - 17:23:29: "1729<599><STEAM_0:0:1921819853><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:23:29: "Berlin<600><STEAM_0:0:355901680><TERRORIST>" killed "1729<599><STEAM_0:0:1921819853><CT>" with "ak47"
+L 06/07/2020 - 17:23:29: Team "TERRORIST" triggered "Terrorists_Win" (CT "60") (T "73")
+L 06/07/2020 - 17:23:29: World triggered "Round_End"
+L 06/07/2020 - 17:23:33: "J<602><STEAM_0:0:60684219><>" joined team "CT"
+L 06/07/2020 - 17:23:34: World triggered "Round_Start"
+L 06/07/2020 - 17:23:40: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "m4a1"
+L 06/07/2020 - 17:23:43: "Berlin<600><STEAM_0:0:355901680><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "ak47"
+L 06/07/2020 - 17:23:46: "no sound<603><STEAM_0:0:65740571><TERRORIST>" killed "1729<599><STEAM_0:0:1921819853><CT>" with "m4a1"
+L 06/07/2020 - 17:23:47: "U<598><STEAM_0:0:294118000><TERRORIST>" killed "J<602><STEAM_0:0:60684219><CT>" with "grenade"
+L 06/07/2020 - 17:23:47: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" with "m4a1"
+L 06/07/2020 - 17:23:47: Team "TERRORIST" triggered "Terrorists_Win" (CT "60") (T "74")
+L 06/07/2020 - 17:23:47: World triggered "Round_End"
+L 06/07/2020 - 17:23:51: [DPROTO]: Client 8 - Set AuthIdType 1 [dp_RevEmu]; pClient = 057FB0E8
+L 06/07/2020 - 17:23:51: "Ata Gachhe Tota Pakhi<604><STEAM_0:0:559308928><>" connected, address "202.142.99.154:45431"
+L 06/07/2020 - 17:23:52: World triggered "Round_Start"
+L 06/07/2020 - 17:23:57: "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" killed "U<598><STEAM_0:0:294118000><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:23:58: "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:24:01: "U<598><STEAM_0:0:294118000><TERRORIST>" joined team "SPECTATOR"
+L 06/07/2020 - 17:24:05: "1729<599><STEAM_0:0:1921819853><CT>" killed "Berlin<600><STEAM_0:0:355901680><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:24:05: "no sound<603><STEAM_0:0:65740571><TERRORIST>" killed "J<602><STEAM_0:0:60684219><CT>" with "m4a1"
+L 06/07/2020 - 17:24:05: "Ata Gachhe Tota Pakhi<604><STEAM_0:0:559308928><>" entered the game
+L 06/07/2020 - 17:24:11: "no sound<603><STEAM_0:0:65740571><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 17:24:12: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "no sound<603><STEAM_0:0:65740571><TERRORIST>" with "xm1014"
+L 06/07/2020 - 17:24:12: Team "CT" triggered "CTs_Win" (CT "61") (T "74")
+L 06/07/2020 - 17:24:12: World triggered "Round_End"
+L 06/07/2020 - 17:24:17: World triggered "Round_Start"
+L 06/07/2020 - 17:24:21: "Ata Gachhe Tota Pakhi<604><STEAM_0:0:559308928><>" joined team "TERRORIST"
+L 06/07/2020 - 17:24:24: "J<602><STEAM_0:0:60684219><CT>" killed "Berlin<600><STEAM_0:0:355901680><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:24:25: "no sound<603><STEAM_0:0:65740571><TERRORIST>" killed "1729<599><STEAM_0:0:1921819853><CT>" with "ak47"
+L 06/07/2020 - 17:24:30: "no sound<603><STEAM_0:0:65740571><TERRORIST>" killed "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" with "ak47"
+L 06/07/2020 - 17:24:38: "no sound<603><STEAM_0:0:65740571><TERRORIST>" killed "J<602><STEAM_0:0:60684219><CT>" with "m4a1"
+L 06/07/2020 - 17:24:39: "no sound<603><STEAM_0:0:65740571><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "m4a1"
+L 06/07/2020 - 17:24:39: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "no sound<603><STEAM_0:0:65740571><TERRORIST>" with "awp"
+L 06/07/2020 - 17:24:42: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "Ata Gachhe Tota Pakhi<604><STEAM_0:0:559308928><TERRORIST>" with "awp"
+L 06/07/2020 - 17:24:46: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "awp"
+L 06/07/2020 - 17:24:46: Team "CT" triggered "CTs_Win" (CT "62") (T "74")
+L 06/07/2020 - 17:24:46: World triggered "Round_End"
+L 06/07/2020 - 17:24:50: "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" say_team "uff" (dead)
+L 06/07/2020 - 17:24:51: World triggered "Round_Start"
+L 06/07/2020 - 17:24:53: "no sound<603><STEAM_0:0:65740571><TERRORIST>" say "g.o.a.t"
+L 06/07/2020 - 17:24:58: "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" killed "Berlin<600><STEAM_0:0:355901680><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:24:59: "Ata Gachhe Tota Pakhi<604><STEAM_0:0:559308928><TERRORIST>" killed "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" with "m4a1"
+L 06/07/2020 - 17:25:04: "Ata Gachhe Tota Pakhi<604><STEAM_0:0:559308928><TERRORIST>" killed "J<602><STEAM_0:0:60684219><CT>" with "m4a1"
+L 06/07/2020 - 17:25:08: "Berlin<600><STEAM_0:0:355901680><TERRORIST>" joined team "SPECTATOR"
+L 06/07/2020 - 17:25:09: "Achillies<597><STEAM_0:0:1663171942><CT>" killed "no sound<603><STEAM_0:0:65740571><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:25:10: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "awp"
+L 06/07/2020 - 17:25:17: "1729<599><STEAM_0:0:1921819853><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:25:21: "Ata Gachhe Tota Pakhi<604><STEAM_0:0:559308928><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "m4a1"
+L 06/07/2020 - 17:25:23: "1729<599><STEAM_0:0:1921819853><CT>" killed "Ata Gachhe Tota Pakhi<604><STEAM_0:0:559308928><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:25:23: Team "CT" triggered "CTs_Win" (CT "63") (T "74")
+L 06/07/2020 - 17:25:23: World triggered "Round_End"
+L 06/07/2020 - 17:25:24: "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" say_team "kokhon awp ta felte hoi sekh" (dead)
+L 06/07/2020 - 17:25:28: World triggered "Round_Start"
+L 06/07/2020 - 17:25:31: [DPROTO]: Client 10 - Set AuthIdType 1 [dp_RevEmu]; pClient = 05805118
+L 06/07/2020 - 17:25:31: "Mofo<605><STEAM_0:0:455086556><>" connected, address "137.132.220.9:27005"
+L 06/07/2020 - 17:25:34: "1729<599><STEAM_0:0:1921819853><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:25:35: "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" killed "no sound<603><STEAM_0:0:65740571><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:25:36: "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" killed "Ata Gachhe Tota Pakhi<604><STEAM_0:0:559308928><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:25:36: Team "CT" triggered "CTs_Win" (CT "64") (T "74")
+L 06/07/2020 - 17:25:36: World triggered "Round_End"
+L 06/07/2020 - 17:25:36: "Mofo<605><STEAM_0:0:455086556><>" entered the game
+L 06/07/2020 - 17:25:41: World triggered "Round_Start"
+L 06/07/2020 - 17:25:41: "Mofo<605><STEAM_0:0:455086556><>" joined team "TERRORIST"
+L 06/07/2020 - 17:25:45: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "awp"
+L 06/07/2020 - 17:25:49: "1729<599><STEAM_0:0:1921819853><CT>" killed "no sound<603><STEAM_0:0:65740571><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:25:50: "Ata Gachhe Tota Pakhi<604><STEAM_0:0:559308928><TERRORIST>" killed "1729<599><STEAM_0:0:1921819853><CT>" with "m4a1"
+L 06/07/2020 - 17:25:50: "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" killed "Mofo<605><STEAM_0:0:455086556><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:25:52: "J<602><STEAM_0:0:60684219><CT>" killed "Ata Gachhe Tota Pakhi<604><STEAM_0:0:559308928><TERRORIST>" with "usp"
+L 06/07/2020 - 17:25:52: Team "CT" triggered "CTs_Win" (CT "65") (T "74")
+L 06/07/2020 - 17:25:52: World triggered "Round_End"
+L 06/07/2020 - 17:25:55: "1729<599><STEAM_0:0:1921819853><CT>" disconnected
+L 06/07/2020 - 17:25:57: World triggered "Round_Start"
+L 06/07/2020 - 17:26:02: "J<602><STEAM_0:0:60684219><CT>" killed "Mofo<605><STEAM_0:0:455086556><TERRORIST>" with "grenade"
+L 06/07/2020 - 17:26:05: "Ata Gachhe Tota Pakhi<604><STEAM_0:0:559308928><TERRORIST>" killed "J<602><STEAM_0:0:60684219><CT>" with "m4a1"
+L 06/07/2020 - 17:26:07: "Ata Gachhe Tota Pakhi<604><STEAM_0:0:559308928><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 17:26:07: "no sound<603><STEAM_0:0:65740571><TERRORIST>" killed "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" with "ak47"
+L 06/07/2020 - 17:26:08: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/07/2020 - 17:26:08: Team "TERRORIST" triggered "Terrorists_Win" (CT "65") (T "75")
+L 06/07/2020 - 17:26:08: World triggered "Round_End"
+L 06/07/2020 - 17:26:13: World triggered "Round_Start"
+L 06/07/2020 - 17:26:19: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" with "awp"
+L 06/07/2020 - 17:26:22: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "Mofo<605><STEAM_0:0:455086556><TERRORIST>" with "awp"
+L 06/07/2020 - 17:26:24: "no sound<603><STEAM_0:0:65740571><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/07/2020 - 17:26:24: "J<602><STEAM_0:0:60684219><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:26:26: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "no sound<603><STEAM_0:0:65740571><TERRORIST>" with "awp"
+L 06/07/2020 - 17:26:26: "Ata Gachhe Tota Pakhi<604><STEAM_0:0:559308928><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 17:26:51: "Ata Gachhe Tota Pakhi<604><STEAM_0:0:559308928><TERRORIST>" killed "J<602><STEAM_0:0:60684219><CT>" with "m4a1"
+L 06/07/2020 - 17:26:52: Team "TERRORIST" triggered "Terrorists_Win" (CT "65") (T "76")
+L 06/07/2020 - 17:26:52: World triggered "Round_End"
+L 06/07/2020 - 17:26:57: World triggered "Round_Start"
+L 06/07/2020 - 17:27:06: "Ata Gachhe Tota Pakhi<604><STEAM_0:0:559308928><TERRORIST>" killed "Achillies<597><STEAM_0:0:1663171942><CT>" with "m4a1"
+L 06/07/2020 - 17:27:14: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 17:27:16: "Achillies<597><STEAM_0:0:1663171942><CT>" joined team "SPECTATOR"
+L 06/07/2020 - 17:27:18: "Ata Gachhe Tota Pakhi<604><STEAM_0:0:559308928><TERRORIST>" killed "J<602><STEAM_0:0:60684219><CT>" with "m4a1"
+L 06/07/2020 - 17:27:20: "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:27:20: "no sound<603><STEAM_0:0:65740571><TERRORIST>" killed "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" with "ak47"
+L 06/07/2020 - 17:27:20: Team "TERRORIST" triggered "Terrorists_Win" (CT "65") (T "77")
+L 06/07/2020 - 17:27:20: World triggered "Round_End"
+L 06/07/2020 - 17:27:25: World triggered "Round_Start"
+L 06/07/2020 - 17:27:33: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 17:27:38: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "J<602><STEAM_0:0:60684219><CT>" with "grenade"
+L 06/07/2020 - 17:27:44: "Ata Gachhe Tota Pakhi<604><STEAM_0:0:559308928><TERRORIST>" killed "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" with "m4a1"
+L 06/07/2020 - 17:27:44: Team "TERRORIST" triggered "Terrorists_Win" (CT "65") (T "78")
+L 06/07/2020 - 17:27:44: World triggered "Round_End"
+L 06/07/2020 - 17:27:49: World triggered "Round_Start"
+L 06/07/2020 - 17:27:56: "J<602><STEAM_0:0:60684219><CT>" killed "no sound<603><STEAM_0:0:65740571><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:28:05: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" with "m4a1"
+L 06/07/2020 - 17:28:06: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "awp"
+L 06/07/2020 - 17:28:11: "pRo_reVoluTion<601><STEAM_0:1:546352772><CT>" joined team "SPECTATOR"
+L 06/07/2020 - 17:28:14: "J<602><STEAM_0:0:60684219><CT>" killed "Ata Gachhe Tota Pakhi<604><STEAM_0:0:559308928><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:28:20: "Mofo<605><STEAM_0:0:455086556><TERRORIST>" killed "J<602><STEAM_0:0:60684219><CT>" with "xm1014"
+L 06/07/2020 - 17:28:29: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "Mofo<605><STEAM_0:0:455086556><TERRORIST>" with "mp5navy"
+L 06/07/2020 - 17:28:29: Team "CT" triggered "CTs_Win" (CT "66") (T "78")
+L 06/07/2020 - 17:28:29: World triggered "Round_End"
+L 06/07/2020 - 17:28:34: World triggered "Round_Start"
+L 06/07/2020 - 17:28:46: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "Ata Gachhe Tota Pakhi<604><STEAM_0:0:559308928><TERRORIST>" with "grenade"
+L 06/07/2020 - 17:28:48: "Mofo<605><STEAM_0:0:455086556><TERRORIST>" killed "J<602><STEAM_0:0:60684219><CT>" with "ak47"
+L 06/07/2020 - 17:28:48: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "Mofo<605><STEAM_0:0:455086556><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:28:57: "no sound<603><STEAM_0:0:65740571><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "ak47"
+L 06/07/2020 - 17:28:57: Team "TERRORIST" triggered "Terrorists_Win" (CT "66") (T "79")
+L 06/07/2020 - 17:28:57: World triggered "Round_End"
+L 06/07/2020 - 17:29:02: World triggered "Round_Start"
+L 06/07/2020 - 17:29:10: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "awp"
+L 06/07/2020 - 17:29:10: [DPROTO]: Client 4 - Set AuthIdType 1 [dp_RevEmu]; pClient = 057E7088
+L 06/07/2020 - 17:29:10: "hattori<606><STEAM_0:0:861404367><>" connected, address "165.231.253.60:27005"
+L 06/07/2020 - 17:29:17: "Mofo<605><STEAM_0:0:455086556><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 17:29:19: "J<602><STEAM_0:0:60684219><CT>" killed "Ata Gachhe Tota Pakhi<604><STEAM_0:0:559308928><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:29:20: "no sound<603><STEAM_0:0:65740571><TERRORIST>" killed "J<602><STEAM_0:0:60684219><CT>" with "ak47"
+L 06/07/2020 - 17:29:20: Team "TERRORIST" triggered "Terrorists_Win" (CT "66") (T "80")
+L 06/07/2020 - 17:29:20: World triggered "Round_End"
+L 06/07/2020 - 17:29:25: World triggered "Round_Start"
+L 06/07/2020 - 17:29:26: "Mofo<605><STEAM_0:0:455086556><TERRORIST>" committed suicide with "world"
+L 06/07/2020 - 17:29:26: "Mofo<605><STEAM_0:0:455086556><TERRORIST>" joined team "CT"
+L 06/07/2020 - 17:29:30: "hattori<606><STEAM_0:0:861404367><>" entered the game
+L 06/07/2020 - 17:29:35: "J<602><STEAM_0:0:60684219><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:29:43: "hattori<606><STEAM_0:0:861404367><>" joined team "CT"
+L 06/07/2020 - 17:29:47: "no sound<603><STEAM_0:0:65740571><TERRORIST>" killed "J<602><STEAM_0:0:60684219><CT>" with "ak47"
+L 06/07/2020 - 17:29:49: "no sound<603><STEAM_0:0:65740571><TERRORIST>" killed "hattori<606><STEAM_0:0:861404367><CT>" with "ak47"
+L 06/07/2020 - 17:29:55: "no sound<603><STEAM_0:0:65740571><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "ak47"
+L 06/07/2020 - 17:29:55: Team "TERRORIST" triggered "Terrorists_Win" (CT "66") (T "81")
+L 06/07/2020 - 17:29:55: World triggered "Round_End"
+L 06/07/2020 - 17:30:01: World triggered "Round_Start"
+L 06/07/2020 - 17:30:09: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Mofo<605><STEAM_0:0:455086556><CT>" with "ak47"
+L 06/07/2020 - 17:30:09: "J<602><STEAM_0:0:60684219><CT>" killed "Ata Gachhe Tota Pakhi<604><STEAM_0:0:559308928><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:30:14: [DPROTO]: Client 11 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0580A130
+L 06/07/2020 - 17:30:14: "(1)Ata Gachhe Tota Pakhi<607><STEAM_0:0:559308928><>" connected, address "202.142.99.154:41314"
+L 06/07/2020 - 17:30:16: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "ak47"
+L 06/07/2020 - 17:30:19: "(1)Ata Gachhe Tota Pakhi<607><STEAM_0:0:559308928><>" entered the game
+L 06/07/2020 - 17:30:21: "J<602><STEAM_0:0:60684219><CT>" killed "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:30:22: "(1)Ata Gachhe Tota Pakhi<607><STEAM_0:0:559308928><>" joined team "TERRORIST"
+L 06/07/2020 - 17:30:24: "no sound<603><STEAM_0:0:65740571><TERRORIST>" killed "J<602><STEAM_0:0:60684219><CT>" with "ak47"
+L 06/07/2020 - 17:30:28: "Last Chance U || Lag is Real<591><STEAM_0:0:83230422><TERRORIST>" disconnected
+L 06/07/2020 - 17:30:36: "J<602><STEAM_0:0:60684219><CT>" disconnected
+L 06/07/2020 - 17:30:37: "Ata Gachhe Tota Pakhi<604><STEAM_0:0:559308928><TERRORIST>" disconnected
+L 06/07/2020 - 17:30:39: "no sound<603><STEAM_0:0:65740571><TERRORIST>" killed "hattori<606><STEAM_0:0:861404367><CT>" with "knife"
+L 06/07/2020 - 17:30:39: Team "TERRORIST" triggered "Terrorists_Win" (CT "66") (T "82")
+L 06/07/2020 - 17:30:39: World triggered "Round_End"
+L 06/07/2020 - 17:30:44: World triggered "Round_Start"
+L 06/07/2020 - 17:30:53: [DPROTO]: Client 6 - Set AuthIdType 1 [Native]; pClient = 057F10B8
+L 06/07/2020 - 17:30:53: "J<608><STEAM_0:0:60684219><>" connected, address "137.132.220.30:27005"
+L 06/07/2020 - 17:30:53: "J<608><STEAM_0:0:60684219><>" STEAM USERID validated
+L 06/07/2020 - 17:30:55: "no sound<603><STEAM_0:0:65740571><TERRORIST>" disconnected
+L 06/07/2020 - 17:30:56: "J<608><STEAM_0:0:60684219><>" entered the game
+L 06/07/2020 - 17:31:01: "Cristiano<596><STEAM_0:0:1465890162><CT>" killed "(1)Ata Gachhe Tota Pakhi<607><STEAM_0:0:559308928><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:31:01: Team "CT" triggered "CTs_Win" (CT "67") (T "82")
+L 06/07/2020 - 17:31:01: World triggered "Round_End"
+L 06/07/2020 - 17:31:03: [DPROTO]: Client 7 - Set AuthIdType 1 [Native]; pClient = 057F60D0
+L 06/07/2020 - 17:31:03: "no sound<609><STEAM_0:0:65740571><>" connected, address "106.51.105.216:19934"
+L 06/07/2020 - 17:31:03: "no sound<609><STEAM_0:0:65740571><>" STEAM USERID validated
+L 06/07/2020 - 17:31:06: World triggered "Round_Start"
+L 06/07/2020 - 17:31:07: "no sound<609><STEAM_0:0:65740571><>" entered the game
+L 06/07/2020 - 17:31:10: "no sound<609><STEAM_0:0:65740571><>" joined team "SPECTATOR"
+L 06/07/2020 - 17:31:15: "(1)Ata Gachhe Tota Pakhi<607><STEAM_0:0:559308928><TERRORIST>" killed "Mofo<605><STEAM_0:0:455086556><CT>" with "m4a1"
+L 06/07/2020 - 17:31:24: "(1)Ata Gachhe Tota Pakhi<607><STEAM_0:0:559308928><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 17:31:31: "Mofo<605><STEAM_0:0:455086556><CT>" disconnected
+L 06/07/2020 - 17:31:42: "(1)Ata Gachhe Tota Pakhi<607><STEAM_0:0:559308928><TERRORIST>" killed "hattori<606><STEAM_0:0:861404367><CT>" with "knife"
+L 06/07/2020 - 17:31:43: Team "TERRORIST" triggered "Terrorists_Win" (CT "67") (T "83")
+L 06/07/2020 - 17:31:43: World triggered "Round_End"
+L 06/07/2020 - 17:31:47: "pRo_reVoluTion<601><STEAM_0:1:546352772><SPECTATOR>" joined team "TERRORIST"
+L 06/07/2020 - 17:31:48: World triggered "Round_Start"
+L 06/07/2020 - 17:31:59: "(1)Ata Gachhe Tota Pakhi<607><STEAM_0:0:559308928><TERRORIST>" killed "Cristiano<596><STEAM_0:0:1465890162><CT>" with "m4a1"
+L 06/07/2020 - 17:32:09: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_RevEmu]; pClient = 057D3028
+L 06/07/2020 - 17:32:09: "1729<610><STEAM_0:0:1921819853><>" connected, address "183.82.183.181:55813"
+L 06/07/2020 - 17:32:12: "1729<610><STEAM_0:0:1921819853><>" entered the game
+L 06/07/2020 - 17:32:25: "Cristiano<596><STEAM_0:0:1465890162><CT>" joined team "SPECTATOR"
+L 06/07/2020 - 17:32:41: "hattori<606><STEAM_0:0:861404367><CT>" killed "(1)Ata Gachhe Tota Pakhi<607><STEAM_0:0:559308928><TERRORIST>" with "usp"
+L 06/07/2020 - 17:32:41: Team "CT" triggered "CTs_Win" (CT "68") (T "83")
+L 06/07/2020 - 17:32:41: World triggered "Round_End"
+L 06/07/2020 - 17:32:41: "1729<610><STEAM_0:0:1921819853><>" joined team "TERRORIST"
+L 06/07/2020 - 17:32:46: World triggered "Round_Start"
+L 06/07/2020 - 17:32:56: "pRo_reVoluTion<601><STEAM_0:1:546352772><TERRORIST>" disconnected
+L 06/07/2020 - 17:32:57: "1729<610><STEAM_0:0:1921819853><TERRORIST>" killed "hattori<606><STEAM_0:0:861404367><CT>" with "xm1014"
+L 06/07/2020 - 17:32:57: Team "TERRORIST" triggered "Terrorists_Win" (CT "68") (T "84")
+L 06/07/2020 - 17:32:57: World triggered "Round_End"
+L 06/07/2020 - 17:33:02: [DPROTO]: Client 10 - Set AuthIdType 1 [dp_RevEmu]; pClient = 05805118
+L 06/07/2020 - 17:33:02: "Mofo<611><STEAM_0:0:455086556><>" connected, address "137.132.220.9:27005"
+L 06/07/2020 - 17:33:02: World triggered "Round_Start"
+L 06/07/2020 - 17:33:04: "Mofo<611><STEAM_0:0:455086556><>" entered the game
+L 06/07/2020 - 17:33:08: "Mofo<611><STEAM_0:0:455086556><>" joined team "CT"
+L 06/07/2020 - 17:33:26: "1729<610><STEAM_0:0:1921819853><TERRORIST>" killed "Mofo<611><STEAM_0:0:455086556><CT>" with "m4a1"
+L 06/07/2020 - 17:33:33: "Mofo<611><STEAM_0:0:455086556><CT>" say "only pistol hok" (dead)
+L 06/07/2020 - 17:33:39: "(1)Ata Gachhe Tota Pakhi<607><STEAM_0:0:559308928><TERRORIST>" killed "1729<610><STEAM_0:0:1921819853><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:33:52: "(1)Ata Gachhe Tota Pakhi<607><STEAM_0:0:559308928><TERRORIST>" killed "hattori<606><STEAM_0:0:861404367><CT>" with "m4a1"
+L 06/07/2020 - 17:33:52: Team "TERRORIST" triggered "Terrorists_Win" (CT "68") (T "85")
+L 06/07/2020 - 17:33:52: World triggered "Round_End"
+L 06/07/2020 - 17:33:53: "Mofo<611><STEAM_0:0:455086556><CT>" say "only pistol" (dead)
+L 06/07/2020 - 17:33:56: "Mofo<611><STEAM_0:0:455086556><CT>" say "only pistol" (dead)
+L 06/07/2020 - 17:33:57: World triggered "Round_Start"
+L 06/07/2020 - 17:34:03: "Mofo<611><STEAM_0:0:455086556><CT>" say "only pistol"
+L 06/07/2020 - 17:34:05: "U<598><STEAM_0:0:294118000><SPECTATOR>" joined team "CT"
+L 06/07/2020 - 17:34:09: "(1)Ata Gachhe Tota Pakhi<607><STEAM_0:0:559308928><TERRORIST>" killed "Mofo<611><STEAM_0:0:455086556><CT>" with "m4a1"
+L 06/07/2020 - 17:34:20: "(1)Ata Gachhe Tota Pakhi<607><STEAM_0:0:559308928><TERRORIST>" killed "hattori<606><STEAM_0:0:861404367><CT>" with "knife"
+L 06/07/2020 - 17:34:20: Team "TERRORIST" triggered "Terrorists_Win" (CT "68") (T "86")
+L 06/07/2020 - 17:34:20: World triggered "Round_End"
+L 06/07/2020 - 17:34:24: "1729<610><STEAM_0:0:1921819853><TERRORIST>" killed "(1)Ata Gachhe Tota Pakhi<607><STEAM_0:0:559308928><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:34:25: World triggered "Round_Start"
+L 06/07/2020 - 17:34:29: "1729<610><STEAM_0:0:1921819853><TERRORIST>" killed "(1)Ata Gachhe Tota Pakhi<607><STEAM_0:0:559308928><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:34:35: "1729<610><STEAM_0:0:1921819853><TERRORIST>" killed "U<598><STEAM_0:0:294118000><CT>" with "ak47"
+L 06/07/2020 - 17:34:42: "1729<610><STEAM_0:0:1921819853><TERRORIST>" killed "hattori<606><STEAM_0:0:861404367><CT>" with "ak47"
+L 06/07/2020 - 17:34:54: "1729<610><STEAM_0:0:1921819853><TERRORIST>" killed "Mofo<611><STEAM_0:0:455086556><CT>" with "ak47"
+L 06/07/2020 - 17:34:54: Team "TERRORIST" triggered "Terrorists_Win" (CT "68") (T "87")
+L 06/07/2020 - 17:34:54: World triggered "Round_End"
+L 06/07/2020 - 17:34:59: World triggered "Round_Start"
+L 06/07/2020 - 17:35:06: "(1)Ata Gachhe Tota Pakhi<607><STEAM_0:0:559308928><TERRORIST>" killed "1729<610><STEAM_0:0:1921819853><TERRORIST>" with "awp"
+L 06/07/2020 - 17:35:17: "Mofo<611><STEAM_0:0:455086556><CT>" killed "(1)Ata Gachhe Tota Pakhi<607><STEAM_0:0:559308928><TERRORIST>" with "xm1014"
+L 06/07/2020 - 17:35:17: Team "CT" triggered "CTs_Win" (CT "69") (T "87")
+L 06/07/2020 - 17:35:17: World triggered "Round_End"
+L 06/07/2020 - 17:35:22: World triggered "Round_Start"
+L 06/07/2020 - 17:35:30: "U<598><STEAM_0:0:294118000><CT>" killed "(1)Ata Gachhe Tota Pakhi<607><STEAM_0:0:559308928><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:35:35: "Mofo<611><STEAM_0:0:455086556><CT>" killed "1729<610><STEAM_0:0:1921819853><TERRORIST>" with "xm1014"
+L 06/07/2020 - 17:35:35: Team "CT" triggered "CTs_Win" (CT "70") (T "87")
+L 06/07/2020 - 17:35:35: World triggered "Round_End"
+L 06/07/2020 - 17:35:40: World triggered "Round_Start"
+L 06/07/2020 - 17:35:49: "1729<610><STEAM_0:0:1921819853><TERRORIST>" disconnected
+L 06/07/2020 - 17:35:50: "Mofo<611><STEAM_0:0:455086556><CT>" killed "(1)Ata Gachhe Tota Pakhi<607><STEAM_0:0:559308928><TERRORIST>" with "xm1014"
+L 06/07/2020 - 17:35:50: Team "CT" triggered "CTs_Win" (CT "71") (T "87")
+L 06/07/2020 - 17:35:50: World triggered "Round_End"
+L 06/07/2020 - 17:35:55: World triggered "Round_Start"
+L 06/07/2020 - 17:35:56: "Mofo<611><STEAM_0:0:455086556><CT>" disconnected
+L 06/07/2020 - 17:35:57: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_RevEmu]; pClient = 057D3028
+L 06/07/2020 - 17:35:57: "1729<612><STEAM_0:0:1921819853><>" connected, address "183.82.183.181:55813"
+L 06/07/2020 - 17:36:01: "1729<612><STEAM_0:0:1921819853><>" entered the game
+L 06/07/2020 - 17:36:06: "1729<612><STEAM_0:0:1921819853><>" joined team "CT"
+L 06/07/2020 - 17:36:10: "U<598><STEAM_0:0:294118000><CT>" killed "(1)Ata Gachhe Tota Pakhi<607><STEAM_0:0:559308928><TERRORIST>" with "m4a1"
+L 06/07/2020 - 17:36:10: Team "CT" triggered "CTs_Win" (CT "72") (T "87")
+L 06/07/2020 - 17:36:10: World triggered "Round_End"
+L 06/07/2020 - 17:36:13: "1729<612><STEAM_0:0:1921819853><CT>" killed "hattori<606><STEAM_0:0:861404367><CT>" with "ak47"
+L 06/07/2020 - 17:36:15: World triggered "Round_Start"
+L 06/07/2020 - 17:36:21: [DPROTO]: Client 8 - Set AuthIdType 1 [Native]; pClient = 057FB0E8
+L 06/07/2020 - 17:36:21: "STuFu<613><STEAM_0:1:147341737><>" connected, address "49.207.60.156:17893"
+L 06/07/2020 - 17:36:22: "STuFu<613><STEAM_0:1:147341737><>" STEAM USERID validated
+L 06/07/2020 - 17:36:23: "1729<612><STEAM_0:0:1921819853><CT>" killed "(1)Ata Gachhe Tota Pakhi<607><STEAM_0:0:559308928><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:36:23: Team "CT" triggered "CTs_Win" (CT "73") (T "87")
+L 06/07/2020 - 17:36:23: World triggered "Round_End"
+L 06/07/2020 - 17:36:27: "STuFu<613><STEAM_0:1:147341737><>" entered the game
+L 06/07/2020 - 17:36:28: World triggered "Round_Start"
+L 06/07/2020 - 17:36:33: "STuFu<613><STEAM_0:1:147341737><>" joined team "TERRORIST"
+L 06/07/2020 - 17:36:34: "(1)Ata Gachhe Tota Pakhi<607><STEAM_0:0:559308928><TERRORIST>" killed "U<598><STEAM_0:0:294118000><CT>" with "m4a1"
+L 06/07/2020 - 17:36:35: "1729<612><STEAM_0:0:1921819853><CT>" killed "(1)Ata Gachhe Tota Pakhi<607><STEAM_0:0:559308928><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:36:39: "U<598><STEAM_0:0:294118000><CT>" joined team "TERRORIST"
+L 06/07/2020 - 17:36:39: "1729<612><STEAM_0:0:1921819853><CT>" killed "STuFu<613><STEAM_0:1:147341737><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:36:39: Team "CT" triggered "CTs_Win" (CT "74") (T "87")
+L 06/07/2020 - 17:36:39: World triggered "Round_End"
+L 06/07/2020 - 17:36:44: World triggered "Round_Start"
+L 06/07/2020 - 17:36:48: "U<598><STEAM_0:0:294118000><TERRORIST>" committed suicide with "world"
+L 06/07/2020 - 17:36:49: "U<598><STEAM_0:0:294118000><TERRORIST>" joined team "TERRORIST"
+L 06/07/2020 - 17:36:51: "(1)Ata Gachhe Tota Pakhi<607><STEAM_0:0:559308928><TERRORIST>" killed "hattori<606><STEAM_0:0:861404367><CT>" with "m4a1"
+L 06/07/2020 - 17:37:10: "1729<612><STEAM_0:0:1921819853><CT>" killed "STuFu<613><STEAM_0:1:147341737><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:37:12: "1729<612><STEAM_0:0:1921819853><CT>" killed "(1)Ata Gachhe Tota Pakhi<607><STEAM_0:0:559308928><TERRORIST>" with "ak47"
+L 06/07/2020 - 17:37:12: Team "CT" triggered "CTs_Win" (CT "75") (T "87")
+L 06/07/2020 - 17:37:12: World triggered "Round_End"
+L 06/07/2020 - 17:37:17: World triggered "Round_Start"
+L 06/07/2020 - 17:37:20: [DPROTO]: Client 9 - Set AuthIdType 1 [Native]; pClient = 05800100
+L 06/07/2020 - 17:37:20: "Agent Felix<614><STEAM_0:1:539804210><>" connected, address "103.251.50.58:27005"
+L 06/07/2020 - 17:37:20: "Agent Felix<614><STEAM_0:1:539804210><>" STEAM USERID validated
+L 06/07/2020 - 17:37:22: Rcon: "rcon 431235593 "Lauda" changelevel de_dust2" from "49.207.60.156:17893"
+L 06/07/2020 - 17:37:22: [META] ini: Begin re-reading plugins list: g:/tcafiles/users/fkguxmko/7303/cstrike/addons/metamod/plugins.ini
+L 06/07/2020 - 17:37:22: [META] ini: Read plugin config for: AMX Mod X
+L 06/07/2020 - 17:37:22: [META] ini: Read plugin config for: dproto_EF
+L 06/07/2020 - 17:37:22: [META] ini: Finished reading plugins list: g:/tcafiles/users/fkguxmko/7303/cstrike/addons/metamod/plugins.ini; Found 2 plugins
+L 06/07/2020 - 17:37:22: [META] dll: Updating plugins...
+L 06/07/2020 - 17:37:22: [META] dll: Finished updating 5 plugins; kept 2, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 06/07/2020 - 17:37:22: "1729<612><STEAM_0:0:1921819853><CT>" disconnected
+L 06/07/2020 - 17:37:22: "Cristiano<596><STEAM_0:0:1465890162><SPECTATOR>" disconnected
+L 06/07/2020 - 17:37:22: "Achillies<597><STEAM_0:0:1663171942><SPECTATOR>" disconnected
+L 06/07/2020 - 17:37:22: "U<598><STEAM_0:0:294118000><TERRORIST>" disconnected
+L 06/07/2020 - 17:37:22: "hattori<606><STEAM_0:0:861404367><CT>" disconnected
+L 06/07/2020 - 17:37:22: "Berlin<600><STEAM_0:0:355901680><SPECTATOR>" disconnected
+L 06/07/2020 - 17:37:22: "J<608><STEAM_0:0:60684219><>" disconnected
+L 06/07/2020 - 17:37:22: "no sound<609><STEAM_0:0:65740571><SPECTATOR>" disconnected
+L 06/07/2020 - 17:37:22: "STuFu<613><STEAM_0:1:147341737><TERRORIST>" disconnected
+L 06/07/2020 - 17:37:22: "Agent Felix<614><STEAM_0:1:539804210><TERRORIST>" disconnected
+L 06/07/2020 - 17:37:22: "(1)Ata Gachhe Tota Pakhi<607><STEAM_0:0:559308928><TERRORIST>" disconnected
+L 06/07/2020 - 17:37:22: World triggered "Round_Draw" (CT "75") (T "87")
+L 06/07/2020 - 17:37:22: World triggered "Round_End"
+L 06/07/2020 - 17:37:22: Log file closed
