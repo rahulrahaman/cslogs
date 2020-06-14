@@ -1,0 +1,798 @@
+L 06/14/2020 - 16:43:44: Log file started (file "logs\L0614011.log") (game "cstrike") (version "48/1.1.2.7/8308")
+L 06/14/2020 - 16:43:44: Loading map "$2000$"
+L 06/14/2020 - 16:43:44: Server cvars start
+L 06/14/2020 - 16:43:44: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 06/14/2020 - 16:43:44: Server cvar "_tutor_debug_level" = "0"
+L 06/14/2020 - 16:43:44: Server cvar "_tutor_examine_time" = "0.5"
+L 06/14/2020 - 16:43:44: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 06/14/2020 - 16:43:44: Server cvar "_tutor_look_angle" = "10"
+L 06/14/2020 - 16:43:44: Server cvar "_tutor_look_distance" = "200"
+L 06/14/2020 - 16:43:44: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 06/14/2020 - 16:43:44: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 06/14/2020 - 16:43:44: Server cvar "_tutor_message_repeats" = "5"
+L 06/14/2020 - 16:43:44: Server cvar "_tutor_view_distance" = "1000"
+L 06/14/2020 - 16:43:44: Server cvar "allow_spectators" = "1"
+L 06/14/2020 - 16:43:44: Server cvar "amx_client_languages" = "1"
+L 06/14/2020 - 16:43:44: Server cvar "amx_language" = "en"
+L 06/14/2020 - 16:43:44: Server cvar "amx_nextmap" = "de_WESTWOOD_BIG"
+L 06/14/2020 - 16:43:44: Server cvar "amx_timeleft" = "65534:31"
+L 06/14/2020 - 16:43:44: Server cvar "amxmodx_version" = "1.8.2"
+L 06/14/2020 - 16:43:44: Server cvar "coop" = "0"
+L 06/14/2020 - 16:43:44: Server cvar "deathmatch" = "1"
+L 06/14/2020 - 16:43:44: Server cvar "decalfrequency" = "60"
+L 06/14/2020 - 16:43:44: Server cvar "dp_version" = "0.9.582"
+L 06/14/2020 - 16:43:44: Server cvar "edgefriction" = "2"
+L 06/14/2020 - 16:43:44: Server cvar "hostage_debug" = "0"
+L 06/14/2020 - 16:43:44: Server cvar "hostage_stop" = "0"
+L 06/14/2020 - 16:43:44: Server cvar "humans_join_team" = "any"
+L 06/14/2020 - 16:43:44: Server cvar "max_queries_sec" = "3.0"
+L 06/14/2020 - 16:43:44: Server cvar "max_queries_sec_global" = "30"
+L 06/14/2020 - 16:43:44: Server cvar "max_queries_window" = "60"
+L 06/14/2020 - 16:43:44: Server cvar "metamod_version" = "1.20"
+L 06/14/2020 - 16:43:44: Server cvar "mp_allowmonsters" = "0"
+L 06/14/2020 - 16:43:44: Server cvar "mp_autokick" = "0"
+L 06/14/2020 - 16:43:44: Server cvar "mp_autokick_timeout" = "-1"
+L 06/14/2020 - 16:43:44: Server cvar "mp_autoteambalance" = "0"
+L 06/14/2020 - 16:43:44: Server cvar "mp_buytime" = "1.5"
+L 06/14/2020 - 16:43:44: Server cvar "mp_c4timer" = "45"
+L 06/14/2020 - 16:43:44: Server cvar "mp_chattime" = "0"
+L 06/14/2020 - 16:43:44: Server cvar "mp_consistency" = "1"
+L 06/14/2020 - 16:43:44: Server cvar "mp_fadetoblack" = "0"
+L 06/14/2020 - 16:43:44: Server cvar "mp_flashlight" = "0"
+L 06/14/2020 - 16:43:44: Server cvar "mp_footsteps" = "1"
+L 06/14/2020 - 16:43:44: Server cvar "mp_forcecamera" = "0"
+L 06/14/2020 - 16:43:44: Server cvar "mp_forcechasecam" = "2"
+L 06/14/2020 - 16:43:44: Server cvar "mp_fragsleft" = "0"
+L 06/14/2020 - 16:43:44: Server cvar "mp_freezetime" = "6"
+L 06/14/2020 - 16:43:44: Server cvar "mp_friendlyfire" = "1"
+L 06/14/2020 - 16:43:44: Server cvar "mp_ghostfrequency" = "0.1"
+L 06/14/2020 - 16:43:44: Server cvar "mp_hostagepenalty" = "2"
+L 06/14/2020 - 16:43:44: Server cvar "mp_infinite_ammo" = "0"
+L 06/14/2020 - 16:43:44: Server cvar "mp_kickpercent" = "0.66"
+L 06/14/2020 - 16:43:44: Server cvar "mp_limitteams" = "5"
+L 06/14/2020 - 16:43:44: Server cvar "mp_logdetail" = "0"
+L 06/14/2020 - 16:43:44: Server cvar "mp_logfile" = "1"
+L 06/14/2020 - 16:43:44: Server cvar "mp_logmessages" = "1"
+L 06/14/2020 - 16:43:44: Server cvar "mp_mapvoteratio" = "0.66"
+L 06/14/2020 - 16:43:44: Server cvar "mp_maxrounds" = "0"
+L 06/14/2020 - 16:43:44: Server cvar "mp_mirrordamage" = "0"
+L 06/14/2020 - 16:43:44: Server cvar "mp_playerid" = "0"
+L 06/14/2020 - 16:43:44: Server cvar "mp_roundtime" = "2"
+L 06/14/2020 - 16:43:44: Server cvar "mp_scoreboard_showhealth" = "3"
+L 06/14/2020 - 16:43:44: Server cvar "mp_scoreboard_showmoney" = "3"
+L 06/14/2020 - 16:43:44: Server cvar "mp_startmoney" = "800"
+L 06/14/2020 - 16:43:44: Server cvar "mp_timeleft" = "0"
+L 06/14/2020 - 16:43:44: Server cvar "mp_timelimit" = "65535"
+L 06/14/2020 - 16:43:44: Server cvar "mp_tkpunish" = "0"
+L 06/14/2020 - 16:43:44: Server cvar "mp_windifference" = "1"
+L 06/14/2020 - 16:43:44: Server cvar "mp_winlimit" = "0"
+L 06/14/2020 - 16:43:44: Server cvar "pausable" = "0"
+L 06/14/2020 - 16:43:44: Server cvar "sv_accelerate" = "5"
+L 06/14/2020 - 16:43:44: Server cvar "sv_aim" = "0"
+L 06/14/2020 - 16:43:44: Server cvar "sv_airaccelerate" = "10"
+L 06/14/2020 - 16:43:44: Server cvar "sv_allowupload" = "1"
+L 06/14/2020 - 16:43:44: Server cvar "sv_alltalk" = "0"
+L 06/14/2020 - 16:43:44: Server cvar "sv_bounce" = "1"
+L 06/14/2020 - 16:43:44: Server cvar "sv_cheats" = "0"
+L 06/14/2020 - 16:43:44: Server cvar "sv_clienttrace" = "1"
+L 06/14/2020 - 16:43:44: Server cvar "sv_contact" = "apoo12345@gmail.com"
+L 06/14/2020 - 16:43:44: Server cvar "sv_friction" = "4"
+L 06/14/2020 - 16:43:44: Server cvar "sv_gravity" = "800"
+L 06/14/2020 - 16:43:44: Server cvar "sv_logblocks" = "0"
+L 06/14/2020 - 16:43:44: Server cvar "sv_maxrate" = "20000"
+L 06/14/2020 - 16:43:44: Server cvar "sv_maxspeed" = "900"
+L 06/14/2020 - 16:43:44: Server cvar "sv_minrate" = "5000"
+L 06/14/2020 - 16:43:44: Server cvar "sv_password" = "Lauda"
+L 06/14/2020 - 16:43:44: Server cvar "sv_proxies" = "1"
+L 06/14/2020 - 16:43:44: Server cvar "sv_restart" = "0"
+L 06/14/2020 - 16:43:44: Server cvar "sv_restartround" = "0"
+L 06/14/2020 - 16:43:44: Server cvar "sv_stepsize" = "18"
+L 06/14/2020 - 16:43:44: Server cvar "sv_stopspeed" = "75"
+L 06/14/2020 - 16:43:44: Server cvar "sv_uploadmax" = "0.5"
+L 06/14/2020 - 16:43:44: Server cvar "sv_voiceenable" = "0"
+L 06/14/2020 - 16:43:44: Server cvar "sv_wateraccelerate" = "10"
+L 06/14/2020 - 16:43:44: Server cvar "sv_waterfriction" = "1"
+L 06/14/2020 - 16:43:44: Server cvars end
+L 06/14/2020 - 16:43:45: Server cvar "amx_nextmap" = "$2000$"
+L 06/14/2020 - 16:43:46: Started map "$2000$" (CRC "-1688392397")
+L 06/14/2020 - 16:43:49: "player<119><STEAM_0:0:60684219><>" entered the game
+L 06/14/2020 - 16:43:50: "Achillies<118><STEAM_0:0:1663171942><>" entered the game
+L 06/14/2020 - 16:43:53: "player<119><STEAM_0:0:60684219><>" joined team "CT"
+L 06/14/2020 - 16:43:53: "Achillies<118><STEAM_0:0:1663171942><>" joined team "CT"
+L 06/14/2020 - 16:43:53: World triggered "Round_Start"
+L 06/14/2020 - 16:43:56: "Achillies<118><STEAM_0:0:1663171942><CT>" committed suicide with "world"
+L 06/14/2020 - 16:43:56: "Achillies<118><STEAM_0:0:1663171942><CT>" joined team "TERRORIST"
+L 06/14/2020 - 16:43:59: World triggered "Game_Commencing"
+L 06/14/2020 - 16:43:59: World triggered "Game_Commencing" (CT "0") (T "0")
+L 06/14/2020 - 16:43:59: World triggered "Round_End"
+L 06/14/2020 - 16:44:08: World triggered "Round_Start"
+L 06/14/2020 - 16:44:19: "Achillies<118><STEAM_0:0:1663171942><TERRORIST>" killed "player<119><STEAM_0:0:60684219><CT>" with "ak47"
+L 06/14/2020 - 16:44:19: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 06/14/2020 - 16:44:19: World triggered "Round_End"
+L 06/14/2020 - 16:44:30: World triggered "Round_Start"
+L 06/14/2020 - 16:44:33: "player<119><STEAM_0:0:60684219><CT>" killed "Achillies<118><STEAM_0:0:1663171942><TERRORIST>" with "m4a1"
+L 06/14/2020 - 16:44:33: Team "CT" triggered "CTs_Win" (CT "1") (T "1")
+L 06/14/2020 - 16:44:33: World triggered "Round_End"
+L 06/14/2020 - 16:44:44: World triggered "Round_Start"
+L 06/14/2020 - 16:44:53: "player<119><STEAM_0:0:60684219><CT>" killed "Achillies<118><STEAM_0:0:1663171942><TERRORIST>" with "m4a1"
+L 06/14/2020 - 16:44:53: Team "CT" triggered "CTs_Win" (CT "2") (T "1")
+L 06/14/2020 - 16:44:53: World triggered "Round_End"
+L 06/14/2020 - 16:45:04: World triggered "Round_Start"
+L 06/14/2020 - 16:45:24: "player<119><STEAM_0:0:60684219><CT>" killed "Achillies<118><STEAM_0:0:1663171942><TERRORIST>" with "m4a1"
+L 06/14/2020 - 16:45:24: Team "CT" triggered "CTs_Win" (CT "3") (T "1")
+L 06/14/2020 - 16:45:24: World triggered "Round_End"
+L 06/14/2020 - 16:45:35: World triggered "Round_Start"
+L 06/14/2020 - 16:45:43: "Achillies<118><STEAM_0:0:1663171942><TERRORIST>" killed "player<119><STEAM_0:0:60684219><CT>" with "ak47"
+L 06/14/2020 - 16:45:43: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "2")
+L 06/14/2020 - 16:45:43: World triggered "Round_End"
+L 06/14/2020 - 16:45:54: World triggered "Round_Start"
+L 06/14/2020 - 16:45:58: "Achillies<118><STEAM_0:0:1663171942><TERRORIST>" killed "player<119><STEAM_0:0:60684219><CT>" with "ak47"
+L 06/14/2020 - 16:45:58: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "3")
+L 06/14/2020 - 16:45:58: World triggered "Round_End"
+L 06/14/2020 - 16:46:09: World triggered "Round_Start"
+L 06/14/2020 - 16:46:21: "Achillies<118><STEAM_0:0:1663171942><TERRORIST>" killed "player<119><STEAM_0:0:60684219><CT>" with "ak47"
+L 06/14/2020 - 16:46:21: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "4")
+L 06/14/2020 - 16:46:21: World triggered "Round_End"
+L 06/14/2020 - 16:46:32: World triggered "Round_Start"
+L 06/14/2020 - 16:46:38: "Achillies<118><STEAM_0:0:1663171942><TERRORIST>" killed "player<119><STEAM_0:0:60684219><CT>" with "ak47"
+L 06/14/2020 - 16:46:38: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "5")
+L 06/14/2020 - 16:46:38: World triggered "Round_End"
+L 06/14/2020 - 16:46:49: World triggered "Round_Start"
+L 06/14/2020 - 16:47:02: "Achillies<118><STEAM_0:0:1663171942><TERRORIST>" killed "player<119><STEAM_0:0:60684219><CT>" with "ak47"
+L 06/14/2020 - 16:47:02: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "6")
+L 06/14/2020 - 16:47:02: World triggered "Round_End"
+L 06/14/2020 - 16:47:13: World triggered "Round_Start"
+L 06/14/2020 - 16:47:19: "Achillies<118><STEAM_0:0:1663171942><TERRORIST>" killed "player<119><STEAM_0:0:60684219><CT>" with "ak47"
+L 06/14/2020 - 16:47:19: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "7")
+L 06/14/2020 - 16:47:19: World triggered "Round_End"
+L 06/14/2020 - 16:47:30: World triggered "Round_Start"
+L 06/14/2020 - 16:47:35: "Achillies<118><STEAM_0:0:1663171942><TERRORIST>" killed "player<119><STEAM_0:0:60684219><CT>" with "ak47"
+L 06/14/2020 - 16:47:35: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "8")
+L 06/14/2020 - 16:47:35: World triggered "Round_End"
+L 06/14/2020 - 16:47:46: World triggered "Round_Start"
+L 06/14/2020 - 16:48:03: "player<119><STEAM_0:0:60684219><CT>" killed "Achillies<118><STEAM_0:0:1663171942><TERRORIST>" with "ak47"
+L 06/14/2020 - 16:48:03: Team "CT" triggered "CTs_Win" (CT "4") (T "8")
+L 06/14/2020 - 16:48:03: World triggered "Round_End"
+L 06/14/2020 - 16:48:14: World triggered "Round_Start"
+L 06/14/2020 - 16:48:23: "player<119><STEAM_0:0:60684219><CT>" killed "Achillies<118><STEAM_0:0:1663171942><TERRORIST>" with "m4a1"
+L 06/14/2020 - 16:48:23: Team "CT" triggered "CTs_Win" (CT "5") (T "8")
+L 06/14/2020 - 16:48:23: World triggered "Round_End"
+L 06/14/2020 - 16:48:34: World triggered "Round_Start"
+L 06/14/2020 - 16:48:42: "Achillies<118><STEAM_0:0:1663171942><TERRORIST>" killed "player<119><STEAM_0:0:60684219><CT>" with "m4a1"
+L 06/14/2020 - 16:48:42: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "9")
+L 06/14/2020 - 16:48:42: World triggered "Round_End"
+L 06/14/2020 - 16:48:53: World triggered "Round_Start"
+L 06/14/2020 - 16:49:02: "Achillies<118><STEAM_0:0:1663171942><TERRORIST>" killed "player<119><STEAM_0:0:60684219><CT>" with "m4a1"
+L 06/14/2020 - 16:49:02: Team "TERRORIST" triggered "Terrorists_Win" (CT "5") (T "10")
+L 06/14/2020 - 16:49:02: World triggered "Round_End"
+L 06/14/2020 - 16:49:11: "Achillies<118><STEAM_0:0:1663171942><TERRORIST>" say "tomar fps koto/"
+L 06/14/2020 - 16:49:13: World triggered "Round_Start"
+L 06/14/2020 - 16:49:21: "Achillies<118><STEAM_0:0:1663171942><TERRORIST>" say "lekho cl_showfps 1"
+L 06/14/2020 - 16:49:46: "player<119><STEAM_0:0:60684219><CT>" say "60"
+L 06/14/2020 - 16:49:47: "Achillies<118><STEAM_0:0:1663171942><TERRORIST>" say "dekhle?"
+L 06/14/2020 - 16:49:52: "Achillies<118><STEAM_0:0:1663171942><TERRORIST>" say "oijonyoi"
+L 06/14/2020 - 16:49:59: "Achillies<118><STEAM_0:0:1663171942><TERRORIST>" say "ota 100 korte hobe"
+L 06/14/2020 - 16:50:06: "player<119><STEAM_0:0:60684219><CT>" say "ki kore kore?"
+L 06/14/2020 - 16:50:10: "player<119><STEAM_0:0:60684219><CT>" say "ota korle ki hobe?"
+L 06/14/2020 - 16:50:11: "Achillies<118><STEAM_0:0:1663171942><TERRORIST>" say "tomar ki NVIDIA"
+L 06/14/2020 - 16:50:19: "player<119><STEAM_0:0:60684219><CT>" say "lol no graphics card"
+L 06/14/2020 - 16:50:25: "Achillies<118><STEAM_0:0:1663171942><TERRORIST>" say ":("
+L 06/14/2020 - 16:50:36: "Achillies<118><STEAM_0:0:1663171942><TERRORIST>" say "charge y diye khelo?"
+L 06/14/2020 - 16:50:38: "player<119><STEAM_0:0:60684219><CT>" say "barale ki hoy?"
+L 06/14/2020 - 16:50:42: "player<119><STEAM_0:0:60684219><CT>" say "hyan"
+L 06/14/2020 - 16:50:54: "Achillies<118><STEAM_0:0:1663171942><TERRORIST>" say "whatsapp call mkorchi"
+L 06/14/2020 - 16:59:28: "player<119><STEAM_0:0:60684219><CT>" disconnected
+L 06/14/2020 - 16:59:28: [DPROTO]: Client 1 - Set AuthIdType 1 [Native]; pClient = 05667040
+L 06/14/2020 - 16:59:28: "player<120><STEAM_0:0:60684219><>" connected, address "137.132.218.14:27005"
+L 06/14/2020 - 16:59:29: "player<120><STEAM_0:0:60684219><>" STEAM USERID validated
+L 06/14/2020 - 16:59:32: "player<120><STEAM_0:0:60684219><>" entered the game
+L 06/14/2020 - 17:00:17: "Achillies<118><STEAM_0:0:1663171942><TERRORIST>" disconnected
+L 06/14/2020 - 17:00:17: World triggered "Round_Draw" (CT "5") (T "10")
+L 06/14/2020 - 17:00:17: World triggered "Round_End"
+L 06/14/2020 - 17:00:28: World triggered "Round_Start"
+L 06/14/2020 - 17:02:31: "player<120><STEAM_0:0:60684219><>" disconnected
+L 06/14/2020 - 17:02:31: World triggered "Round_Draw" (CT "5") (T "10")
+L 06/14/2020 - 17:02:31: World triggered "Round_End"
+L 06/14/2020 - 17:02:42: World triggered "Round_Start"
+L 06/14/2020 - 17:16:05: [DPROTO]: Client 0 - Set AuthIdType 1 [Native]; pClient = 05662028
+L 06/14/2020 - 17:16:05: "Mode : camp<121><STEAM_0:0:83230422><>" connected, address "103.76.82.177:27868"
+L 06/14/2020 - 17:16:06: "Mode : camp<121><STEAM_0:0:83230422><>" STEAM USERID validated
+L 06/14/2020 - 17:16:14: "Mode : camp<121><STEAM_0:0:83230422><>" entered the game
+L 06/14/2020 - 17:16:21: "Mode : camp<121><STEAM_0:0:83230422><>" joined team "CT"
+L 06/14/2020 - 17:20:18: "Mode : camp<121><STEAM_0:0:83230422><CT>" disconnected
+L 06/14/2020 - 17:20:18: World triggered "Round_Draw" (CT "5") (T "10")
+L 06/14/2020 - 17:20:18: World triggered "Round_End"
+L 06/14/2020 - 17:20:29: World triggered "Round_Start"
+L 06/14/2020 - 17:22:12: [DPROTO]: Client 0 - Set AuthIdType 1 [Native]; pClient = 05662028
+L 06/14/2020 - 17:22:12: "Mode : camp<122><STEAM_0:0:83230422><>" connected, address "223.191.40.24:5169"
+L 06/14/2020 - 17:22:17: "Mode : camp<122><STEAM_0:0:83230422><>" entered the game
+L 06/14/2020 - 17:22:23: "Mode : camp<122><STEAM_0:0:83230422><>" joined team "CT"
+L 06/14/2020 - 17:22:30: "Mode : camp<122><STEAM_0:0:83230422><>" STEAM USERID validated
+L 06/14/2020 - 17:26:55: [DPROTO]: Client 1 - Set AuthIdType 1 [dp_RevEmu]; pClient = 05667040
+L 06/14/2020 - 17:26:55: "U Will Not Win || hattori<123><STEAM_0:0:861404367><>" connected, address "217.146.11.78:47365"
+L 06/14/2020 - 17:27:08: "U Will Not Win || hattori<123><STEAM_0:0:861404367><>" entered the game
+L 06/14/2020 - 17:27:19: "U Will Not Win || hattori<123><STEAM_0:0:861404367><>" joined team "TERRORIST"
+L 06/14/2020 - 17:27:20: World triggered "Game_Commencing"
+L 06/14/2020 - 17:27:20: World triggered "Game_Commencing" (CT "5") (T "10")
+L 06/14/2020 - 17:27:20: World triggered "Round_End"
+L 06/14/2020 - 17:27:21: [DPROTO]: Client 2 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0566C058
+L 06/14/2020 - 17:27:21: "Achillies<124><STEAM_0:0:1663171942><>" connected, address "106.51.233.53:14019"
+L 06/14/2020 - 17:27:24: "Achillies<124><STEAM_0:0:1663171942><>" entered the game
+L 06/14/2020 - 17:27:29: World triggered "Round_Start"
+L 06/14/2020 - 17:27:30: "Achillies<124><STEAM_0:0:1663171942><>" joined team "TERRORIST"
+L 06/14/2020 - 17:27:35: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "ak47"
+L 06/14/2020 - 17:27:35: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 06/14/2020 - 17:27:35: World triggered "Round_End"
+L 06/14/2020 - 17:27:46: World triggered "Round_Start"
+L 06/14/2020 - 17:27:50: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:27:54: "U Will Not Win || hattori<123><STEAM_0:0:861404367><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "m4a1"
+L 06/14/2020 - 17:27:54: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 06/14/2020 - 17:27:54: World triggered "Round_End"
+L 06/14/2020 - 17:28:05: World triggered "Round_Start"
+L 06/14/2020 - 17:28:13: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "U Will Not Win || hattori<123><STEAM_0:0:861404367><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:28:15: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "ak47"
+L 06/14/2020 - 17:28:15: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "3")
+L 06/14/2020 - 17:28:15: World triggered "Round_End"
+L 06/14/2020 - 17:28:26: World triggered "Round_Start"
+L 06/14/2020 - 17:28:35: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "ak47"
+L 06/14/2020 - 17:28:35: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "4")
+L 06/14/2020 - 17:28:35: World triggered "Round_End"
+L 06/14/2020 - 17:28:46: World triggered "Round_Start"
+L 06/14/2020 - 17:28:49: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "U Will Not Win || hattori<123><STEAM_0:0:861404367><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:28:49: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "ak47"
+L 06/14/2020 - 17:28:49: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "5")
+L 06/14/2020 - 17:28:49: World triggered "Round_End"
+L 06/14/2020 - 17:29:00: World triggered "Round_Start"
+L 06/14/2020 - 17:29:12: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "U Will Not Win || hattori<123><STEAM_0:0:861404367><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:29:25: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "ak47"
+L 06/14/2020 - 17:29:25: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "6")
+L 06/14/2020 - 17:29:25: World triggered "Round_End"
+L 06/14/2020 - 17:29:36: World triggered "Round_Start"
+L 06/14/2020 - 17:29:41: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "ak47"
+L 06/14/2020 - 17:29:41: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "7")
+L 06/14/2020 - 17:29:41: World triggered "Round_End"
+L 06/14/2020 - 17:29:52: World triggered "Round_Start"
+L 06/14/2020 - 17:29:56: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "ak47"
+L 06/14/2020 - 17:29:56: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "8")
+L 06/14/2020 - 17:29:56: World triggered "Round_End"
+L 06/14/2020 - 17:30:07: World triggered "Round_Start"
+L 06/14/2020 - 17:30:13: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:30:19: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "U Will Not Win || hattori<123><STEAM_0:0:861404367><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:30:19: Team "CT" triggered "CTs_Win" (CT "1") (T "8")
+L 06/14/2020 - 17:30:19: World triggered "Round_End"
+L 06/14/2020 - 17:30:30: World triggered "Round_Start"
+L 06/14/2020 - 17:30:33: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "U Will Not Win || hattori<123><STEAM_0:0:861404367><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:30:47: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "ak47"
+L 06/14/2020 - 17:30:47: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "9")
+L 06/14/2020 - 17:30:47: World triggered "Round_End"
+L 06/14/2020 - 17:30:58: World triggered "Round_Start"
+L 06/14/2020 - 17:31:14: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "U Will Not Win || hattori<123><STEAM_0:0:861404367><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:31:23: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "ak47"
+L 06/14/2020 - 17:31:23: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "10")
+L 06/14/2020 - 17:31:23: World triggered "Round_End"
+L 06/14/2020 - 17:31:34: World triggered "Round_Start"
+L 06/14/2020 - 17:31:38: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "U Will Not Win || hattori<123><STEAM_0:0:861404367><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:31:47: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:31:47: Team "CT" triggered "CTs_Win" (CT "2") (T "10")
+L 06/14/2020 - 17:31:47: World triggered "Round_End"
+L 06/14/2020 - 17:31:58: World triggered "Round_Start"
+L 06/14/2020 - 17:32:02: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "ak47"
+L 06/14/2020 - 17:32:02: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "11")
+L 06/14/2020 - 17:32:02: World triggered "Round_End"
+L 06/14/2020 - 17:32:13: World triggered "Round_Start"
+L 06/14/2020 - 17:32:17: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "ak47"
+L 06/14/2020 - 17:32:17: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "12")
+L 06/14/2020 - 17:32:17: World triggered "Round_End"
+L 06/14/2020 - 17:32:28: World triggered "Round_Start"
+L 06/14/2020 - 17:32:35: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" with "awp"
+L 06/14/2020 - 17:32:48: "U Will Not Win || hattori<123><STEAM_0:0:861404367><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "m4a1"
+L 06/14/2020 - 17:32:48: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "13")
+L 06/14/2020 - 17:32:48: World triggered "Round_End"
+L 06/14/2020 - 17:32:59: World triggered "Round_Start"
+L 06/14/2020 - 17:33:03: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" with "awp"
+L 06/14/2020 - 17:33:14: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "U Will Not Win || hattori<123><STEAM_0:0:861404367><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:33:14: Team "CT" triggered "CTs_Win" (CT "3") (T "13")
+L 06/14/2020 - 17:33:14: World triggered "Round_End"
+L 06/14/2020 - 17:33:25: World triggered "Round_Start"
+L 06/14/2020 - 17:33:36: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "U Will Not Win || hattori<123><STEAM_0:0:861404367><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:33:47: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "ak47"
+L 06/14/2020 - 17:33:47: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "14")
+L 06/14/2020 - 17:33:47: World triggered "Round_End"
+L 06/14/2020 - 17:33:58: World triggered "Round_Start"
+L 06/14/2020 - 17:34:04: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:34:29: "U Will Not Win || hattori<123><STEAM_0:0:861404367><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "m4a1"
+L 06/14/2020 - 17:34:29: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "15")
+L 06/14/2020 - 17:34:29: World triggered "Round_End"
+L 06/14/2020 - 17:34:40: World triggered "Round_Start"
+L 06/14/2020 - 17:34:44: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:34:55: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "U Will Not Win || hattori<123><STEAM_0:0:861404367><TERRORIST>" with "usp"
+L 06/14/2020 - 17:34:55: Team "CT" triggered "CTs_Win" (CT "4") (T "15")
+L 06/14/2020 - 17:34:55: World triggered "Round_End"
+L 06/14/2020 - 17:35:06: World triggered "Round_Start"
+L 06/14/2020 - 17:35:14: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "U Will Not Win || hattori<123><STEAM_0:0:861404367><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:35:47: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:35:47: Team "CT" triggered "CTs_Win" (CT "5") (T "15")
+L 06/14/2020 - 17:35:47: World triggered "Round_End"
+L 06/14/2020 - 17:35:58: World triggered "Round_Start"
+L 06/14/2020 - 17:36:09: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "U Will Not Win || hattori<123><STEAM_0:0:861404367><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:36:11: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:36:11: Team "CT" triggered "CTs_Win" (CT "6") (T "15")
+L 06/14/2020 - 17:36:11: World triggered "Round_End"
+L 06/14/2020 - 17:36:22: World triggered "Round_Start"
+L 06/14/2020 - 17:36:36: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "U Will Not Win || hattori<123><STEAM_0:0:861404367><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:36:51: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:36:51: Team "CT" triggered "CTs_Win" (CT "7") (T "15")
+L 06/14/2020 - 17:36:51: World triggered "Round_End"
+L 06/14/2020 - 17:37:02: World triggered "Round_Start"
+L 06/14/2020 - 17:37:09: "U Will Not Win || hattori<123><STEAM_0:0:861404367><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "ak47"
+L 06/14/2020 - 17:37:09: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "16")
+L 06/14/2020 - 17:37:09: World triggered "Round_End"
+L 06/14/2020 - 17:37:20: World triggered "Round_Start"
+L 06/14/2020 - 17:37:30: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "ak47"
+L 06/14/2020 - 17:37:30: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "17")
+L 06/14/2020 - 17:37:30: World triggered "Round_End"
+L 06/14/2020 - 17:37:41: World triggered "Round_Start"
+L 06/14/2020 - 17:37:51: "U Will Not Win || hattori<123><STEAM_0:0:861404367><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "ak47"
+L 06/14/2020 - 17:37:51: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "18")
+L 06/14/2020 - 17:37:51: World triggered "Round_End"
+L 06/14/2020 - 17:38:02: World triggered "Round_Start"
+L 06/14/2020 - 17:38:06: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "U Will Not Win || hattori<123><STEAM_0:0:861404367><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:38:14: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "ak47"
+L 06/14/2020 - 17:38:14: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "19")
+L 06/14/2020 - 17:38:14: World triggered "Round_End"
+L 06/14/2020 - 17:38:25: World triggered "Round_Start"
+L 06/14/2020 - 17:38:32: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "U Will Not Win || hattori<123><STEAM_0:0:861404367><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:38:45: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "ak47"
+L 06/14/2020 - 17:38:45: Team "TERRORIST" triggered "Terrorists_Win" (CT "7") (T "20")
+L 06/14/2020 - 17:38:45: World triggered "Round_End"
+L 06/14/2020 - 17:38:56: World triggered "Round_Start"
+L 06/14/2020 - 17:38:59: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "U Will Not Win || hattori<123><STEAM_0:0:861404367><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:39:12: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:39:12: Team "CT" triggered "CTs_Win" (CT "8") (T "20")
+L 06/14/2020 - 17:39:12: World triggered "Round_End"
+L 06/14/2020 - 17:39:23: World triggered "Round_Start"
+L 06/14/2020 - 17:39:27: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "ak47"
+L 06/14/2020 - 17:39:27: Team "TERRORIST" triggered "Terrorists_Win" (CT "8") (T "21")
+L 06/14/2020 - 17:39:27: World triggered "Round_End"
+L 06/14/2020 - 17:39:38: World triggered "Round_Start"
+L 06/14/2020 - 17:39:41: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "U Will Not Win || hattori<123><STEAM_0:0:861404367><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:39:42: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "ak47"
+L 06/14/2020 - 17:39:42: Team "TERRORIST" triggered "Terrorists_Win" (CT "8") (T "22")
+L 06/14/2020 - 17:39:42: World triggered "Round_End"
+L 06/14/2020 - 17:39:53: World triggered "Round_Start"
+L 06/14/2020 - 17:40:02: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "ak47"
+L 06/14/2020 - 17:40:02: Team "TERRORIST" triggered "Terrorists_Win" (CT "8") (T "23")
+L 06/14/2020 - 17:40:02: World triggered "Round_End"
+L 06/14/2020 - 17:40:13: World triggered "Round_Start"
+L 06/14/2020 - 17:40:20: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" with "awp"
+L 06/14/2020 - 17:40:23: "U Will Not Win || hattori<123><STEAM_0:0:861404367><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "m4a1"
+L 06/14/2020 - 17:40:23: Team "TERRORIST" triggered "Terrorists_Win" (CT "8") (T "24")
+L 06/14/2020 - 17:40:23: World triggered "Round_End"
+L 06/14/2020 - 17:40:34: "U Will Not Win || hattori<123><STEAM_0:0:861404367><TERRORIST>" disconnected
+L 06/14/2020 - 17:40:34: World triggered "Round_Start"
+L 06/14/2020 - 17:41:08: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:41:08: Team "CT" triggered "CTs_Win" (CT "9") (T "24")
+L 06/14/2020 - 17:41:08: World triggered "Round_End"
+L 06/14/2020 - 17:41:19: World triggered "Round_Start"
+L 06/14/2020 - 17:41:37: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "ak47"
+L 06/14/2020 - 17:41:37: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "25")
+L 06/14/2020 - 17:41:37: World triggered "Round_End"
+L 06/14/2020 - 17:41:48: World triggered "Round_Start"
+L 06/14/2020 - 17:41:55: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "ak47"
+L 06/14/2020 - 17:41:55: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "26")
+L 06/14/2020 - 17:41:55: World triggered "Round_End"
+L 06/14/2020 - 17:42:07: World triggered "Round_Start"
+L 06/14/2020 - 17:42:36: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "ak47"
+L 06/14/2020 - 17:42:36: Team "TERRORIST" triggered "Terrorists_Win" (CT "9") (T "27")
+L 06/14/2020 - 17:42:36: World triggered "Round_End"
+L 06/14/2020 - 17:42:47: World triggered "Round_Start"
+L 06/14/2020 - 17:42:58: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:42:58: Team "CT" triggered "CTs_Win" (CT "10") (T "27")
+L 06/14/2020 - 17:42:58: World triggered "Round_End"
+L 06/14/2020 - 17:43:09: World triggered "Round_Start"
+L 06/14/2020 - 17:43:20: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:43:20: Team "CT" triggered "CTs_Win" (CT "11") (T "27")
+L 06/14/2020 - 17:43:20: World triggered "Round_End"
+L 06/14/2020 - 17:43:31: World triggered "Round_Start"
+L 06/14/2020 - 17:43:41: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "ak47"
+L 06/14/2020 - 17:43:41: Team "TERRORIST" triggered "Terrorists_Win" (CT "11") (T "28")
+L 06/14/2020 - 17:43:41: World triggered "Round_End"
+L 06/14/2020 - 17:43:52: World triggered "Round_Start"
+L 06/14/2020 - 17:44:01: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" with "ak47"
+L 06/14/2020 - 17:44:01: Team "CT" triggered "CTs_Win" (CT "12") (T "28")
+L 06/14/2020 - 17:44:01: World triggered "Round_End"
+L 06/14/2020 - 17:44:12: World triggered "Round_Start"
+L 06/14/2020 - 17:44:21: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "m4a1"
+L 06/14/2020 - 17:44:21: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "29")
+L 06/14/2020 - 17:44:21: World triggered "Round_End"
+L 06/14/2020 - 17:44:32: World triggered "Round_Start"
+L 06/14/2020 - 17:44:45: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "m4a1"
+L 06/14/2020 - 17:44:45: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "30")
+L 06/14/2020 - 17:44:45: World triggered "Round_End"
+L 06/14/2020 - 17:44:56: World triggered "Round_Start"
+L 06/14/2020 - 17:45:09: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "m4a1"
+L 06/14/2020 - 17:45:09: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "31")
+L 06/14/2020 - 17:45:09: World triggered "Round_End"
+L 06/14/2020 - 17:45:20: World triggered "Round_Start"
+L 06/14/2020 - 17:45:23: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "m4a1"
+L 06/14/2020 - 17:45:23: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "32")
+L 06/14/2020 - 17:45:23: World triggered "Round_End"
+L 06/14/2020 - 17:45:34: World triggered "Round_Start"
+L 06/14/2020 - 17:45:38: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "m4a1"
+L 06/14/2020 - 17:45:38: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "33")
+L 06/14/2020 - 17:45:38: World triggered "Round_End"
+L 06/14/2020 - 17:45:49: World triggered "Round_Start"
+L 06/14/2020 - 17:46:06: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "m4a1"
+L 06/14/2020 - 17:46:06: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "34")
+L 06/14/2020 - 17:46:06: World triggered "Round_End"
+L 06/14/2020 - 17:46:17: World triggered "Round_Start"
+L 06/14/2020 - 17:46:23: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "m4a1"
+L 06/14/2020 - 17:46:23: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "35")
+L 06/14/2020 - 17:46:23: World triggered "Round_End"
+L 06/14/2020 - 17:46:27: [DPROTO]: Client 1 - Set AuthIdType 1 [Native]; pClient = 05667040
+L 06/14/2020 - 17:46:27: "Agent Felix<125><STEAM_0:1:539804210><>" connected, address "103.235.3.147:27005"
+L 06/14/2020 - 17:46:27: "Agent Felix<125><STEAM_0:1:539804210><>" STEAM USERID validated
+L 06/14/2020 - 17:46:31: "Mode : camp<122><STEAM_0:0:83230422><CT>" say "fuck tano aj tumi"
+L 06/14/2020 - 17:46:34: World triggered "Round_Start"
+L 06/14/2020 - 17:46:35: "Agent Felix<125><STEAM_0:1:539804210><>" entered the game
+L 06/14/2020 - 17:46:41: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "m4a1"
+L 06/14/2020 - 17:46:41: Team "TERRORIST" triggered "Terrorists_Win" (CT "12") (T "36")
+L 06/14/2020 - 17:46:41: World triggered "Round_End"
+L 06/14/2020 - 17:46:41: "Agent Felix<125><STEAM_0:1:539804210><>" joined team "CT"
+L 06/14/2020 - 17:46:52: World triggered "Round_Start"
+L 06/14/2020 - 17:46:56: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Agent Felix<125><STEAM_0:1:539804210><CT>" with "m4a1"
+L 06/14/2020 - 17:47:15: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:47:15: Team "CT" triggered "CTs_Win" (CT "13") (T "36")
+L 06/14/2020 - 17:47:15: World triggered "Round_End"
+L 06/14/2020 - 17:47:26: World triggered "Round_Start"
+L 06/14/2020 - 17:47:31: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Agent Felix<125><STEAM_0:1:539804210><CT>" with "m4a1"
+L 06/14/2020 - 17:47:34: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:47:34: Team "CT" triggered "CTs_Win" (CT "14") (T "36")
+L 06/14/2020 - 17:47:34: World triggered "Round_End"
+L 06/14/2020 - 17:47:39: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" say "shot"
+L 06/14/2020 - 17:47:43: "Mode : camp<122><STEAM_0:0:83230422><CT>" say "ghip sob"
+L 06/14/2020 - 17:47:45: World triggered "Round_Start"
+L 06/14/2020 - 17:47:52: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:47:52: Team "CT" triggered "CTs_Win" (CT "15") (T "36")
+L 06/14/2020 - 17:47:52: World triggered "Round_End"
+L 06/14/2020 - 17:48:03: World triggered "Round_Start"
+L 06/14/2020 - 17:48:03: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" say "bomb maris na tante parbo na"
+L 06/14/2020 - 17:48:09: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "m4a1"
+L 06/14/2020 - 17:48:12: "Agent Felix<125><STEAM_0:1:539804210><CT>" killed "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:48:12: Team "CT" triggered "CTs_Win" (CT "16") (T "36")
+L 06/14/2020 - 17:48:12: World triggered "Round_End"
+L 06/14/2020 - 17:48:15: "Mode : camp<122><STEAM_0:0:83230422><CT>" say "thik ache" (dead)
+L 06/14/2020 - 17:48:23: World triggered "Round_Start"
+L 06/14/2020 - 17:48:25: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:48:25: Team "CT" triggered "CTs_Win" (CT "17") (T "36")
+L 06/14/2020 - 17:48:25: World triggered "Round_End"
+L 06/14/2020 - 17:48:36: World triggered "Round_Start"
+L 06/14/2020 - 17:48:41: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "ak47"
+L 06/14/2020 - 17:48:48: "Agent Felix<125><STEAM_0:1:539804210><CT>" killed "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:48:48: Team "CT" triggered "CTs_Win" (CT "18") (T "36")
+L 06/14/2020 - 17:48:48: World triggered "Round_End"
+L 06/14/2020 - 17:48:59: World triggered "Round_Start"
+L 06/14/2020 - 17:49:03: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" with "awp"
+L 06/14/2020 - 17:49:03: Team "CT" triggered "CTs_Win" (CT "19") (T "36")
+L 06/14/2020 - 17:49:03: World triggered "Round_End"
+L 06/14/2020 - 17:49:14: World triggered "Round_Start"
+L 06/14/2020 - 17:49:23: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Agent Felix<125><STEAM_0:1:539804210><CT>" with "m4a1"
+L 06/14/2020 - 17:49:23: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" with "awp"
+L 06/14/2020 - 17:49:23: Team "CT" triggered "CTs_Win" (CT "20") (T "36")
+L 06/14/2020 - 17:49:23: World triggered "Round_End"
+L 06/14/2020 - 17:49:34: World triggered "Round_Start"
+L 06/14/2020 - 17:49:37: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "m4a1"
+L 06/14/2020 - 17:49:52: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Agent Felix<125><STEAM_0:1:539804210><CT>" with "m4a1"
+L 06/14/2020 - 17:49:52: Team "TERRORIST" triggered "Terrorists_Win" (CT "20") (T "37")
+L 06/14/2020 - 17:49:52: World triggered "Round_End"
+L 06/14/2020 - 17:50:03: World triggered "Round_Start"
+L 06/14/2020 - 17:50:05: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:50:05: Team "CT" triggered "CTs_Win" (CT "21") (T "37")
+L 06/14/2020 - 17:50:05: World triggered "Round_End"
+L 06/14/2020 - 17:50:16: World triggered "Round_Start"
+L 06/14/2020 - 17:50:27: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "m4a1"
+L 06/14/2020 - 17:50:31: [DPROTO]: Client 13 - Set AuthIdType 1 [Native]; pClient = 056A3160
+L 06/14/2020 - 17:50:31: "pRo_revoLuTioN<126><STEAM_0:1:546352772><>" connected, address "122.179.148.87:27005"
+L 06/14/2020 - 17:50:32: "pRo_revoLuTioN<126><STEAM_0:1:546352772><>" STEAM USERID validated
+L 06/14/2020 - 17:50:32: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Agent Felix<125><STEAM_0:1:539804210><CT>" with "ak47"
+L 06/14/2020 - 17:50:32: Team "TERRORIST" triggered "Terrorists_Win" (CT "21") (T "38")
+L 06/14/2020 - 17:50:32: World triggered "Round_End"
+L 06/14/2020 - 17:50:37: "pRo_revoLuTioN<126><STEAM_0:1:546352772><>" entered the game
+L 06/14/2020 - 17:50:41: "pRo_revoLuTioN<126><STEAM_0:1:546352772><>" joined team "TERRORIST"
+L 06/14/2020 - 17:50:43: World triggered "Round_Start"
+L 06/14/2020 - 17:50:51: "Agent Felix<125><STEAM_0:1:539804210><CT>" killed "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:50:53: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Agent Felix<125><STEAM_0:1:539804210><CT>" with "ak47"
+L 06/14/2020 - 17:50:58: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "ak47"
+L 06/14/2020 - 17:50:58: Team "TERRORIST" triggered "Terrorists_Win" (CT "21") (T "39")
+L 06/14/2020 - 17:50:58: World triggered "Round_End"
+L 06/14/2020 - 17:50:59: [DPROTO]: Client 3 - Set AuthIdType 1 [dp_RevEmu]; pClient = 05671070
+L 06/14/2020 - 17:50:59: "aDDER<127><STEAM_0:0:369456433><>" connected, address "49.207.197.140:30658"
+L 06/14/2020 - 17:51:06: "Agent Felix<125><STEAM_0:1:539804210><CT>" say_team "samne dariye gechuili sory"
+L 06/14/2020 - 17:51:06: "aDDER<127><STEAM_0:0:369456433><>" entered the game
+L 06/14/2020 - 17:51:09: World triggered "Round_Start"
+L 06/14/2020 - 17:51:13: "aDDER<127><STEAM_0:0:369456433><>" joined team "TERRORIST"
+L 06/14/2020 - 17:51:18: "aDDER<127><STEAM_0:0:369456433><TERRORIST>" killed "Agent Felix<125><STEAM_0:1:539804210><CT>" with "awp"
+L 06/14/2020 - 17:51:29: "Agent Felix<125><STEAM_0:1:539804210><CT>" disconnected
+L 06/14/2020 - 17:51:30: "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "awp"
+L 06/14/2020 - 17:51:30: Team "TERRORIST" triggered "Terrorists_Win" (CT "21") (T "40")
+L 06/14/2020 - 17:51:30: World triggered "Round_End"
+L 06/14/2020 - 17:51:39: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" committed suicide with "world"
+L 06/14/2020 - 17:51:39: "Achillies<124><STEAM_0:0:1663171942><TERRORIST>" joined team "CT"
+L 06/14/2020 - 17:51:41: World triggered "Round_Start"
+L 06/14/2020 - 17:51:52: "aDDER<127><STEAM_0:0:369456433><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "glock18"
+L 06/14/2020 - 17:51:53: Team "TERRORIST" triggered "Terrorists_Win" (CT "21") (T "41")
+L 06/14/2020 - 17:51:53: World triggered "Round_End"
+L 06/14/2020 - 17:52:04: World triggered "Round_Start"
+L 06/14/2020 - 17:52:07: "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" killed "Achillies<124><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/14/2020 - 17:52:09: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "aDDER<127><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:52:16: "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "m4a1"
+L 06/14/2020 - 17:52:16: Team "TERRORIST" triggered "Terrorists_Win" (CT "21") (T "42")
+L 06/14/2020 - 17:52:16: World triggered "Round_End"
+L 06/14/2020 - 17:52:27: World triggered "Round_Start"
+L 06/14/2020 - 17:52:35: "aDDER<127><STEAM_0:0:369456433><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "m4a1"
+L 06/14/2020 - 17:52:35: "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" killed "Achillies<124><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/14/2020 - 17:52:35: Team "TERRORIST" triggered "Terrorists_Win" (CT "21") (T "43")
+L 06/14/2020 - 17:52:35: World triggered "Round_End"
+L 06/14/2020 - 17:52:46: World triggered "Round_Start"
+L 06/14/2020 - 17:52:53: [DPROTO]: Client 1 - Set AuthIdType 1 [Native]; pClient = 05667040
+L 06/14/2020 - 17:52:53: "professor<128><STEAM_0:1:452174268><>" connected, address "180.151.203.67:27005"
+L 06/14/2020 - 17:52:58: "aDDER<127><STEAM_0:0:369456433><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "m4a1"
+L 06/14/2020 - 17:53:01: "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" killed "Achillies<124><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/14/2020 - 17:53:01: Team "TERRORIST" triggered "Terrorists_Win" (CT "21") (T "44")
+L 06/14/2020 - 17:53:01: World triggered "Round_End"
+L 06/14/2020 - 17:53:11: "professor<128><STEAM_0:1:452174268><>" entered the game
+L 06/14/2020 - 17:53:12: World triggered "Round_Start"
+L 06/14/2020 - 17:53:13: "professor<128><STEAM_0:1:452174268><>" STEAM USERID validated
+L 06/14/2020 - 17:53:26: "Achillies<124><STEAM_0:0:1663171942><CT>" killed "aDDER<127><STEAM_0:0:369456433><TERRORIST>" with "mp5navy"
+L 06/14/2020 - 17:53:37: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:53:37: Team "CT" triggered "CTs_Win" (CT "22") (T "44")
+L 06/14/2020 - 17:53:37: World triggered "Round_End"
+L 06/14/2020 - 17:53:48: World triggered "Round_Start"
+L 06/14/2020 - 17:53:59: "Achillies<124><STEAM_0:0:1663171942><CT>" killed "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:53:59: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "aDDER<127><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:53:59: Team "CT" triggered "CTs_Win" (CT "23") (T "44")
+L 06/14/2020 - 17:53:59: World triggered "Round_End"
+L 06/14/2020 - 17:54:10: World triggered "Round_Start"
+L 06/14/2020 - 17:54:13: "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" killed "Achillies<124><STEAM_0:0:1663171942><CT>" with "awp"
+L 06/14/2020 - 17:54:15: "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "awp"
+L 06/14/2020 - 17:54:15: Team "TERRORIST" triggered "Terrorists_Win" (CT "23") (T "45")
+L 06/14/2020 - 17:54:15: World triggered "Round_End"
+L 06/14/2020 - 17:54:26: World triggered "Round_Start"
+L 06/14/2020 - 17:54:30: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "aDDER<127><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:54:44: "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" killed "Achillies<124><STEAM_0:0:1663171942><CT>" with "m4a1"
+L 06/14/2020 - 17:54:51: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:54:51: Team "CT" triggered "CTs_Win" (CT "24") (T "45")
+L 06/14/2020 - 17:54:51: World triggered "Round_End"
+L 06/14/2020 - 17:55:02: World triggered "Round_Start"
+L 06/14/2020 - 17:55:06: "Achillies<124><STEAM_0:0:1663171942><CT>" killed "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:55:12: "aDDER<127><STEAM_0:0:369456433><TERRORIST>" killed "Achillies<124><STEAM_0:0:1663171942><CT>" with "m4a1"
+L 06/14/2020 - 17:55:27: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "aDDER<127><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:55:27: Team "CT" triggered "CTs_Win" (CT "25") (T "45")
+L 06/14/2020 - 17:55:27: World triggered "Round_End"
+L 06/14/2020 - 17:55:38: World triggered "Round_Start"
+L 06/14/2020 - 17:55:59: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" with "ak47"
+L 06/14/2020 - 17:56:01: "aDDER<127><STEAM_0:0:369456433><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "m4a1"
+L 06/14/2020 - 17:56:04: "Achillies<124><STEAM_0:0:1663171942><CT>" killed "aDDER<127><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:56:04: Team "CT" triggered "CTs_Win" (CT "26") (T "45")
+L 06/14/2020 - 17:56:04: World triggered "Round_End"
+L 06/14/2020 - 17:56:16: World triggered "Round_Start"
+L 06/14/2020 - 17:56:21: "professor<128><STEAM_0:1:452174268><>" joined team "CT"
+L 06/14/2020 - 17:56:25: "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "ak47"
+L 06/14/2020 - 17:56:34: "Achillies<124><STEAM_0:0:1663171942><CT>" killed "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:56:38: "aDDER<127><STEAM_0:0:369456433><TERRORIST>" killed "professor<128><STEAM_0:1:452174268><CT>" with "m4a1"
+L 06/14/2020 - 17:56:39: [DPROTO]: Client 4 - Set AuthIdType 1 [Native]; pClient = 05676088
+L 06/14/2020 - 17:56:39: "noDiscord_Monkey D Luffy<129><STEAM_0:1:49729967><>" connected, address "119.82.107.241:27005"
+L 06/14/2020 - 17:56:39: "noDiscord_Monkey D Luffy<129><STEAM_0:1:49729967><>" STEAM USERID validated
+L 06/14/2020 - 17:56:40: "Achillies<124><STEAM_0:0:1663171942><CT>" killed "aDDER<127><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:56:40: Team "CT" triggered "CTs_Win" (CT "27") (T "45")
+L 06/14/2020 - 17:56:40: World triggered "Round_End"
+L 06/14/2020 - 17:56:51: "noDiscord_Monkey D Luffy<129><STEAM_0:1:49729967><>" entered the game
+L 06/14/2020 - 17:56:51: World triggered "Round_Start"
+L 06/14/2020 - 17:57:00: "noDiscord_Monkey D Luffy<129><STEAM_0:1:49729967><>" joined team "TERRORIST"
+L 06/14/2020 - 17:57:05: "professor<128><STEAM_0:1:452174268><CT>" killed "noDiscord_Monkey D Luffy<129><STEAM_0:1:49729967><TERRORIST>" with "ak47"
+L 06/14/2020 - 17:57:05: "aDDER<127><STEAM_0:0:369456433><TERRORIST>" killed "professor<128><STEAM_0:1:452174268><CT>" with "mp5navy"
+L 06/14/2020 - 17:57:13: "Achillies<124><STEAM_0:0:1663171942><CT>" killed "aDDER<127><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:57:17: "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" killed "Achillies<124><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/14/2020 - 17:57:17: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" with "awp"
+L 06/14/2020 - 17:57:17: Team "CT" triggered "CTs_Win" (CT "28") (T "45")
+L 06/14/2020 - 17:57:17: World triggered "Round_End"
+L 06/14/2020 - 17:57:28: World triggered "Round_Start"
+L 06/14/2020 - 17:57:34: [DPROTO]: Client 5 - Set AuthIdType 1 [Native]; pClient = 0567B0A0
+L 06/14/2020 - 17:57:34: "Agent Felix<130><STEAM_0:1:539804210><>" connected, address "103.235.3.147:27005"
+L 06/14/2020 - 17:57:34: "Agent Felix<130><STEAM_0:1:539804210><>" STEAM USERID validated
+L 06/14/2020 - 17:57:36: "aDDER<127><STEAM_0:0:369456433><TERRORIST>" killed "noDiscord_Monkey D Luffy<129><STEAM_0:1:49729967><TERRORIST>" with "ak47"
+L 06/14/2020 - 17:57:37: "Agent Felix<130><STEAM_0:1:539804210><>" entered the game
+L 06/14/2020 - 17:57:38: "aDDER<127><STEAM_0:0:369456433><TERRORIST>" killed "professor<128><STEAM_0:1:452174268><CT>" with "ak47"
+L 06/14/2020 - 17:57:40: "Achillies<124><STEAM_0:0:1663171942><CT>" killed "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:57:48: "aDDER<127><STEAM_0:0:369456433><TERRORIST>" killed "Achillies<124><STEAM_0:0:1663171942><CT>" with "m4a1"
+L 06/14/2020 - 17:57:50: "professor<128><STEAM_0:1:452174268><CT>" disconnected
+L 06/14/2020 - 17:57:51: "Agent Felix<130><STEAM_0:1:539804210><>" joined team "CT"
+L 06/14/2020 - 17:57:52: "aDDER<127><STEAM_0:0:369456433><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "m4a1"
+L 06/14/2020 - 17:57:52: Team "TERRORIST" triggered "Terrorists_Win" (CT "28") (T "46")
+L 06/14/2020 - 17:57:52: World triggered "Round_End"
+L 06/14/2020 - 17:57:57: [DPROTO]: Client 1 - Set AuthIdType 1 [Native]; pClient = 05667040
+L 06/14/2020 - 17:57:57: "freekill<131><STEAM_0:0:65740571><>" connected, address "106.51.111.230:7519"
+L 06/14/2020 - 17:57:58: "freekill<131><STEAM_0:0:65740571><>" STEAM USERID validated
+L 06/14/2020 - 17:58:03: World triggered "Round_Start"
+L 06/14/2020 - 17:58:05: [DPROTO]: Client 6 - Set AuthIdType 4 [dproto]; pClient = 056800B8
+L 06/14/2020 - 17:58:05: "(1)noDiscord_Monkey D Luffy<132><VALVE_0:4:428103396><>" connected, address "112.79.84.154:9689"
+L 06/14/2020 - 17:58:06: "freekill<131><STEAM_0:0:65740571><>" entered the game
+L 06/14/2020 - 17:58:07: "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" killed "Achillies<124><STEAM_0:0:1663171942><CT>" with "m4a1"
+L 06/14/2020 - 17:58:11: "freekill<131><STEAM_0:0:65740571><>" joined team "SPECTATOR"
+L 06/14/2020 - 17:58:12: "aDDER<127><STEAM_0:0:369456433><TERRORIST>" killed "Agent Felix<130><STEAM_0:1:539804210><CT>" with "m4a1"
+L 06/14/2020 - 17:58:13: "(1)noDiscord_Monkey D Luffy<132><VALVE_0:4:428103396><>" entered the game
+L 06/14/2020 - 17:58:13: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" with "xm1014"
+L 06/14/2020 - 17:58:18: "(1)noDiscord_Monkey D Luffy<132><VALVE_0:4:428103396><>" joined team "CT"
+L 06/14/2020 - 17:58:20: "aDDER<127><STEAM_0:0:369456433><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "m4a1"
+L 06/14/2020 - 17:58:31: "Mode : camp<122><STEAM_0:0:83230422><CT>" say "monkeyr body te atke gelam" (dead)
+L 06/14/2020 - 17:58:36: "noDiscord_Monkey D Luffy<129><STEAM_0:1:49729967><TERRORIST>" disconnected
+L 06/14/2020 - 17:58:39: [DPROTO]: Client 4 - Set AuthIdType 1 [Native]; pClient = 05676088
+L 06/14/2020 - 17:58:39: "professor<133><STEAM_0:1:452174268><>" connected, address "180.151.203.67:27005"
+L 06/14/2020 - 17:58:39: "professor<133><STEAM_0:1:452174268><>" STEAM USERID validated
+L 06/14/2020 - 17:58:42: "(1)noDiscord_Monkey D Luffy<132><VALVE_0:4:428103396><CT>" killed "aDDER<127><STEAM_0:0:369456433><TERRORIST>" with "awp"
+L 06/14/2020 - 17:58:42: Team "CT" triggered "CTs_Win" (CT "29") (T "46")
+L 06/14/2020 - 17:58:42: World triggered "Round_End"
+L 06/14/2020 - 17:58:46: "professor<133><STEAM_0:1:452174268><>" entered the game
+L 06/14/2020 - 17:58:53: World triggered "Round_Start"
+L 06/14/2020 - 17:58:54: "professor<133><STEAM_0:1:452174268><>" joined team "TERRORIST"
+L 06/14/2020 - 17:58:56: "Agent Felix<130><STEAM_0:1:539804210><CT>" killed "aDDER<127><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:58:59: "Agent Felix<130><STEAM_0:1:539804210><CT>" killed "professor<133><STEAM_0:1:452174268><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:59:00: "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" killed "(1)noDiscord_Monkey D Luffy<132><VALVE_0:4:428103396><CT>" with "m4a1"
+L 06/14/2020 - 17:59:02: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "Agent Felix<130><STEAM_0:1:539804210><CT>" with "grenade"
+L 06/14/2020 - 17:59:02: "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "m4a1"
+L 06/14/2020 - 17:59:07: "Agent Felix<130><STEAM_0:1:539804210><CT>" say "jassala" (dead)
+L 06/14/2020 - 17:59:18: "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" killed "Achillies<124><STEAM_0:0:1663171942><CT>" with "m4a1"
+L 06/14/2020 - 17:59:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "29") (T "47")
+L 06/14/2020 - 17:59:18: World triggered "Round_End"
+L 06/14/2020 - 17:59:26: [DPROTO]: Client 7 - Set AuthIdType 1 [Native]; pClient = 056850D0
+L 06/14/2020 - 17:59:26: "player<134><STEAM_0:0:60684219><>" connected, address "137.132.218.14:27005"
+L 06/14/2020 - 17:59:26: "player<134><STEAM_0:0:60684219><>" STEAM USERID validated
+L 06/14/2020 - 17:59:29: World triggered "Round_Start"
+L 06/14/2020 - 17:59:33: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "professor<133><STEAM_0:1:452174268><TERRORIST>" with "m4a1"
+L 06/14/2020 - 17:59:34: "player<134><STEAM_0:0:60684219><>" entered the game
+L 06/14/2020 - 17:59:43: "aDDER<127><STEAM_0:0:369456433><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "grenade"
+L 06/14/2020 - 17:59:55: "aDDER<127><STEAM_0:0:369456433><TERRORIST>" killed "(1)noDiscord_Monkey D Luffy<132><VALVE_0:4:428103396><CT>" with "m4a1"
+L 06/14/2020 - 18:00:01: "Agent Felix<130><STEAM_0:1:539804210><CT>" killed "aDDER<127><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/14/2020 - 18:00:29: "Agent Felix<130><STEAM_0:1:539804210><CT>" killed "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" with "m4a1"
+L 06/14/2020 - 18:00:29: Team "CT" triggered "CTs_Win" (CT "30") (T "47")
+L 06/14/2020 - 18:00:29: World triggered "Round_End"
+L 06/14/2020 - 18:00:34: "(1)noDiscord_Monkey D Luffy<132><VALVE_0:4:428103396><CT>" changed name to "nemesis"
+L 06/14/2020 - 18:00:40: World triggered "Round_Start"
+L 06/14/2020 - 18:00:43: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "professor<133><STEAM_0:1:452174268><TERRORIST>" with "m4a1"
+L 06/14/2020 - 18:00:56: "aDDER<127><STEAM_0:0:369456433><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "m4a1"
+L 06/14/2020 - 18:00:56: "aDDER<127><STEAM_0:0:369456433><TERRORIST>" killed "Agent Felix<130><STEAM_0:1:539804210><CT>" with "m4a1"
+L 06/14/2020 - 18:01:00: "Agent Felix<130><STEAM_0:1:539804210><CT>" say_team "sory" (dead)
+L 06/14/2020 - 18:01:06: "aDDER<127><STEAM_0:0:369456433><TERRORIST>" killed "Achillies<124><STEAM_0:0:1663171942><CT>" with "m4a1"
+L 06/14/2020 - 18:01:06: "aDDER<127><STEAM_0:0:369456433><TERRORIST>" killed "nemesis<132><VALVE_0:4:428103396><CT>" with "m4a1"
+L 06/14/2020 - 18:01:06: Team "TERRORIST" triggered "Terrorists_Win" (CT "30") (T "48")
+L 06/14/2020 - 18:01:06: World triggered "Round_End"
+L 06/14/2020 - 18:01:17: World triggered "Round_Start"
+L 06/14/2020 - 18:01:29: "Agent Felix<130><STEAM_0:1:539804210><CT>" killed "professor<133><STEAM_0:1:452174268><TERRORIST>" with "m4a1"
+L 06/14/2020 - 18:01:33: "aDDER<127><STEAM_0:0:369456433><TERRORIST>" killed "Agent Felix<130><STEAM_0:1:539804210><CT>" with "m4a1"
+L 06/14/2020 - 18:01:33: "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" killed "Achillies<124><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/14/2020 - 18:01:36: "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "ak47"
+L 06/14/2020 - 18:01:38: "aDDER<127><STEAM_0:0:369456433><TERRORIST>" killed "nemesis<132><VALVE_0:4:428103396><CT>" with "m4a1"
+L 06/14/2020 - 18:01:38: Team "TERRORIST" triggered "Terrorists_Win" (CT "30") (T "49")
+L 06/14/2020 - 18:01:38: World triggered "Round_End"
+L 06/14/2020 - 18:01:48: Rcon: "rcon 900375561 "Lauda2" sv_restart 1" from "106.51.111.230:7519"
+L 06/14/2020 - 18:01:48: Server cvar "sv_restart" = "1"
+L 06/14/2020 - 18:01:48: World triggered "Restart_Round_(1_second)"
+L 06/14/2020 - 18:01:48: Team "CT" scored "30" with "4" players
+L 06/14/2020 - 18:01:48: Team "TERRORIST" scored "49" with "3" players
+L 06/14/2020 - 18:01:48: Server cvar "sv_restart" = "0"
+L 06/14/2020 - 18:01:49: World triggered "Round_Start"
+L 06/14/2020 - 18:01:55: World triggered "Round_Start"
+L 06/14/2020 - 18:02:05: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "professor<133><STEAM_0:1:452174268><TERRORIST>" with "m4a1"
+L 06/14/2020 - 18:02:14: "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" killed "Agent Felix<130><STEAM_0:1:539804210><CT>" with "ak47"
+L 06/14/2020 - 18:02:17: "aDDER<127><STEAM_0:0:369456433><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "m4a1"
+L 06/14/2020 - 18:02:21: "aDDER<127><STEAM_0:0:369456433><TERRORIST>" killed "nemesis<132><VALVE_0:4:428103396><CT>" with "m4a1"
+L 06/14/2020 - 18:02:32: "aDDER<127><STEAM_0:0:369456433><TERRORIST>" killed "Achillies<124><STEAM_0:0:1663171942><CT>" with "m4a1"
+L 06/14/2020 - 18:02:32: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 06/14/2020 - 18:02:32: World triggered "Round_End"
+L 06/14/2020 - 18:02:43: World triggered "Round_Start"
+L 06/14/2020 - 18:02:50: "Agent Felix<130><STEAM_0:1:539804210><CT>" killed "aDDER<127><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/14/2020 - 18:02:53: "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" killed "Agent Felix<130><STEAM_0:1:539804210><CT>" with "ak47"
+L 06/14/2020 - 18:03:03: [DPROTO]: Client 8 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0568A0E8
+L 06/14/2020 - 18:03:03: "U Will Not Win || hattori<135><STEAM_0:0:861404367><>" connected, address "217.146.11.78:46928"
+L 06/14/2020 - 18:03:10: "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "ak47"
+L 06/14/2020 - 18:03:13: "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" killed "nemesis<132><VALVE_0:4:428103396><CT>" with "ak47"
+L 06/14/2020 - 18:03:14: "U Will Not Win || hattori<135><STEAM_0:0:861404367><>" entered the game
+L 06/14/2020 - 18:03:17: "nemesis<132><VALVE_0:4:428103396><CT>" say "t6" (dead)
+L 06/14/2020 - 18:03:20: "U Will Not Win || hattori<135><STEAM_0:0:861404367><>" joined team "TERRORIST"
+L 06/14/2020 - 18:03:25: Rcon: "rcon 900375561 "Lauda2" sv_restart 1" from "106.51.111.230:7519"
+L 06/14/2020 - 18:03:25: Server cvar "sv_restart" = "1"
+L 06/14/2020 - 18:03:25: World triggered "Restart_Round_(1_second)"
+L 06/14/2020 - 18:03:25: Team "CT" scored "0" with "4" players
+L 06/14/2020 - 18:03:25: Team "TERRORIST" scored "1" with "4" players
+L 06/14/2020 - 18:03:25: Server cvar "sv_restart" = "0"
+L 06/14/2020 - 18:03:27: [DPROTO]: Client 9 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0568F100
+L 06/14/2020 - 18:03:27: "Mofo<136><STEAM_0:0:455086556><>" connected, address "137.132.211.13:27005"
+L 06/14/2020 - 18:03:32: "Mofo<136><STEAM_0:0:455086556><>" entered the game
+L 06/14/2020 - 18:03:32: World triggered "Round_Start"
+L 06/14/2020 - 18:03:37: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "aDDER<127><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/14/2020 - 18:03:37: [DPROTO]: Client 10 - Set AuthIdType 1 [dp_RevEmu]; pClient = 05694118
+L 06/14/2020 - 18:03:37: "1729<137><STEAM_0:0:1921819853><>" connected, address "49.207.197.140:31466"
+L 06/14/2020 - 18:03:39: "Mofo<136><STEAM_0:0:455086556><>" joined team "TERRORIST"
+L 06/14/2020 - 18:03:39: "professor<133><STEAM_0:1:452174268><TERRORIST>" killed "Agent Felix<130><STEAM_0:1:539804210><CT>" with "m4a1"
+L 06/14/2020 - 18:03:47: "professor<133><STEAM_0:1:452174268><TERRORIST>" killed "Achillies<124><STEAM_0:0:1663171942><CT>" with "m4a1"
+L 06/14/2020 - 18:03:48: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "professor<133><STEAM_0:1:452174268><TERRORIST>" with "m4a1"
+L 06/14/2020 - 18:03:51: "U Will Not Win || hattori<135><STEAM_0:0:861404367><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "m4a1"
+L 06/14/2020 - 18:03:52: "1729<137><STEAM_0:0:1921819853><>" entered the game
+L 06/14/2020 - 18:03:54: "U Will Not Win || hattori<135><STEAM_0:0:861404367><TERRORIST>" killed "nemesis<132><VALVE_0:4:428103396><CT>" with "m4a1"
+L 06/14/2020 - 18:03:54: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 06/14/2020 - 18:03:54: World triggered "Round_End"
+L 06/14/2020 - 18:04:00: "1729<137><STEAM_0:0:1921819853><>" joined team "CT"
+L 06/14/2020 - 18:04:05: World triggered "Round_Start"
+L 06/14/2020 - 18:04:08: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "Mofo<136><STEAM_0:0:455086556><TERRORIST>" with "m4a1"
+L 06/14/2020 - 18:04:11: "professor<133><STEAM_0:1:452174268><TERRORIST>" killed "Agent Felix<130><STEAM_0:1:539804210><CT>" with "awp"
+L 06/14/2020 - 18:04:14: "1729<137><STEAM_0:0:1921819853><CT>" killed "professor<133><STEAM_0:1:452174268><TERRORIST>" with "ak47"
+L 06/14/2020 - 18:04:14: "1729<137><STEAM_0:0:1921819853><CT>" killed "U Will Not Win || hattori<135><STEAM_0:0:861404367><TERRORIST>" with "ak47"
+L 06/14/2020 - 18:04:17: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" with "m4a1"
+L 06/14/2020 - 18:04:23: "1729<137><STEAM_0:0:1921819853><CT>" killed "aDDER<127><STEAM_0:0:369456433><TERRORIST>" with "ak47"
+L 06/14/2020 - 18:04:23: Team "CT" triggered "CTs_Win" (CT "1") (T "1")
+L 06/14/2020 - 18:04:23: World triggered "Round_End"
+L 06/14/2020 - 18:04:34: World triggered "Round_Start"
+L 06/14/2020 - 18:04:38: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "U Will Not Win || hattori<135><STEAM_0:0:861404367><TERRORIST>" with "m4a1"
+L 06/14/2020 - 18:04:43: "professor<133><STEAM_0:1:452174268><TERRORIST>" killed "1729<137><STEAM_0:0:1921819853><CT>" with "ak47"
+L 06/14/2020 - 18:04:44: "Mode : camp<122><STEAM_0:0:83230422><CT>" killed "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" with "m4a1"
+L 06/14/2020 - 18:04:47: "aDDER<127><STEAM_0:0:369456433><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "glock18"
+L 06/14/2020 - 18:04:48: "Agent Felix<130><STEAM_0:1:539804210><CT>" killed "Mofo<136><STEAM_0:0:455086556><TERRORIST>" with "m4a1"
+L 06/14/2020 - 18:04:51: "Achillies<124><STEAM_0:0:1663171942><CT>" killed "aDDER<127><STEAM_0:0:369456433><TERRORIST>" with "ak47"
+L 06/14/2020 - 18:04:54: "Agent Felix<130><STEAM_0:1:539804210><CT>" killed "professor<133><STEAM_0:1:452174268><TERRORIST>" with "m4a1"
+L 06/14/2020 - 18:04:54: Team "CT" triggered "CTs_Win" (CT "2") (T "1")
+L 06/14/2020 - 18:04:54: World triggered "Round_End"
+L 06/14/2020 - 18:05:05: World triggered "Round_Start"
+L 06/14/2020 - 18:05:09: "1729<137><STEAM_0:0:1921819853><CT>" killed "professor<133><STEAM_0:1:452174268><TERRORIST>" with "awp"
+L 06/14/2020 - 18:05:14: "U Will Not Win || hattori<135><STEAM_0:0:861404367><TERRORIST>" killed "Agent Felix<130><STEAM_0:1:539804210><CT>" with "m4a1"
+L 06/14/2020 - 18:05:17: "aDDER<127><STEAM_0:0:369456433><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "m4a1"
+L 06/14/2020 - 18:05:24: "Achillies<124><STEAM_0:0:1663171942><CT>" killed "Mofo<136><STEAM_0:0:455086556><TERRORIST>" with "m4a1"
+L 06/14/2020 - 18:05:25: "aDDER<127><STEAM_0:0:369456433><TERRORIST>" killed "Achillies<124><STEAM_0:0:1663171942><CT>" with "glock18"
+L 06/14/2020 - 18:05:28: "professor<133><STEAM_0:1:452174268><TERRORIST>" say "discord join all" (dead)
+L 06/14/2020 - 18:05:31: "1729<137><STEAM_0:0:1921819853><CT>" killed "aDDER<127><STEAM_0:0:369456433><TERRORIST>" with "awp"
+L 06/14/2020 - 18:05:37: "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" killed "1729<137><STEAM_0:0:1921819853><CT>" with "ak47"
+L 06/14/2020 - 18:05:42: "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" killed "nemesis<132><VALVE_0:4:428103396><CT>" with "glock18"
+L 06/14/2020 - 18:05:42: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "2")
+L 06/14/2020 - 18:05:43: World triggered "Round_End"
+L 06/14/2020 - 18:05:54: World triggered "Round_Start"
+L 06/14/2020 - 18:05:59: "Agent Felix<130><STEAM_0:1:539804210><CT>" killed "U Will Not Win || hattori<135><STEAM_0:0:861404367><TERRORIST>" with "m4a1"
+L 06/14/2020 - 18:06:00: "aDDER<127><STEAM_0:0:369456433><TERRORIST>" killed "nemesis<132><VALVE_0:4:428103396><CT>" with "m4a1"
+L 06/14/2020 - 18:06:01: "aDDER<127><STEAM_0:0:369456433><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "m4a1"
+L 06/14/2020 - 18:06:02: "Achillies<124><STEAM_0:0:1663171942><CT>" killed "aDDER<127><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/14/2020 - 18:06:03: "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" killed "Agent Felix<130><STEAM_0:1:539804210><CT>" with "ak47"
+L 06/14/2020 - 18:06:12: "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" killed "1729<137><STEAM_0:0:1921819853><CT>" with "ak47"
+L 06/14/2020 - 18:06:17: "Achillies<124><STEAM_0:0:1663171942><CT>" killed "Mofo<136><STEAM_0:0:455086556><TERRORIST>" with "ak47"
+L 06/14/2020 - 18:06:30: "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" killed "Achillies<124><STEAM_0:0:1663171942><CT>" with "ak47"
+L 06/14/2020 - 18:06:30: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "3")
+L 06/14/2020 - 18:06:30: World triggered "Round_End"
+L 06/14/2020 - 18:06:41: World triggered "Round_Start"
+L 06/14/2020 - 18:06:47: "U Will Not Win || hattori<135><STEAM_0:0:861404367><TERRORIST>" killed "Mode : camp<122><STEAM_0:0:83230422><CT>" with "m4a1"
+L 06/14/2020 - 18:06:54: "Mofo<136><STEAM_0:0:455086556><TERRORIST>" killed "Achillies<124><STEAM_0:0:1663171942><CT>" with "m4a1"
+L 06/14/2020 - 18:06:55: "U Will Not Win || hattori<135><STEAM_0:0:861404367><TERRORIST>" killed "1729<137><STEAM_0:0:1921819853><CT>" with "m4a1"
+L 06/14/2020 - 18:06:55: "aDDER<127><STEAM_0:0:369456433><TERRORIST>" killed "Agent Felix<130><STEAM_0:1:539804210><CT>" with "m4a1"
+L 06/14/2020 - 18:06:58: "aDDER<127><STEAM_0:0:369456433><TERRORIST>" killed "nemesis<132><VALVE_0:4:428103396><CT>" with "m4a1"
+L 06/14/2020 - 18:06:58: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "4")
+L 06/14/2020 - 18:06:58: World triggered "Round_End"
+L 06/14/2020 - 18:07:09: World triggered "Round_Start"
+L 06/14/2020 - 18:07:12: "U Will Not Win || hattori<135><STEAM_0:0:861404367><TERRORIST>" killed "1729<137><STEAM_0:0:1921819853><CT>" with "m4a1"
+L 06/14/2020 - 18:07:16: Rcon: "rcon 2411257123 "Lauda2" changelevel de_inferno" from "112.79.84.154:9689"
+L 06/14/2020 - 18:07:16: [META] ini: Begin re-reading plugins list: g:/tcafiles/users/fkguxmko/7303/cstrike/addons/metamod/plugins.ini
+L 06/14/2020 - 18:07:16: [META] ini: Read plugin config for: AMX Mod X
+L 06/14/2020 - 18:07:16: [META] ini: Read plugin config for: dproto_EF
+L 06/14/2020 - 18:07:16: [META] ini: Finished reading plugins list: g:/tcafiles/users/fkguxmko/7303/cstrike/addons/metamod/plugins.ini; Found 2 plugins
+L 06/14/2020 - 18:07:16: [META] dll: Updating plugins...
+L 06/14/2020 - 18:07:16: [META] dll: Finished updating 5 plugins; kept 2, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 06/14/2020 - 18:07:16: "Mode : camp<122><STEAM_0:0:83230422><CT>" disconnected
+L 06/14/2020 - 18:07:16: "freekill<131><STEAM_0:0:65740571><SPECTATOR>" disconnected
+L 06/14/2020 - 18:07:16: "Achillies<124><STEAM_0:0:1663171942><CT>" disconnected
+L 06/14/2020 - 18:07:16: "aDDER<127><STEAM_0:0:369456433><TERRORIST>" disconnected
+L 06/14/2020 - 18:07:16: "professor<133><STEAM_0:1:452174268><TERRORIST>" disconnected
+L 06/14/2020 - 18:07:16: "Agent Felix<130><STEAM_0:1:539804210><CT>" disconnected
+L 06/14/2020 - 18:07:16: "nemesis<132><VALVE_0:4:428103396><CT>" disconnected
+L 06/14/2020 - 18:07:16: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "5")
+L 06/14/2020 - 18:07:16: World triggered "Round_End"
+L 06/14/2020 - 18:07:16: "player<134><STEAM_0:0:60684219><>" disconnected
+L 06/14/2020 - 18:07:16: "U Will Not Win || hattori<135><STEAM_0:0:861404367><TERRORIST>" disconnected
+L 06/14/2020 - 18:07:16: "Mofo<136><STEAM_0:0:455086556><TERRORIST>" disconnected
+L 06/14/2020 - 18:07:16: "1729<137><STEAM_0:0:1921819853><CT>" disconnected
+L 06/14/2020 - 18:07:16: "pRo_revoLuTioN<126><STEAM_0:1:546352772><TERRORIST>" disconnected
+L 06/14/2020 - 18:07:16: Log file closed

@@ -89,8 +89,9 @@ class Match():
                 if dyn[-1][1-int(side)]==1:
                     self.brownies.append(['1 v '+str(vs), pname, self.tag, half, match_count])
             for player in p:
-                if p[player].get('killed',0) > len(plist)//2:
-                    self.brownies.append(['Ace', player, self.tag, self.tag, half, match_count])
+                killed = p[player].get('killed',0)
+                if killed > 3 and player != brownies.get('1vMany', [''])[0]: #len(plist)//2:
+                    self.brownies.append([str(killed) + ' Kills', player, self.tag, half, match_count])
             last_marker = marker+1
             match_count += 1
 

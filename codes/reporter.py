@@ -110,6 +110,7 @@ def generate_report(final_KDA, final_frag_list, brownies, match_tags):
             pdf.cell(w=cell_width*2, h=2*th, txt=frag[1], align='L')
             pdf.ln(th)
 
+    pdf.set_text_color(r=0, g=0, b=0)
     # Pro plays section starts here
     if len(brownies) > 0:
         pdf.ln(3*th)
@@ -130,8 +131,10 @@ def generate_report(final_KDA, final_frag_list, brownies, match_tags):
             pdf.cell(w=cell_width*1, h=2*th, txt='Round ' + str(brownie[4]), align='C')
             pdf.ln(2*th)
 
+    pdf.ln(th)
+
     # KDA table starts here
-    pdf.add_page()
+#     pdf.add_page()
     pdf.set_text_color(r=255, g=255, b=255)
 
     # HEADER

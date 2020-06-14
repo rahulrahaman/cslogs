@@ -34,7 +34,7 @@ for file in file_list:
         temp.append(item)
         if '"sv_restart"' in item:
             num_round = -1
-        if 'say "live"' in item.lower() and num_round==-1:
+        if 'say "live' in item.lower() and num_round==-1:
             num_round = 0
             temp = []
         if '"Round_End"' in item and num_round > -1:
