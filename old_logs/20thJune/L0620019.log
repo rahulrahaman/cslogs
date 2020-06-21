@@ -1,0 +1,51 @@
+L 06/20/2020 - 20:43:32: Log file started (file "logs\L0620019.log") (game "cstrike") (version "48/1.1.2.7/8308")
+L 06/20/2020 - 20:43:32: Server cvar "mp_timelimit" = "65535"
+L 06/20/2020 - 20:43:32: Server cvar "mp_autokick" = "0"
+L 06/20/2020 - 20:43:32: Server cvar "mp_autoteambalance" = "0"
+L 06/20/2020 - 20:43:32: Server cvar "mp_forcechasecam" = "1"
+L 06/20/2020 - 20:43:32: Server cvar "mp_freezetime" = "7"
+L 06/20/2020 - 20:43:32: Server cvar "mp_friendlyfire" = "1"
+L 06/20/2020 - 20:43:32: Server cvar "mp_hostagepenalty" = "2"
+L 06/20/2020 - 20:43:32: Server cvar "mp_limitteams" = "5"
+L 06/20/2020 - 20:43:32: Server cvar "mp_roundtime" = "2"
+L 06/20/2020 - 20:43:32: Server cvar "sv_maxspeed" = "320"
+L 06/20/2020 - 20:43:32: Server cvar "allow_spectators" = "1"
+L 06/20/2020 - 20:43:33: Server cvar "mp_chattime" = "0"
+L 06/20/2020 - 20:43:33: Server cvar "sv_allowupload" = "1"
+L 06/20/2020 - 20:43:33: Server cvar "sv_voiceenable" = "0"
+L 06/20/2020 - 20:43:33: Server cvar "decalfrequency" = "60"
+L 06/20/2020 - 20:43:33: Server cvar "sv_aim" = "0"
+L 06/20/2020 - 20:43:35: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0566C028
+L 06/20/2020 - 20:43:35: "Mahabharat || Cristiano<1><STEAM_0:0:1465890162><>" connected, address "103.200.40.94:27005"
+L 06/20/2020 - 20:43:40: World triggered "Round_Start"
+L 06/20/2020 - 20:43:46: [DPROTO]: Client 1 - Set AuthIdType 1 [Native]; pClient = 05671040
+L 06/20/2020 - 20:43:46: "Mahabharat || Parabellum<2><STEAM_0:0:60684219><>" connected, address "137.132.218.35:27005"
+L 06/20/2020 - 20:43:46: "Mahabharat || Parabellum<2><STEAM_0:0:60684219><>" STEAM USERID validated
+L 06/20/2020 - 20:43:48: "Mahabharat || Parabellum<2><STEAM_0:0:60684219><>" entered the game
+L 06/20/2020 - 20:43:51: [DPROTO]: Client 2 - Set AuthIdType 1 [dp_RevEmu]; pClient = 05676058
+L 06/20/2020 - 20:43:51: "Classic 0.5 || Achillies<3><STEAM_0:0:1663171942><>" connected, address "106.51.233.53:14587"
+L 06/20/2020 - 20:43:54: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0566C028
+L 06/20/2020 - 20:43:54: "Mahabharat || 1729<4><STEAM_0:0:1921819853><>" connected, address "49.207.193.253:15129"
+L 06/20/2020 - 20:43:55: "Classic 0.5 || Achillies<3><STEAM_0:0:1663171942><>" entered the game
+L 06/20/2020 - 20:43:55: "Mahabharat || Parabellum<2><STEAM_0:0:60684219><>" joined team "SPECTATOR"
+L 06/20/2020 - 20:43:58: "Mahabharat || 1729<4><STEAM_0:0:1921819853><>" entered the game
+L 06/20/2020 - 20:44:09: "Mahabharat || 1729<4><STEAM_0:0:1921819853><>" joined team "TERRORIST"
+L 06/20/2020 - 20:44:10: "Mahabharat || 1729<4><STEAM_0:0:1921819853><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 06/20/2020 - 20:44:13: Rcon: "rcon 2237470859 "Lauda2" changelevel de_inferno" from "137.132.218.35:27005"
+L 06/20/2020 - 20:44:13: [META] ini: Begin re-reading plugins list: g:/tcafiles/users/fkguxmko/7303/cstrike/addons/metamod/plugins.ini
+L 06/20/2020 - 20:44:13: [META] ini: Read plugin config for: AMX Mod X
+L 06/20/2020 - 20:44:13: [META] ini: Read plugin config for: dproto_EF
+L 06/20/2020 - 20:44:13: [META] ini: Finished reading plugins list: g:/tcafiles/users/fkguxmko/7303/cstrike/addons/metamod/plugins.ini; Found 2 plugins
+L 06/20/2020 - 20:44:13: [META] dll: Updating plugins...
+L 06/20/2020 - 20:44:13: [META] dll: Finished updating 5 plugins; kept 2, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 06/20/2020 - 20:44:13: "Mahabharat || 1729<4><STEAM_0:0:1921819853><TERRORIST>" triggered "Dropped_The_Bomb"
+L 06/20/2020 - 20:44:13: "Mahabharat || 1729<4><STEAM_0:0:1921819853><TERRORIST>" disconnected
+L 06/20/2020 - 20:44:13: World triggered "Round_Draw" (CT "0") (T "0")
+L 06/20/2020 - 20:44:13: World triggered "Round_End"
+L 06/20/2020 - 20:44:13: "Mahabharat || Parabellum<2><STEAM_0:0:60684219><SPECTATOR>" disconnected
+L 06/20/2020 - 20:44:13: World triggered "Round_Draw" (CT "0") (T "0")
+L 06/20/2020 - 20:44:13: World triggered "Round_End"
+L 06/20/2020 - 20:44:13: "Classic 0.5 || Achillies<3><STEAM_0:0:1663171942><>" disconnected
+L 06/20/2020 - 20:44:13: World triggered "Round_Draw" (CT "0") (T "0")
+L 06/20/2020 - 20:44:13: World triggered "Round_End"
+L 06/20/2020 - 20:44:13: Log file closed

@@ -1,0 +1,72 @@
+L 06/20/2020 - 18:59:06: Log file started (file "logs\L0620014.log") (game "cstrike") (version "48/1.1.2.7/8308")
+L 06/20/2020 - 18:59:06: Server cvar "mp_timelimit" = "65535"
+L 06/20/2020 - 18:59:06: Server cvar "mp_autokick" = "0"
+L 06/20/2020 - 18:59:06: Server cvar "mp_autoteambalance" = "0"
+L 06/20/2020 - 18:59:06: Server cvar "mp_forcechasecam" = "1"
+L 06/20/2020 - 18:59:06: Server cvar "mp_freezetime" = "7"
+L 06/20/2020 - 18:59:06: Server cvar "mp_friendlyfire" = "1"
+L 06/20/2020 - 18:59:06: Server cvar "mp_hostagepenalty" = "2"
+L 06/20/2020 - 18:59:06: Server cvar "mp_limitteams" = "5"
+L 06/20/2020 - 18:59:06: Server cvar "mp_roundtime" = "2"
+L 06/20/2020 - 18:59:06: Server cvar "sv_maxspeed" = "320"
+L 06/20/2020 - 18:59:06: Server cvar "allow_spectators" = "1"
+L 06/20/2020 - 18:59:06: Server cvar "mp_chattime" = "0"
+L 06/20/2020 - 18:59:06: Server cvar "sv_allowupload" = "1"
+L 06/20/2020 - 18:59:06: Server cvar "sv_voiceenable" = "0"
+L 06/20/2020 - 18:59:06: Server cvar "pausable" = "1"
+L 06/20/2020 - 18:59:06: Server cvar "decalfrequency" = "60"
+L 06/20/2020 - 18:59:06: Server cvar "sv_aim" = "0"
+L 06/20/2020 - 18:59:07: [DPROTO]: Client 0 - Set AuthIdType 1 [Native]; pClient = 0583B028
+L 06/20/2020 - 18:59:07: "Classic 0.51 || Agent Felix<1><STEAM_0:1:539804210><>" connected, address "103.235.3.157:27005"
+L 06/20/2020 - 18:59:08: "Classic 0.51 || Agent Felix<1><STEAM_0:1:539804210><>" STEAM USERID validated
+L 06/20/2020 - 18:59:11: "Classic 0.51 || Agent Felix<1><STEAM_0:1:539804210><>" entered the game
+L 06/20/2020 - 18:59:14: World triggered "Round_Start"
+L 06/20/2020 - 18:59:23: [DPROTO]: Client 1 - Set AuthIdType 1 [Native]; pClient = 05840040
+L 06/20/2020 - 18:59:23: "Classic 0.51 || Mode : plant<2><STEAM_0:0:83230422><>" connected, address "103.76.82.177:25340"
+L 06/20/2020 - 18:59:24: "Classic 0.51 || Mode : plant<2><STEAM_0:0:83230422><>" STEAM USERID validated
+L 06/20/2020 - 18:59:27: "Classic 0.51 || Mode : plant<2><STEAM_0:0:83230422><>" entered the game
+L 06/20/2020 - 18:59:29: [DPROTO]: Client 2 - Set AuthIdType 1 [Native]; pClient = 05845058
+L 06/20/2020 - 18:59:29: "Classic 0.51 || MERA BAAP<3><STEAM_0:0:63052104><>" connected, address "49.207.58.179:16025"
+L 06/20/2020 - 18:59:30: "Classic 0.51 || MERA BAAP<3><STEAM_0:0:63052104><>" STEAM USERID validated
+L 06/20/2020 - 18:59:30: [DPROTO]: Client 3 - Set AuthIdType 1 [Native]; pClient = 0584A070
+L 06/20/2020 - 18:59:30: "Classic 0.5 || Sic Mundus<4><STEAM_0:1:66144441><>" connected, address "106.51.234.36:51928"
+L 06/20/2020 - 18:59:30: [DPROTO]: Client 4 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0584F088
+L 06/20/2020 - 18:59:30: "Classic 0.51 || hattori<5><STEAM_0:0:861404367><>" connected, address "203.175.164.18:54565"
+L 06/20/2020 - 18:59:30: "Classic 0.5 || Sic Mundus<4><STEAM_0:1:66144441><>" STEAM USERID validated
+L 06/20/2020 - 18:59:32: "Classic 0.51 || Agent Felix<1><STEAM_0:1:539804210><>" joined team "SPECTATOR"
+L 06/20/2020 - 18:59:32: "Classic 0.51 || Mode : plant<2><STEAM_0:0:83230422><>" joined team "TERRORIST"
+L 06/20/2020 - 18:59:32: "Classic 0.51 || MERA BAAP<3><STEAM_0:0:63052104><>" entered the game
+L 06/20/2020 - 18:59:33: "Classic 0.5 || Sic Mundus<4><STEAM_0:1:66144441><>" entered the game
+L 06/20/2020 - 18:59:36: "Classic 0.51 || Mode : plant<2><STEAM_0:0:83230422><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 06/20/2020 - 18:59:37: "Classic 0.5 || Sic Mundus<4><STEAM_0:1:66144441><>" joined team "CT"
+L 06/20/2020 - 18:59:38: World triggered "Game_Commencing"
+L 06/20/2020 - 18:59:38: World triggered "Game_Commencing" (CT "0") (T "0")
+L 06/20/2020 - 18:59:38: World triggered "Round_End"
+L 06/20/2020 - 18:59:39: "Classic 0.51 || hattori<5><STEAM_0:0:861404367><>" entered the game
+L 06/20/2020 - 18:59:41: "Classic 0.51 || Mode : plant<2><STEAM_0:0:83230422><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 06/20/2020 - 18:59:43: "Classic 0.51 || Agent Felix<1><STEAM_0:1:539804210><SPECTATOR>" joined team "TERRORIST"
+L 06/20/2020 - 18:59:46: [DPROTO]: Client 5 - Set AuthIdType 1 [Native]; pClient = 058540A0
+L 06/20/2020 - 18:59:46: "StuFu<6><STEAM_0:1:147341737><>" connected, address "49.207.58.179:17283"
+L 06/20/2020 - 18:59:46: "StuFu<6><STEAM_0:1:147341737><>" STEAM USERID validated
+L 06/20/2020 - 18:59:48: World triggered "Round_Start"
+L 06/20/2020 - 18:59:48: "StuFu<6><STEAM_0:1:147341737><>" entered the game
+L 06/20/2020 - 18:59:56: "Classic 0.51 || hattori<5><STEAM_0:0:861404367><>" joined team "TERRORIST"
+L 06/20/2020 - 19:00:04: Rcon: "rcon 1671076010 "Lauda2" changelevel de_nuke" from "49.207.58.179:17283"
+L 06/20/2020 - 19:00:04: [META] ini: Begin re-reading plugins list: g:/tcafiles/users/fkguxmko/7303/cstrike/addons/metamod/plugins.ini
+L 06/20/2020 - 19:00:04: [META] ini: Read plugin config for: AMX Mod X
+L 06/20/2020 - 19:00:04: [META] ini: Read plugin config for: dproto_EF
+L 06/20/2020 - 19:00:04: [META] ini: Finished reading plugins list: g:/tcafiles/users/fkguxmko/7303/cstrike/addons/metamod/plugins.ini; Found 2 plugins
+L 06/20/2020 - 19:00:04: [META] dll: Updating plugins...
+L 06/20/2020 - 19:00:04: [META] dll: Finished updating 5 plugins; kept 2, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 06/20/2020 - 19:00:04: "Classic 0.51 || Agent Felix<1><STEAM_0:1:539804210><TERRORIST>" disconnected
+L 06/20/2020 - 19:00:04: "Classic 0.51 || Mode : plant<2><STEAM_0:0:83230422><TERRORIST>" triggered "Dropped_The_Bomb"
+L 06/20/2020 - 19:00:04: "Classic 0.51 || Mode : plant<2><STEAM_0:0:83230422><TERRORIST>" disconnected
+L 06/20/2020 - 19:00:04: "Classic 0.51 || MERA BAAP<3><STEAM_0:0:63052104><>" disconnected
+L 06/20/2020 - 19:00:04: "Classic 0.5 || Sic Mundus<4><STEAM_0:1:66144441><CT>" disconnected
+L 06/20/2020 - 19:00:04: "Classic 0.51 || hattori<5><STEAM_0:0:861404367><TERRORIST>" disconnected
+L 06/20/2020 - 19:00:04: World triggered "Round_Draw" (CT "0") (T "0")
+L 06/20/2020 - 19:00:04: World triggered "Round_End"
+L 06/20/2020 - 19:00:04: "StuFu<6><STEAM_0:1:147341737><>" disconnected
+L 06/20/2020 - 19:00:04: World triggered "Round_Draw" (CT "0") (T "0")
+L 06/20/2020 - 19:00:04: World triggered "Round_End"
+L 06/20/2020 - 19:00:04: Log file closed

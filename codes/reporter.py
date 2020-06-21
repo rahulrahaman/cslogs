@@ -50,7 +50,7 @@ def generate_report(final_KDA, final_frag_list, brownies, match_tags):
     pdf.ln(2*th)
 
     # weapons section starts here (PISTOL PRO, ...)
-    wlist = [['glock18', 'deagle', 'usp'],
+    wlist = [['glock18', 'deagle', 'usp', 'p228'],
              ['m4a1'],
              ['ak47'],
              ['awp']
@@ -162,8 +162,8 @@ def generate_report(final_KDA, final_frag_list, brownies, match_tags):
             if itemno in [2, 3]:
                 if datum==maxes[itemno-1]:
                     set_color(pdf, bad=False)
-                if datum==mins[itemno-1] and itemno==3:
-                    set_color(pdf, bad=True)
+                # if datum==mins[itemno-1] and itemno==3:
+                #     set_color(pdf, bad=True)
             elif itemno in [6, 7]:      
                 if datum==maxes[itemno-1]:
                     set_color(pdf, bad=False)
@@ -171,8 +171,8 @@ def generate_report(final_KDA, final_frag_list, brownies, match_tags):
             elif itemno in [4, 5]:
                 if datum==mins[itemno-1]:
                     set_color(pdf, bad=False)
-                if datum==maxes[itemno-1] and itemno==5:
-                    set_color(pdf, bad=True)
+                # if datum==maxes[itemno-1] and itemno==5:
+                #     set_color(pdf, bad=True)
             elif itemno in [8]:
                 if datum==maxes[itemno-1]:
                     set_color(pdf, bad=True)
