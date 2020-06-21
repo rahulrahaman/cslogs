@@ -171,8 +171,8 @@ def generate_report(final_KDA, final_frag_list, brownies, match_tags):
             elif itemno in [4, 5]:
                 if datum==mins[itemno-1]:
                     set_color(pdf, bad=False)
-                # if datum==maxes[itemno-1] and itemno==5:
-                #     set_color(pdf, bad=True)
+                if datum==maxes[itemno-1] and itemno==5:
+                    set_color(pdf, bad=True)
             elif itemno in [8]:
                 if datum==maxes[itemno-1]:
                     set_color(pdf, bad=True)
