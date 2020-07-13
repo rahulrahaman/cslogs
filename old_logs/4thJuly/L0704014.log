@@ -1,0 +1,145 @@
+L 07/04/2020 - 20:31:06: Log file started (file "logs\L0704014.log") (game "cstrike") (version "48/1.1.2.7/8308")
+L 07/04/2020 - 20:31:06: Loading map "DE_NUKE"
+L 07/04/2020 - 20:31:06: Server cvars start
+L 07/04/2020 - 20:31:06: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 07/04/2020 - 20:31:06: Server cvar "_tutor_debug_level" = "0"
+L 07/04/2020 - 20:31:06: Server cvar "_tutor_examine_time" = "0.5"
+L 07/04/2020 - 20:31:06: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 07/04/2020 - 20:31:06: Server cvar "_tutor_look_angle" = "10"
+L 07/04/2020 - 20:31:06: Server cvar "_tutor_look_distance" = "200"
+L 07/04/2020 - 20:31:06: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 07/04/2020 - 20:31:06: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 07/04/2020 - 20:31:06: Server cvar "_tutor_message_repeats" = "5"
+L 07/04/2020 - 20:31:06: Server cvar "_tutor_view_distance" = "1000"
+L 07/04/2020 - 20:31:06: Server cvar "allow_spectators" = "1"
+L 07/04/2020 - 20:31:06: Server cvar "amx_client_languages" = "1"
+L 07/04/2020 - 20:31:06: Server cvar "amx_language" = "en"
+L 07/04/2020 - 20:31:06: Server cvar "amx_nextmap" = "de_nuke"
+L 07/04/2020 - 20:31:06: Server cvar "amx_timeleft" = "65520:36"
+L 07/04/2020 - 20:31:06: Server cvar "amxmodx_version" = "1.8.2"
+L 07/04/2020 - 20:31:06: Server cvar "coop" = "0"
+L 07/04/2020 - 20:31:06: Server cvar "deathmatch" = "1"
+L 07/04/2020 - 20:31:06: Server cvar "decalfrequency" = "60"
+L 07/04/2020 - 20:31:06: Server cvar "dp_version" = "0.9.582"
+L 07/04/2020 - 20:31:06: Server cvar "edgefriction" = "2"
+L 07/04/2020 - 20:31:06: Server cvar "hostage_debug" = "0"
+L 07/04/2020 - 20:31:06: Server cvar "hostage_stop" = "0"
+L 07/04/2020 - 20:31:06: Server cvar "humans_join_team" = "any"
+L 07/04/2020 - 20:31:06: Server cvar "max_queries_sec" = "3.0"
+L 07/04/2020 - 20:31:06: Server cvar "max_queries_sec_global" = "30"
+L 07/04/2020 - 20:31:06: Server cvar "max_queries_window" = "60"
+L 07/04/2020 - 20:31:06: Server cvar "metamod_version" = "1.20"
+L 07/04/2020 - 20:31:06: Server cvar "mp_allowmonsters" = "0"
+L 07/04/2020 - 20:31:06: Server cvar "mp_autokick" = "0"
+L 07/04/2020 - 20:31:06: Server cvar "mp_autokick_timeout" = "-1"
+L 07/04/2020 - 20:31:06: Server cvar "mp_autoteambalance" = "0"
+L 07/04/2020 - 20:31:06: Server cvar "mp_buytime" = "1.5"
+L 07/04/2020 - 20:31:06: Server cvar "mp_c4timer" = "45"
+L 07/04/2020 - 20:31:06: Server cvar "mp_chattime" = "0"
+L 07/04/2020 - 20:31:06: Server cvar "mp_consistency" = "1"
+L 07/04/2020 - 20:31:06: Server cvar "mp_fadetoblack" = "0"
+L 07/04/2020 - 20:31:06: Server cvar "mp_flashlight" = "0"
+L 07/04/2020 - 20:31:06: Server cvar "mp_footsteps" = "1"
+L 07/04/2020 - 20:31:06: Server cvar "mp_forcecamera" = "0"
+L 07/04/2020 - 20:31:06: Server cvar "mp_forcechasecam" = "2"
+L 07/04/2020 - 20:31:06: Server cvar "mp_fragsleft" = "0"
+L 07/04/2020 - 20:31:06: Server cvar "mp_freezetime" = "10"
+L 07/04/2020 - 20:31:06: Server cvar "mp_friendlyfire" = "1"
+L 07/04/2020 - 20:31:06: Server cvar "mp_ghostfrequency" = "0.1"
+L 07/04/2020 - 20:31:06: Server cvar "mp_hostagepenalty" = "2"
+L 07/04/2020 - 20:31:06: Server cvar "mp_infinite_ammo" = "0"
+L 07/04/2020 - 20:31:06: Server cvar "mp_kickpercent" = "0.66"
+L 07/04/2020 - 20:31:06: Server cvar "mp_limitteams" = "5"
+L 07/04/2020 - 20:31:06: Server cvar "mp_logdetail" = "0"
+L 07/04/2020 - 20:31:06: Server cvar "mp_logfile" = "1"
+L 07/04/2020 - 20:31:06: Server cvar "mp_logmessages" = "1"
+L 07/04/2020 - 20:31:06: Server cvar "mp_mapvoteratio" = "0.66"
+L 07/04/2020 - 20:31:06: Server cvar "mp_maxrounds" = "0"
+L 07/04/2020 - 20:31:06: Server cvar "mp_mirrordamage" = "0"
+L 07/04/2020 - 20:31:06: Server cvar "mp_playerid" = "0"
+L 07/04/2020 - 20:31:06: Server cvar "mp_roundtime" = "2"
+L 07/04/2020 - 20:31:06: Server cvar "mp_scoreboard_showhealth" = "3"
+L 07/04/2020 - 20:31:06: Server cvar "mp_scoreboard_showmoney" = "3"
+L 07/04/2020 - 20:31:06: Server cvar "mp_startmoney" = "800"
+L 07/04/2020 - 20:31:06: Server cvar "mp_timeleft" = "0"
+L 07/04/2020 - 20:31:06: Server cvar "mp_timelimit" = "65535"
+L 07/04/2020 - 20:31:06: Server cvar "mp_tkpunish" = "0"
+L 07/04/2020 - 20:31:06: Server cvar "mp_windifference" = "1"
+L 07/04/2020 - 20:31:06: Server cvar "mp_winlimit" = "0"
+L 07/04/2020 - 20:31:06: Server cvar "pausable" = "0"
+L 07/04/2020 - 20:31:06: Server cvar "sv_accelerate" = "5"
+L 07/04/2020 - 20:31:06: Server cvar "sv_aim" = "0"
+L 07/04/2020 - 20:31:06: Server cvar "sv_airaccelerate" = "10"
+L 07/04/2020 - 20:31:06: Server cvar "sv_allowupload" = "1"
+L 07/04/2020 - 20:31:06: Server cvar "sv_alltalk" = "0"
+L 07/04/2020 - 20:31:06: Server cvar "sv_bounce" = "1"
+L 07/04/2020 - 20:31:06: Server cvar "sv_cheats" = "0"
+L 07/04/2020 - 20:31:06: Server cvar "sv_clienttrace" = "1"
+L 07/04/2020 - 20:31:06: Server cvar "sv_contact" = "apoo12345@gmail.com"
+L 07/04/2020 - 20:31:06: Server cvar "sv_friction" = "4"
+L 07/04/2020 - 20:31:06: Server cvar "sv_gravity" = "800"
+L 07/04/2020 - 20:31:06: Server cvar "sv_logblocks" = "0"
+L 07/04/2020 - 20:31:06: Server cvar "sv_maxrate" = "20000"
+L 07/04/2020 - 20:31:06: Server cvar "sv_maxspeed" = "900"
+L 07/04/2020 - 20:31:06: Server cvar "sv_minrate" = "5000"
+L 07/04/2020 - 20:31:06: Server cvar "sv_password" = "Lauda"
+L 07/04/2020 - 20:31:06: Server cvar "sv_proxies" = "1"
+L 07/04/2020 - 20:31:06: Server cvar "sv_restart" = "0"
+L 07/04/2020 - 20:31:06: Server cvar "sv_restartround" = "0"
+L 07/04/2020 - 20:31:06: Server cvar "sv_stepsize" = "18"
+L 07/04/2020 - 20:31:06: Server cvar "sv_stopspeed" = "75"
+L 07/04/2020 - 20:31:06: Server cvar "sv_uploadmax" = "0.5"
+L 07/04/2020 - 20:31:06: Server cvar "sv_voiceenable" = "0"
+L 07/04/2020 - 20:31:06: Server cvar "sv_wateraccelerate" = "10"
+L 07/04/2020 - 20:31:06: Server cvar "sv_waterfriction" = "1"
+L 07/04/2020 - 20:31:06: Server cvars end
+L 07/04/2020 - 20:31:07: Server cvar "amx_nextmap" = "DE_NUKE"
+L 07/04/2020 - 20:31:08: Started map "DE_NUKE" (CRC "-1757378041")
+L 07/04/2020 - 20:31:11: "Ninja Bois || StuFu<782><STEAM_0:1:147341737><>" entered the game
+L 07/04/2020 - 20:31:12: "Ninja Bois || Escanor<787><STEAM_0:0:83230422><>" entered the game
+L 07/04/2020 - 20:31:12: "First Aid Box || sUthoL<786><STEAM_0:0:1414580386><>" entered the game
+L 07/04/2020 - 20:31:12: "Ninja Bois || F5<785><VALVE_0:4:60688751><>" entered the game
+L 07/04/2020 - 20:31:12: "Branco Bois || pRo_rVlTN<761><STEAM_0:1:546352772><>" entered the game
+L 07/04/2020 - 20:31:13: "PROfessor || wolf<775><VALVE_0:4:1088121065><>" entered the game
+L 07/04/2020 - 20:31:18: "Ninja Bois || Escanor<787><STEAM_0:0:83230422><>" joined team "CT"
+L 07/04/2020 - 20:31:19: World triggered "Round_Start"
+L 07/04/2020 - 20:31:22: "Ninja Bois || F5<785><VALVE_0:4:60688751><>" joined team "CT"
+L 07/04/2020 - 20:31:23: [DPROTO]: Client 1 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0566D040
+L 07/04/2020 - 20:31:23: "First Aid Box || bORoLiNe<788><STEAM_0:0:455086556><>" connected, address "218.212.170.198:27005"
+L 07/04/2020 - 20:31:27: "First Aid Box || bORoLiNe<788><STEAM_0:0:455086556><>" entered the game
+L 07/04/2020 - 20:31:31: "First Aid Box || sUthoL<786><STEAM_0:0:1414580386><>" joined team "TERRORIST"
+L 07/04/2020 - 20:31:31: World triggered "Game_Commencing"
+L 07/04/2020 - 20:31:31: World triggered "Game_Commencing" (CT "0") (T "0")
+L 07/04/2020 - 20:31:31: World triggered "Round_End"
+L 07/04/2020 - 20:31:34: "PROfessor || wolf<775><VALVE_0:4:1088121065><>" joined team "SPECTATOR"
+L 07/04/2020 - 20:31:34: "First Aid Box || sUthoL<786><STEAM_0:0:1414580386><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 07/04/2020 - 20:31:37: "Branco Bois || pRo_rVlTN<761><STEAM_0:1:546352772><>" disconnected
+L 07/04/2020 - 20:31:44: [DPROTO]: Client 0 - Set AuthIdType 1 [Native]; pClient = 05668028
+L 07/04/2020 - 20:31:44: "First Aid Box || BURNol<789><STEAM_0:1:49729967><>" connected, address "180.151.106.26:27005"
+L 07/04/2020 - 20:31:44: "First Aid Box || BURNol<789><STEAM_0:1:49729967><>" STEAM USERID validated
+L 07/04/2020 - 20:31:44: World triggered "Round_Start"
+L 07/04/2020 - 20:31:46: "First Aid Box || bORoLiNe<788><STEAM_0:0:455086556><>" joined team "TERRORIST"
+L 07/04/2020 - 20:31:55: "First Aid Box || BURNol<789><STEAM_0:1:49729967><>" entered the game
+L 07/04/2020 - 20:32:06: "First Aid Box || bORoLiNe<788><STEAM_0:0:455086556><TERRORIST>" killed "Ninja Bois || Escanor<787><STEAM_0:0:83230422><CT>" with "glock18"
+L 07/04/2020 - 20:32:11: [DPROTO]: Client 2 - Set AuthIdType 1 [Native]; pClient = 05672058
+L 07/04/2020 - 20:32:11: "First Aid Box || CoroNIL<790><STEAM_0:0:60684219><>" connected, address "137.132.214.44:27005"
+L 07/04/2020 - 20:32:11: "Ninja Bois || StuFu<782><STEAM_0:1:147341737><>" joined team "TERRORIST"
+L 07/04/2020 - 20:32:11: "First Aid Box || CoroNIL<790><STEAM_0:0:60684219><>" STEAM USERID validated
+L 07/04/2020 - 20:32:15: Rcon: "rcon 730833704 "Lauda2" CHANGELEVEL DE_INFERNO" from "106.51.30.169:30398"
+L 07/04/2020 - 20:32:15: [META] ini: Begin re-reading plugins list: g:/tcafiles/users/fkguxmko/7303/cstrike/addons/metamod/plugins.ini
+L 07/04/2020 - 20:32:15: [META] ini: Read plugin config for: AMX Mod X
+L 07/04/2020 - 20:32:15: [META] ini: Read plugin config for: dproto_EF
+L 07/04/2020 - 20:32:15: [META] ini: Finished reading plugins list: g:/tcafiles/users/fkguxmko/7303/cstrike/addons/metamod/plugins.ini; Found 2 plugins
+L 07/04/2020 - 20:32:15: [META] dll: Updating plugins...
+L 07/04/2020 - 20:32:15: [META] dll: Finished updating 5 plugins; kept 2, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 07/04/2020 - 20:32:15: "First Aid Box || BURNol<789><STEAM_0:1:49729967><>" disconnected
+L 07/04/2020 - 20:32:15: "First Aid Box || bORoLiNe<788><STEAM_0:0:455086556><TERRORIST>" disconnected
+L 07/04/2020 - 20:32:15: "First Aid Box || sUthoL<786><STEAM_0:0:1414580386><TERRORIST>" triggered "Dropped_The_Bomb"
+L 07/04/2020 - 20:32:15: "First Aid Box || sUthoL<786><STEAM_0:0:1414580386><TERRORIST>" disconnected
+L 07/04/2020 - 20:32:15: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 07/04/2020 - 20:32:15: World triggered "Round_End"
+L 07/04/2020 - 20:32:15: "Ninja Bois || Escanor<787><STEAM_0:0:83230422><CT>" disconnected
+L 07/04/2020 - 20:32:15: "Ninja Bois || StuFu<782><STEAM_0:1:147341737><TERRORIST>" disconnected
+L 07/04/2020 - 20:32:15: "PROfessor || wolf<775><VALVE_0:4:1088121065><SPECTATOR>" disconnected
+L 07/04/2020 - 20:32:15: "Ninja Bois || F5<785><VALVE_0:4:60688751><CT>" disconnected
+L 07/04/2020 - 20:32:15: Log file closed

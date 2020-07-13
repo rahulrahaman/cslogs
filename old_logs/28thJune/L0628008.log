@@ -1,0 +1,269 @@
+L 06/28/2020 - 17:17:28: Log file started (file "logs\L0628008.log") (game "cstrike") (version "48/1.1.2.7/8308")
+L 06/28/2020 - 17:17:28: Loading map "de_inferno"
+L 06/28/2020 - 17:17:28: Server cvars start
+L 06/28/2020 - 17:17:28: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 06/28/2020 - 17:17:28: Server cvar "_tutor_debug_level" = "0"
+L 06/28/2020 - 17:17:28: Server cvar "_tutor_examine_time" = "0.5"
+L 06/28/2020 - 17:17:28: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 06/28/2020 - 17:17:28: Server cvar "_tutor_look_angle" = "10"
+L 06/28/2020 - 17:17:28: Server cvar "_tutor_look_distance" = "200"
+L 06/28/2020 - 17:17:28: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 06/28/2020 - 17:17:28: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 06/28/2020 - 17:17:28: Server cvar "_tutor_message_repeats" = "5"
+L 06/28/2020 - 17:17:28: Server cvar "_tutor_view_distance" = "1000"
+L 06/28/2020 - 17:17:28: Server cvar "allow_spectators" = "1"
+L 06/28/2020 - 17:17:28: Server cvar "amx_client_languages" = "1"
+L 06/28/2020 - 17:17:28: Server cvar "amx_language" = "en"
+L 06/28/2020 - 17:17:28: Server cvar "amx_nextmap" = "$2000$"
+L 06/28/2020 - 17:17:28: Server cvar "amx_timeleft" = "65477:45"
+L 06/28/2020 - 17:17:28: Server cvar "amxmodx_version" = "1.8.2"
+L 06/28/2020 - 17:17:28: Server cvar "coop" = "0"
+L 06/28/2020 - 17:17:28: Server cvar "deathmatch" = "1"
+L 06/28/2020 - 17:17:28: Server cvar "decalfrequency" = "60"
+L 06/28/2020 - 17:17:28: Server cvar "dp_version" = "0.9.582"
+L 06/28/2020 - 17:17:28: Server cvar "edgefriction" = "2"
+L 06/28/2020 - 17:17:28: Server cvar "hostage_debug" = "0"
+L 06/28/2020 - 17:17:28: Server cvar "hostage_stop" = "0"
+L 06/28/2020 - 17:17:28: Server cvar "humans_join_team" = "any"
+L 06/28/2020 - 17:17:28: Server cvar "max_queries_sec" = "3.0"
+L 06/28/2020 - 17:17:28: Server cvar "max_queries_sec_global" = "30"
+L 06/28/2020 - 17:17:28: Server cvar "max_queries_window" = "60"
+L 06/28/2020 - 17:17:28: Server cvar "metamod_version" = "1.20"
+L 06/28/2020 - 17:17:28: Server cvar "mp_allowmonsters" = "0"
+L 06/28/2020 - 17:17:28: Server cvar "mp_autokick" = "0"
+L 06/28/2020 - 17:17:28: Server cvar "mp_autokick_timeout" = "-1"
+L 06/28/2020 - 17:17:28: Server cvar "mp_autoteambalance" = "0"
+L 06/28/2020 - 17:17:28: Server cvar "mp_buytime" = "1.5"
+L 06/28/2020 - 17:17:28: Server cvar "mp_c4timer" = "45"
+L 06/28/2020 - 17:17:28: Server cvar "mp_chattime" = "0"
+L 06/28/2020 - 17:17:28: Server cvar "mp_consistency" = "1"
+L 06/28/2020 - 17:17:28: Server cvar "mp_fadetoblack" = "0"
+L 06/28/2020 - 17:17:28: Server cvar "mp_flashlight" = "0"
+L 06/28/2020 - 17:17:28: Server cvar "mp_footsteps" = "1"
+L 06/28/2020 - 17:17:28: Server cvar "mp_forcecamera" = "0"
+L 06/28/2020 - 17:17:28: Server cvar "mp_forcechasecam" = "2"
+L 06/28/2020 - 17:17:28: Server cvar "mp_fragsleft" = "0"
+L 06/28/2020 - 17:17:28: Server cvar "mp_freezetime" = "8"
+L 06/28/2020 - 17:17:28: Server cvar "mp_friendlyfire" = "1"
+L 06/28/2020 - 17:17:28: Server cvar "mp_ghostfrequency" = "0.1"
+L 06/28/2020 - 17:17:28: Server cvar "mp_hostagepenalty" = "2"
+L 06/28/2020 - 17:17:28: Server cvar "mp_infinite_ammo" = "0"
+L 06/28/2020 - 17:17:28: Server cvar "mp_kickpercent" = "0.66"
+L 06/28/2020 - 17:17:28: Server cvar "mp_limitteams" = "5"
+L 06/28/2020 - 17:17:28: Server cvar "mp_logdetail" = "0"
+L 06/28/2020 - 17:17:28: Server cvar "mp_logfile" = "1"
+L 06/28/2020 - 17:17:28: Server cvar "mp_logmessages" = "1"
+L 06/28/2020 - 17:17:28: Server cvar "mp_mapvoteratio" = "0.66"
+L 06/28/2020 - 17:17:28: Server cvar "mp_maxrounds" = "0"
+L 06/28/2020 - 17:17:28: Server cvar "mp_mirrordamage" = "0"
+L 06/28/2020 - 17:17:28: Server cvar "mp_playerid" = "0"
+L 06/28/2020 - 17:17:28: Server cvar "mp_roundtime" = "2"
+L 06/28/2020 - 17:17:28: Server cvar "mp_scoreboard_showhealth" = "3"
+L 06/28/2020 - 17:17:28: Server cvar "mp_scoreboard_showmoney" = "3"
+L 06/28/2020 - 17:17:28: Server cvar "mp_startmoney" = "800"
+L 06/28/2020 - 17:17:28: Server cvar "mp_timeleft" = "0"
+L 06/28/2020 - 17:17:28: Server cvar "mp_timelimit" = "65535"
+L 06/28/2020 - 17:17:28: Server cvar "mp_tkpunish" = "0"
+L 06/28/2020 - 17:17:28: Server cvar "mp_windifference" = "1"
+L 06/28/2020 - 17:17:28: Server cvar "mp_winlimit" = "0"
+L 06/28/2020 - 17:17:28: Server cvar "pausable" = "0"
+L 06/28/2020 - 17:17:28: Server cvar "sv_accelerate" = "5"
+L 06/28/2020 - 17:17:28: Server cvar "sv_aim" = "0"
+L 06/28/2020 - 17:17:28: Server cvar "sv_airaccelerate" = "10"
+L 06/28/2020 - 17:17:28: Server cvar "sv_allowupload" = "1"
+L 06/28/2020 - 17:17:28: Server cvar "sv_alltalk" = "0"
+L 06/28/2020 - 17:17:28: Server cvar "sv_bounce" = "1"
+L 06/28/2020 - 17:17:28: Server cvar "sv_cheats" = "0"
+L 06/28/2020 - 17:17:28: Server cvar "sv_clienttrace" = "1"
+L 06/28/2020 - 17:17:28: Server cvar "sv_contact" = "apoo12345@gmail.com"
+L 06/28/2020 - 17:17:28: Server cvar "sv_friction" = "4"
+L 06/28/2020 - 17:17:28: Server cvar "sv_gravity" = "800"
+L 06/28/2020 - 17:17:28: Server cvar "sv_logblocks" = "0"
+L 06/28/2020 - 17:17:28: Server cvar "sv_maxrate" = "20000"
+L 06/28/2020 - 17:17:28: Server cvar "sv_maxspeed" = "900"
+L 06/28/2020 - 17:17:28: Server cvar "sv_minrate" = "5000"
+L 06/28/2020 - 17:17:28: Server cvar "sv_password" = "Lauda"
+L 06/28/2020 - 17:17:28: Server cvar "sv_proxies" = "1"
+L 06/28/2020 - 17:17:28: Server cvar "sv_restart" = "0"
+L 06/28/2020 - 17:17:28: Server cvar "sv_restartround" = "0"
+L 06/28/2020 - 17:17:28: Server cvar "sv_stepsize" = "18"
+L 06/28/2020 - 17:17:28: Server cvar "sv_stopspeed" = "75"
+L 06/28/2020 - 17:17:28: Server cvar "sv_uploadmax" = "0.5"
+L 06/28/2020 - 17:17:28: Server cvar "sv_voiceenable" = "0"
+L 06/28/2020 - 17:17:28: Server cvar "sv_wateraccelerate" = "10"
+L 06/28/2020 - 17:17:28: Server cvar "sv_waterfriction" = "1"
+L 06/28/2020 - 17:17:28: Server cvars end
+L 06/28/2020 - 17:17:30: Server cvar "amx_nextmap" = "de_inferno"
+L 06/28/2020 - 17:17:31: Started map "de_inferno" (CRC "-1312756001")
+L 06/28/2020 - 17:17:33: "Mahabharat || StuFu<315><STEAM_0:1:147341737><>" entered the game
+L 06/28/2020 - 17:17:35: "Agent Felix<313><STEAM_0:1:539804210><>" entered the game
+L 06/28/2020 - 17:17:35: "Mahabharat || StuFu<315><STEAM_0:1:147341737><>" joined team "TERRORIST"
+L 06/28/2020 - 17:17:35: "Hathoda Tyagi<303><STEAM_0:0:266700107><>" entered the game
+L 06/28/2020 - 17:17:35: "Ladder<310><STEAM_0:0:369456433><>" entered the game
+L 06/28/2020 - 17:17:35: "Mahabharat || StuFu<315><STEAM_0:1:147341737><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 06/28/2020 - 17:17:35: "Kh@n**r Ch@k@<300><STEAM_0:0:1663171942><>" entered the game
+L 06/28/2020 - 17:17:35: "pRo_rvltn<307><STEAM_0:1:546352772><>" entered the game
+L 06/28/2020 - 17:17:36: "1729<314><STEAM_0:0:1921819853><>" entered the game
+L 06/28/2020 - 17:17:38: "HKB<312><STEAM_0:0:829514906><>" entered the game
+L 06/28/2020 - 17:17:38: "Agent Felix<313><STEAM_0:1:539804210><>" joined team "TERRORIST"
+L 06/28/2020 - 17:17:39: "U<305><STEAM_0:0:294118000><>" entered the game
+L 06/28/2020 - 17:17:40: World triggered "Round_Start"
+L 06/28/2020 - 17:17:40: "Kh@n**r Ch@k@<300><STEAM_0:0:1663171942><>" joined team "CT"
+L 06/28/2020 - 17:17:40: World triggered "Game_Commencing"
+L 06/28/2020 - 17:17:40: World triggered "Game_Commencing" (CT "0") (T "0")
+L 06/28/2020 - 17:17:40: World triggered "Round_End"
+L 06/28/2020 - 17:17:41: "Mahabharat || StuFu<315><STEAM_0:1:147341737><TERRORIST>" say "ek map hon jayega"
+L 06/28/2020 - 17:17:42: "1729<314><STEAM_0:0:1921819853><>" joined team "CT"
+L 06/28/2020 - 17:17:43: "Mahabharat || StuFu<315><STEAM_0:1:147341737><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 06/28/2020 - 17:17:44: "Agent Felix<313><STEAM_0:1:539804210><TERRORIST>" committed suicide with "world"
+L 06/28/2020 - 17:17:44: "Agent Felix<313><STEAM_0:1:539804210><TERRORIST>" joined team "CT"
+L 06/28/2020 - 17:17:47: "Hathoda Tyagi<303><STEAM_0:0:266700107><>" disconnected
+L 06/28/2020 - 17:17:48: "Mahabharat || StuFu<315><STEAM_0:1:147341737><TERRORIST>" say "join fast"
+L 06/28/2020 - 17:17:51: "HKB<312><STEAM_0:0:829514906><>" joined team "TERRORIST"
+L 06/28/2020 - 17:17:51: World triggered "Round_Start"
+L 06/28/2020 - 17:18:01: Rcon: "rcon 730833704 "Lauda2" sv_restart 1" from "106.51.30.169:31174"
+L 06/28/2020 - 17:18:01: Server cvar "sv_restart" = "1"
+L 06/28/2020 - 17:18:02: World triggered "Restart_Round_(1_second)"
+L 06/28/2020 - 17:18:02: Team "CT" scored "0" with "3" players
+L 06/28/2020 - 17:18:02: Team "TERRORIST" scored "0" with "2" players
+L 06/28/2020 - 17:18:02: Server cvar "sv_restart" = "0"
+L 06/28/2020 - 17:18:03: "HKB<312><STEAM_0:0:829514906><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 06/28/2020 - 17:18:07: "Agent Felix<313><STEAM_0:1:539804210><CT>" committed suicide with "world"
+L 06/28/2020 - 17:18:07: "Agent Felix<313><STEAM_0:1:539804210><CT>" joined team "TERRORIST"
+L 06/28/2020 - 17:18:11: "Agent Felix<313><STEAM_0:1:539804210><TERRORIST>" disconnected
+L 06/28/2020 - 17:18:11: [DPROTO]: Client 5 - Set AuthIdType 1 [Native]; pClient = 056810A0
+L 06/28/2020 - 17:18:11: "Agent Felix<316><STEAM_0:1:539804210><>" connected, address "103.251.50.59:27005"
+L 06/28/2020 - 17:18:11: World triggered "Round_Start"
+L 06/28/2020 - 17:18:11: "Agent Felix<316><STEAM_0:1:539804210><>" STEAM USERID validated
+L 06/28/2020 - 17:18:14: "Agent Felix<316><STEAM_0:1:539804210><>" entered the game
+L 06/28/2020 - 17:18:14: "Ladder<310><STEAM_0:0:369456433><>" joined team "TERRORIST"
+L 06/28/2020 - 17:18:15: "Agent Felix<316><STEAM_0:1:539804210><>" joined team "TERRORIST"
+L 06/28/2020 - 17:18:27: "Kh@n**r Ch@k@<300><STEAM_0:0:1663171942><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "usp"
+L 06/28/2020 - 17:18:28: "1729<314><STEAM_0:0:1921819853><CT>" killed "Agent Felix<316><STEAM_0:1:539804210><TERRORIST>" with "usp"
+L 06/28/2020 - 17:18:32: "1729<314><STEAM_0:0:1921819853><CT>" killed "HKB<312><STEAM_0:0:829514906><TERRORIST>" with "usp"
+L 06/28/2020 - 17:18:32: "HKB<312><STEAM_0:0:829514906><TERRORIST>" triggered "Dropped_The_Bomb"
+L 06/28/2020 - 17:18:35: "1729<314><STEAM_0:0:1921819853><CT>" killed "Mahabharat || StuFu<315><STEAM_0:1:147341737><TERRORIST>" with "usp"
+L 06/28/2020 - 17:18:35: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 06/28/2020 - 17:18:35: World triggered "Round_End"
+L 06/28/2020 - 17:18:40: "Agent Felix<316><STEAM_0:1:539804210><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 06/28/2020 - 17:18:47: "Mahabharat || StuFu<315><STEAM_0:1:147341737><TERRORIST>" committed suicide with "world"
+L 06/28/2020 - 17:18:47: "Mahabharat || StuFu<315><STEAM_0:1:147341737><TERRORIST>" joined team "CT"
+L 06/28/2020 - 17:18:48: Rcon: "rcon 730833704 "Lauda2" sv_restart 1" from "106.51.30.169:31174"
+L 06/28/2020 - 17:18:48: Server cvar "sv_restart" = "1"
+L 06/28/2020 - 17:18:48: World triggered "Round_Start"
+L 06/28/2020 - 17:18:48: World triggered "Restart_Round_(1_second)"
+L 06/28/2020 - 17:18:48: Team "CT" scored "1" with "3" players
+L 06/28/2020 - 17:18:48: Team "TERRORIST" scored "0" with "3" players
+L 06/28/2020 - 17:18:48: Server cvar "sv_restart" = "0"
+L 06/28/2020 - 17:18:49: "HKB<312><STEAM_0:0:829514906><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 06/28/2020 - 17:18:52: "Mahabharat || StuFu<315><STEAM_0:1:147341737><CT>" say "LIVE"
+L 06/28/2020 - 17:18:57: World triggered "Round_Start"
+L 06/28/2020 - 17:19:03: "Agent Felix<316><STEAM_0:1:539804210><TERRORIST>" say_team "apa"
+L 06/28/2020 - 17:19:12: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "1729<314><STEAM_0:0:1921819853><CT>" with "glock18"
+L 06/28/2020 - 17:19:13: "Mahabharat || StuFu<315><STEAM_0:1:147341737><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "deagle"
+L 06/28/2020 - 17:19:17: "Kh@n**r Ch@k@<300><STEAM_0:0:1663171942><CT>" killed "HKB<312><STEAM_0:0:829514906><TERRORIST>" with "usp"
+L 06/28/2020 - 17:19:17: "HKB<312><STEAM_0:0:829514906><TERRORIST>" triggered "Dropped_The_Bomb"
+L 06/28/2020 - 17:19:39: [DPROTO]: Client 1 - Set AuthIdType 1 [Native]; pClient = 0566D040
+L 06/28/2020 - 17:19:39: ">.<<317><STEAM_0:0:60684219><>" connected, address "137.132.215.1:27005"
+L 06/28/2020 - 17:19:39: ">.<<317><STEAM_0:0:60684219><>" STEAM USERID validated
+L 06/28/2020 - 17:19:43: "HKB<312><STEAM_0:0:829514906><TERRORIST>" say "tramp e bd" (dead)
+L 06/28/2020 - 17:19:44: "Agent Felix<316><STEAM_0:1:539804210><TERRORIST>" killed "Mahabharat || StuFu<315><STEAM_0:1:147341737><CT>" with "deagle"
+L 06/28/2020 - 17:19:45: ">.<<317><STEAM_0:0:60684219><>" entered the game
+L 06/28/2020 - 17:19:52: "Kh@n**r Ch@k@<300><STEAM_0:0:1663171942><CT>" killed "Agent Felix<316><STEAM_0:1:539804210><TERRORIST>" with "usp"
+L 06/28/2020 - 17:19:52: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 06/28/2020 - 17:19:52: World triggered "Round_End"
+L 06/28/2020 - 17:19:57: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 06/28/2020 - 17:20:05: World triggered "Round_Start"
+L 06/28/2020 - 17:20:11: ">.<<317><STEAM_0:0:60684219><>" joined team "TERRORIST"
+L 06/28/2020 - 17:20:18: "Agent Felix<316><STEAM_0:1:539804210><TERRORIST>" killed "Kh@n**r Ch@k@<300><STEAM_0:0:1663171942><CT>" with "glock18"
+L 06/28/2020 - 17:20:23: "1729<314><STEAM_0:0:1921819853><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:20:24: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" triggered "Dropped_The_Bomb"
+L 06/28/2020 - 17:20:32: ">.<<317><STEAM_0:0:60684219><TERRORIST>" killed "Mahabharat || StuFu<315><STEAM_0:1:147341737><CT>" with "glock18"
+L 06/28/2020 - 17:20:33: "Agent Felix<316><STEAM_0:1:539804210><TERRORIST>" triggered "Got_The_Bomb"
+L 06/28/2020 - 17:20:33: "1729<314><STEAM_0:0:1921819853><CT>" killed "HKB<312><STEAM_0:0:829514906><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:20:39: "1729<314><STEAM_0:0:1921819853><CT>" killed ">.<<317><STEAM_0:0:60684219><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:20:49: "Agent Felix<316><STEAM_0:1:539804210><TERRORIST>" triggered "Planted_The_Bomb"
+L 06/28/2020 - 17:21:01: "1729<314><STEAM_0:0:1921819853><CT>" triggered "Begin_Bomb_Defuse_With_Kit"
+L 06/28/2020 - 17:21:04: "1729<314><STEAM_0:0:1921819853><CT>" killed "Agent Felix<316><STEAM_0:1:539804210><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:21:06: "1729<314><STEAM_0:0:1921819853><CT>" triggered "Begin_Bomb_Defuse_With_Kit"
+L 06/28/2020 - 17:21:11: "1729<314><STEAM_0:0:1921819853><CT>" triggered "Defused_The_Bomb"
+L 06/28/2020 - 17:21:11: Team "CT" triggered "Bomb_Defused" (CT "2") (T "0")
+L 06/28/2020 - 17:21:11: World triggered "Round_End"
+L 06/28/2020 - 17:21:16: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 06/28/2020 - 17:21:22: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" triggered "Dropped_The_Bomb"
+L 06/28/2020 - 17:21:24: World triggered "Round_Start"
+L 06/28/2020 - 17:21:25: "Agent Felix<316><STEAM_0:1:539804210><TERRORIST>" triggered "Got_The_Bomb"
+L 06/28/2020 - 17:21:27: "Agent Felix<316><STEAM_0:1:539804210><TERRORIST>" say_team "apa"
+L 06/28/2020 - 17:21:29: "U<305><STEAM_0:0:294118000><>" joined team "CT"
+L 06/28/2020 - 17:21:45: "Mahabharat || StuFu<315><STEAM_0:1:147341737><CT>" killed ">.<<317><STEAM_0:0:60684219><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:21:50: "1729<314><STEAM_0:0:1921819853><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:21:51: "Mahabharat || StuFu<315><STEAM_0:1:147341737><CT>" killed "HKB<312><STEAM_0:0:829514906><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:22:19: "Agent Felix<316><STEAM_0:1:539804210><TERRORIST>" triggered "Planted_The_Bomb"
+L 06/28/2020 - 17:22:27: "Agent Felix<316><STEAM_0:1:539804210><TERRORIST>" killed "1729<314><STEAM_0:0:1921819853><CT>" with "ak47"
+L 06/28/2020 - 17:22:47: "Agent Felix<316><STEAM_0:1:539804210><TERRORIST>" killed "Mahabharat || StuFu<315><STEAM_0:1:147341737><CT>" with "ak47"
+L 06/28/2020 - 17:22:47: "Kh@n**r Ch@k@<300><STEAM_0:0:1663171942><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 06/28/2020 - 17:22:49: "U<305><STEAM_0:0:294118000><CT>" killed "Agent Felix<316><STEAM_0:1:539804210><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:22:57: "Kh@n**r Ch@k@<300><STEAM_0:0:1663171942><CT>" triggered "Defused_The_Bomb"
+L 06/28/2020 - 17:22:57: Team "CT" triggered "Bomb_Defused" (CT "3") (T "0")
+L 06/28/2020 - 17:22:57: World triggered "Round_End"
+L 06/28/2020 - 17:23:02: "Agent Felix<316><STEAM_0:1:539804210><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 06/28/2020 - 17:23:10: World triggered "Round_Start"
+L 06/28/2020 - 17:23:12: "Agent Felix<316><STEAM_0:1:539804210><TERRORIST>" say "lunch kore ashci"
+L 06/28/2020 - 17:23:15: "Agent Felix<316><STEAM_0:1:539804210><TERRORIST>" triggered "Dropped_The_Bomb"
+L 06/28/2020 - 17:23:15: "Agent Felix<316><STEAM_0:1:539804210><TERRORIST>" disconnected
+L 06/28/2020 - 17:23:33: "1729<314><STEAM_0:0:1921819853><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "awp"
+L 06/28/2020 - 17:23:34: ">.<<317><STEAM_0:0:60684219><TERRORIST>" triggered "Got_The_Bomb"
+L 06/28/2020 - 17:23:42: "1729<314><STEAM_0:0:1921819853><CT>" killed ">.<<317><STEAM_0:0:60684219><TERRORIST>" with "awp"
+L 06/28/2020 - 17:23:42: ">.<<317><STEAM_0:0:60684219><TERRORIST>" triggered "Dropped_The_Bomb"
+L 06/28/2020 - 17:23:48: "U<305><STEAM_0:0:294118000><CT>" killed "HKB<312><STEAM_0:0:829514906><TERRORIST>" with "grenade"
+L 06/28/2020 - 17:23:48: Team "CT" triggered "CTs_Win" (CT "4") (T "0")
+L 06/28/2020 - 17:23:48: World triggered "Round_End"
+L 06/28/2020 - 17:23:53: ">.<<317><STEAM_0:0:60684219><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 06/28/2020 - 17:23:55: "Kh@n**r Ch@k@<300><STEAM_0:0:1663171942><CT>" disconnected
+L 06/28/2020 - 17:24:01: World triggered "Round_Start"
+L 06/28/2020 - 17:24:20: "HKB<312><STEAM_0:0:829514906><TERRORIST>" killed "U<305><STEAM_0:0:294118000><CT>" with "galil"
+L 06/28/2020 - 17:24:21: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "Mahabharat || StuFu<315><STEAM_0:1:147341737><CT>" with "ak47"
+L 06/28/2020 - 17:24:23: "1729<314><STEAM_0:0:1921819853><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "awp"
+L 06/28/2020 - 17:24:32: "1729<314><STEAM_0:0:1921819853><CT>" killed "HKB<312><STEAM_0:0:829514906><TERRORIST>" with "awp"
+L 06/28/2020 - 17:24:37: ">.<<317><STEAM_0:0:60684219><TERRORIST>" triggered "Planted_The_Bomb"
+L 06/28/2020 - 17:24:57: "U<305><STEAM_0:0:294118000><CT>" disconnected
+L 06/28/2020 - 17:25:04: ">.<<317><STEAM_0:0:60684219><TERRORIST>" killed "1729<314><STEAM_0:0:1921819853><CT>" with "deagle"
+L 06/28/2020 - 17:25:04: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "1")
+L 06/28/2020 - 17:25:04: World triggered "Round_End"
+L 06/28/2020 - 17:25:09: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 06/28/2020 - 17:25:15: "HKB<312><STEAM_0:0:829514906><TERRORIST>" say "bolchi train lagao r ektu chenao amake"
+L 06/28/2020 - 17:25:17: World triggered "Round_Start"
+L 06/28/2020 - 17:25:31: ">.<<317><STEAM_0:0:60684219><TERRORIST>" killed "1729<314><STEAM_0:0:1921819853><CT>" with "awp"
+L 06/28/2020 - 17:25:45: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "Mahabharat || StuFu<315><STEAM_0:1:147341737><CT>" with "ak47"
+L 06/28/2020 - 17:25:45: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "2")
+L 06/28/2020 - 17:25:45: World triggered "Round_End"
+L 06/28/2020 - 17:25:50: "HKB<312><STEAM_0:0:829514906><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 06/28/2020 - 17:25:58: World triggered "Round_Start"
+L 06/28/2020 - 17:26:16: "1729<314><STEAM_0:0:1921819853><CT>" killed "HKB<312><STEAM_0:0:829514906><TERRORIST>" with "usp"
+L 06/28/2020 - 17:26:16: "HKB<312><STEAM_0:0:829514906><TERRORIST>" triggered "Dropped_The_Bomb"
+L 06/28/2020 - 17:26:24: "1729<314><STEAM_0:0:1921819853><CT>" killed ">.<<317><STEAM_0:0:60684219><TERRORIST>" with "galil"
+L 06/28/2020 - 17:26:25: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "1729<314><STEAM_0:0:1921819853><CT>" with "m4a1"
+L 06/28/2020 - 17:26:53: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" triggered "Got_The_Bomb"
+L 06/28/2020 - 17:26:55: ">.<<317><STEAM_0:0:60684219><TERRORIST>" say "hkb er eto lag ki kore?" (dead)
+L 06/28/2020 - 17:26:59: "Mahabharat || StuFu<315><STEAM_0:1:147341737><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "mp5navy"
+L 06/28/2020 - 17:26:59: Team "CT" triggered "CTs_Win" (CT "5") (T "2")
+L 06/28/2020 - 17:26:59: World triggered "Round_End"
+L 06/28/2020 - 17:27:03: "HKB<312><STEAM_0:0:829514906><TERRORIST>" disconnected
+L 06/28/2020 - 17:27:04: ">.<<317><STEAM_0:0:60684219><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 06/28/2020 - 17:27:09: "pRo_rvltn<307><STEAM_0:1:546352772><>" disconnected
+L 06/28/2020 - 17:27:12: World triggered "Round_Start"
+L 06/28/2020 - 17:27:34: Rcon: "rcon 730833704 "Lauda2" changelevel $2000$" from "106.51.30.169:31174"
+L 06/28/2020 - 17:27:34: [META] ini: Begin re-reading plugins list: g:/tcafiles/users/fkguxmko/7303/cstrike/addons/metamod/plugins.ini
+L 06/28/2020 - 17:27:34: [META] ini: Read plugin config for: AMX Mod X
+L 06/28/2020 - 17:27:34: [META] ini: Read plugin config for: dproto_EF
+L 06/28/2020 - 17:27:34: [META] ini: Finished reading plugins list: g:/tcafiles/users/fkguxmko/7303/cstrike/addons/metamod/plugins.ini; Found 2 plugins
+L 06/28/2020 - 17:27:34: [META] dll: Updating plugins...
+L 06/28/2020 - 17:27:34: [META] dll: Finished updating 5 plugins; kept 2, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 06/28/2020 - 17:27:34: ">.<<317><STEAM_0:0:60684219><TERRORIST>" triggered "Dropped_The_Bomb"
+L 06/28/2020 - 17:27:34: ">.<<317><STEAM_0:0:60684219><TERRORIST>" disconnected
+L 06/28/2020 - 17:27:34: "1729<314><STEAM_0:0:1921819853><CT>" disconnected
+L 06/28/2020 - 17:27:34: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" disconnected
+L 06/28/2020 - 17:27:34: "Mahabharat || StuFu<315><STEAM_0:1:147341737><CT>" disconnected
+L 06/28/2020 - 17:27:34: World triggered "Round_Draw" (CT "5") (T "2")
+L 06/28/2020 - 17:27:34: World triggered "Round_End"
+L 06/28/2020 - 17:27:34: Log file closed

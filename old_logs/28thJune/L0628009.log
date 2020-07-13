@@ -1,0 +1,702 @@
+L 06/28/2020 - 17:27:34: Log file started (file "logs\L0628009.log") (game "cstrike") (version "48/1.1.2.7/8308")
+L 06/28/2020 - 17:27:34: Loading map "$2000$"
+L 06/28/2020 - 17:27:34: Server cvars start
+L 06/28/2020 - 17:27:34: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 06/28/2020 - 17:27:34: Server cvar "_tutor_debug_level" = "0"
+L 06/28/2020 - 17:27:34: Server cvar "_tutor_examine_time" = "0.5"
+L 06/28/2020 - 17:27:34: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 06/28/2020 - 17:27:34: Server cvar "_tutor_look_angle" = "10"
+L 06/28/2020 - 17:27:34: Server cvar "_tutor_look_distance" = "200"
+L 06/28/2020 - 17:27:34: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 06/28/2020 - 17:27:34: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 06/28/2020 - 17:27:34: Server cvar "_tutor_message_repeats" = "5"
+L 06/28/2020 - 17:27:34: Server cvar "_tutor_view_distance" = "1000"
+L 06/28/2020 - 17:27:34: Server cvar "allow_spectators" = "1"
+L 06/28/2020 - 17:27:34: Server cvar "amx_client_languages" = "1"
+L 06/28/2020 - 17:27:34: Server cvar "amx_language" = "en"
+L 06/28/2020 - 17:27:34: Server cvar "amx_nextmap" = "de_inferno"
+L 06/28/2020 - 17:27:34: Server cvar "amx_timeleft" = "65526:15"
+L 06/28/2020 - 17:27:34: Server cvar "amxmodx_version" = "1.8.2"
+L 06/28/2020 - 17:27:34: Server cvar "coop" = "0"
+L 06/28/2020 - 17:27:34: Server cvar "deathmatch" = "1"
+L 06/28/2020 - 17:27:34: Server cvar "decalfrequency" = "60"
+L 06/28/2020 - 17:27:34: Server cvar "dp_version" = "0.9.582"
+L 06/28/2020 - 17:27:34: Server cvar "edgefriction" = "2"
+L 06/28/2020 - 17:27:34: Server cvar "hostage_debug" = "0"
+L 06/28/2020 - 17:27:34: Server cvar "hostage_stop" = "0"
+L 06/28/2020 - 17:27:34: Server cvar "humans_join_team" = "any"
+L 06/28/2020 - 17:27:34: Server cvar "max_queries_sec" = "3.0"
+L 06/28/2020 - 17:27:34: Server cvar "max_queries_sec_global" = "30"
+L 06/28/2020 - 17:27:34: Server cvar "max_queries_window" = "60"
+L 06/28/2020 - 17:27:34: Server cvar "metamod_version" = "1.20"
+L 06/28/2020 - 17:27:34: Server cvar "mp_allowmonsters" = "0"
+L 06/28/2020 - 17:27:34: Server cvar "mp_autokick" = "0"
+L 06/28/2020 - 17:27:34: Server cvar "mp_autokick_timeout" = "-1"
+L 06/28/2020 - 17:27:34: Server cvar "mp_autoteambalance" = "0"
+L 06/28/2020 - 17:27:34: Server cvar "mp_buytime" = "1.5"
+L 06/28/2020 - 17:27:34: Server cvar "mp_c4timer" = "45"
+L 06/28/2020 - 17:27:34: Server cvar "mp_chattime" = "0"
+L 06/28/2020 - 17:27:34: Server cvar "mp_consistency" = "1"
+L 06/28/2020 - 17:27:34: Server cvar "mp_fadetoblack" = "0"
+L 06/28/2020 - 17:27:34: Server cvar "mp_flashlight" = "0"
+L 06/28/2020 - 17:27:34: Server cvar "mp_footsteps" = "1"
+L 06/28/2020 - 17:27:34: Server cvar "mp_forcecamera" = "0"
+L 06/28/2020 - 17:27:34: Server cvar "mp_forcechasecam" = "2"
+L 06/28/2020 - 17:27:34: Server cvar "mp_fragsleft" = "0"
+L 06/28/2020 - 17:27:34: Server cvar "mp_freezetime" = "8"
+L 06/28/2020 - 17:27:34: Server cvar "mp_friendlyfire" = "1"
+L 06/28/2020 - 17:27:34: Server cvar "mp_ghostfrequency" = "0.1"
+L 06/28/2020 - 17:27:34: Server cvar "mp_hostagepenalty" = "2"
+L 06/28/2020 - 17:27:34: Server cvar "mp_infinite_ammo" = "0"
+L 06/28/2020 - 17:27:34: Server cvar "mp_kickpercent" = "0.66"
+L 06/28/2020 - 17:27:34: Server cvar "mp_limitteams" = "5"
+L 06/28/2020 - 17:27:34: Server cvar "mp_logdetail" = "0"
+L 06/28/2020 - 17:27:34: Server cvar "mp_logfile" = "1"
+L 06/28/2020 - 17:27:34: Server cvar "mp_logmessages" = "1"
+L 06/28/2020 - 17:27:34: Server cvar "mp_mapvoteratio" = "0.66"
+L 06/28/2020 - 17:27:34: Server cvar "mp_maxrounds" = "0"
+L 06/28/2020 - 17:27:34: Server cvar "mp_mirrordamage" = "0"
+L 06/28/2020 - 17:27:34: Server cvar "mp_playerid" = "0"
+L 06/28/2020 - 17:27:34: Server cvar "mp_roundtime" = "2"
+L 06/28/2020 - 17:27:34: Server cvar "mp_scoreboard_showhealth" = "3"
+L 06/28/2020 - 17:27:34: Server cvar "mp_scoreboard_showmoney" = "3"
+L 06/28/2020 - 17:27:34: Server cvar "mp_startmoney" = "800"
+L 06/28/2020 - 17:27:34: Server cvar "mp_timeleft" = "0"
+L 06/28/2020 - 17:27:34: Server cvar "mp_timelimit" = "65535"
+L 06/28/2020 - 17:27:34: Server cvar "mp_tkpunish" = "0"
+L 06/28/2020 - 17:27:34: Server cvar "mp_windifference" = "1"
+L 06/28/2020 - 17:27:34: Server cvar "mp_winlimit" = "0"
+L 06/28/2020 - 17:27:34: Server cvar "pausable" = "0"
+L 06/28/2020 - 17:27:34: Server cvar "sv_accelerate" = "5"
+L 06/28/2020 - 17:27:34: Server cvar "sv_aim" = "0"
+L 06/28/2020 - 17:27:34: Server cvar "sv_airaccelerate" = "10"
+L 06/28/2020 - 17:27:34: Server cvar "sv_allowupload" = "1"
+L 06/28/2020 - 17:27:34: Server cvar "sv_alltalk" = "0"
+L 06/28/2020 - 17:27:34: Server cvar "sv_bounce" = "1"
+L 06/28/2020 - 17:27:34: Server cvar "sv_cheats" = "0"
+L 06/28/2020 - 17:27:34: Server cvar "sv_clienttrace" = "1"
+L 06/28/2020 - 17:27:34: Server cvar "sv_contact" = "apoo12345@gmail.com"
+L 06/28/2020 - 17:27:34: Server cvar "sv_friction" = "4"
+L 06/28/2020 - 17:27:34: Server cvar "sv_gravity" = "800"
+L 06/28/2020 - 17:27:34: Server cvar "sv_logblocks" = "0"
+L 06/28/2020 - 17:27:34: Server cvar "sv_maxrate" = "20000"
+L 06/28/2020 - 17:27:34: Server cvar "sv_maxspeed" = "900"
+L 06/28/2020 - 17:27:34: Server cvar "sv_minrate" = "5000"
+L 06/28/2020 - 17:27:34: Server cvar "sv_password" = "Lauda"
+L 06/28/2020 - 17:27:34: Server cvar "sv_proxies" = "1"
+L 06/28/2020 - 17:27:34: Server cvar "sv_restart" = "0"
+L 06/28/2020 - 17:27:34: Server cvar "sv_restartround" = "0"
+L 06/28/2020 - 17:27:34: Server cvar "sv_stepsize" = "18"
+L 06/28/2020 - 17:27:34: Server cvar "sv_stopspeed" = "75"
+L 06/28/2020 - 17:27:34: Server cvar "sv_uploadmax" = "0.5"
+L 06/28/2020 - 17:27:34: Server cvar "sv_voiceenable" = "0"
+L 06/28/2020 - 17:27:34: Server cvar "sv_wateraccelerate" = "10"
+L 06/28/2020 - 17:27:34: Server cvar "sv_waterfriction" = "1"
+L 06/28/2020 - 17:27:34: Server cvars end
+L 06/28/2020 - 17:27:34: Server cvar "amx_nextmap" = "$2000$"
+L 06/28/2020 - 17:27:36: Started map "$2000$" (CRC "-1688392397")
+L 06/28/2020 - 17:27:38: "Mahabharat || StuFu<315><STEAM_0:1:147341737><>" entered the game
+L 06/28/2020 - 17:27:38: ">.<<317><STEAM_0:0:60684219><>" entered the game
+L 06/28/2020 - 17:27:39: "Ladder<310><STEAM_0:0:369456433><>" entered the game
+L 06/28/2020 - 17:27:39: "1729<314><STEAM_0:0:1921819853><>" entered the game
+L 06/28/2020 - 17:27:40: ">.<<317><STEAM_0:0:60684219><>" joined team "CT"
+L 06/28/2020 - 17:27:42: "Ladder<310><STEAM_0:0:369456433><>" joined team "CT"
+L 06/28/2020 - 17:27:43: "1729<314><STEAM_0:0:1921819853><>" joined team "CT"
+L 06/28/2020 - 17:27:45: World triggered "Round_Start"
+L 06/28/2020 - 17:27:45: "Ladder<310><STEAM_0:0:369456433><CT>" committed suicide with "world"
+L 06/28/2020 - 17:27:45: "Ladder<310><STEAM_0:0:369456433><CT>" joined team "CT"
+L 06/28/2020 - 17:27:54: "Mahabharat || StuFu<315><STEAM_0:1:147341737><>" joined team "TERRORIST"
+L 06/28/2020 - 17:27:54: World triggered "Game_Commencing"
+L 06/28/2020 - 17:27:54: World triggered "Game_Commencing" (CT "0") (T "0")
+L 06/28/2020 - 17:27:54: World triggered "Round_End"
+L 06/28/2020 - 17:27:57: Rcon: "rcon 730833704 "Lauda2" sv_restart 1" from "106.51.30.169:31174"
+L 06/28/2020 - 17:27:57: Server cvar "sv_restart" = "1"
+L 06/28/2020 - 17:27:57: World triggered "Restart_Round_(1_second)"
+L 06/28/2020 - 17:27:57: Team "CT" scored "0" with "3" players
+L 06/28/2020 - 17:27:57: Team "TERRORIST" scored "0" with "1" players
+L 06/28/2020 - 17:27:57: Server cvar "sv_restart" = "0"
+L 06/28/2020 - 17:27:57: "Ladder<310><STEAM_0:0:369456433><CT>" committed suicide with "world"
+L 06/28/2020 - 17:27:57: "Ladder<310><STEAM_0:0:369456433><CT>" joined team "TERRORIST"
+L 06/28/2020 - 17:27:59: Rcon: "rcon 730833704 "Lauda2" sv_restart 1" from "106.51.30.169:31174"
+L 06/28/2020 - 17:27:59: Server cvar "sv_restart" = "1"
+L 06/28/2020 - 17:28:00: World triggered "Restart_Round_(1_second)"
+L 06/28/2020 - 17:28:00: Team "CT" scored "0" with "2" players
+L 06/28/2020 - 17:28:00: Team "TERRORIST" scored "0" with "2" players
+L 06/28/2020 - 17:28:00: Server cvar "sv_restart" = "0"
+L 06/28/2020 - 17:28:09: World triggered "Round_Start"
+L 06/28/2020 - 17:28:13: Rcon: "rcon 730833704 "Lauda2" mp_freezetime 0" from "106.51.30.169:31174"
+L 06/28/2020 - 17:28:13: Server cvar "mp_freezetime" = "0"
+L 06/28/2020 - 17:28:20: "1729<314><STEAM_0:0:1921819853><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:28:25: "1729<314><STEAM_0:0:1921819853><CT>" killed "Mahabharat || StuFu<315><STEAM_0:1:147341737><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:28:25: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 06/28/2020 - 17:28:25: World triggered "Round_End"
+L 06/28/2020 - 17:28:30: World triggered "Round_Start"
+L 06/28/2020 - 17:28:33: "1729<314><STEAM_0:0:1921819853><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:28:53: ">.<<317><STEAM_0:0:60684219><CT>" killed "Mahabharat || StuFu<315><STEAM_0:1:147341737><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:28:53: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 06/28/2020 - 17:28:53: World triggered "Round_End"
+L 06/28/2020 - 17:28:58: World triggered "Round_Start"
+L 06/28/2020 - 17:29:13: "1729<314><STEAM_0:0:1921819853><CT>" killed "Mahabharat || StuFu<315><STEAM_0:1:147341737><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:29:15: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "1729<314><STEAM_0:0:1921819853><CT>" with "ak47"
+L 06/28/2020 - 17:29:18: "Mahabharat || StuFu<315><STEAM_0:1:147341737><TERRORIST>" disconnected
+L 06/28/2020 - 17:29:22: ">.<<317><STEAM_0:0:60684219><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:29:22: Team "CT" triggered "CTs_Win" (CT "3") (T "0")
+L 06/28/2020 - 17:29:22: World triggered "Round_End"
+L 06/28/2020 - 17:29:27: World triggered "Round_Start"
+L 06/28/2020 - 17:29:37: "1729<314><STEAM_0:0:1921819853><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:29:37: Team "CT" triggered "CTs_Win" (CT "4") (T "0")
+L 06/28/2020 - 17:29:37: World triggered "Round_End"
+L 06/28/2020 - 17:29:42: World triggered "Round_Start"
+L 06/28/2020 - 17:29:52: "1729<314><STEAM_0:0:1921819853><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:29:52: Team "CT" triggered "CTs_Win" (CT "5") (T "0")
+L 06/28/2020 - 17:29:52: World triggered "Round_End"
+L 06/28/2020 - 17:29:57: World triggered "Round_Start"
+L 06/28/2020 - 17:30:03: "1729<314><STEAM_0:0:1921819853><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:30:03: Team "CT" triggered "CTs_Win" (CT "6") (T "0")
+L 06/28/2020 - 17:30:03: World triggered "Round_End"
+L 06/28/2020 - 17:30:08: World triggered "Round_Start"
+L 06/28/2020 - 17:30:13: ">.<<317><STEAM_0:0:60684219><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:30:13: Team "CT" triggered "CTs_Win" (CT "7") (T "0")
+L 06/28/2020 - 17:30:13: World triggered "Round_End"
+L 06/28/2020 - 17:30:18: World triggered "Round_Start"
+L 06/28/2020 - 17:30:25: "1729<314><STEAM_0:0:1921819853><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "grenade"
+L 06/28/2020 - 17:30:25: Team "CT" triggered "CTs_Win" (CT "8") (T "0")
+L 06/28/2020 - 17:30:25: World triggered "Round_End"
+L 06/28/2020 - 17:30:30: World triggered "Round_Start"
+L 06/28/2020 - 17:30:33: ">.<<317><STEAM_0:0:60684219><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:30:33: Team "CT" triggered "CTs_Win" (CT "9") (T "0")
+L 06/28/2020 - 17:30:33: World triggered "Round_End"
+L 06/28/2020 - 17:30:38: World triggered "Round_Start"
+L 06/28/2020 - 17:30:44: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "1729<314><STEAM_0:0:1921819853><CT>" with "m4a1"
+L 06/28/2020 - 17:30:59: ">.<<317><STEAM_0:0:60684219><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:30:59: Team "CT" triggered "CTs_Win" (CT "10") (T "0")
+L 06/28/2020 - 17:30:59: World triggered "Round_End"
+L 06/28/2020 - 17:31:04: World triggered "Round_Start"
+L 06/28/2020 - 17:31:07: ">.<<317><STEAM_0:0:60684219><CT>" disconnected
+L 06/28/2020 - 17:31:13: "1729<314><STEAM_0:0:1921819853><CT>" say_team "tumi odike jao rahulda"
+L 06/28/2020 - 17:31:49: "1729<314><STEAM_0:0:1921819853><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:31:49: Team "CT" triggered "CTs_Win" (CT "11") (T "0")
+L 06/28/2020 - 17:31:49: World triggered "Round_End"
+L 06/28/2020 - 17:31:54: World triggered "Round_Start"
+L 06/28/2020 - 17:32:01: "1729<314><STEAM_0:0:1921819853><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:32:01: Team "CT" triggered "CTs_Win" (CT "12") (T "0")
+L 06/28/2020 - 17:32:02: World triggered "Round_End"
+L 06/28/2020 - 17:32:07: World triggered "Round_Start"
+L 06/28/2020 - 17:32:20: "1729<314><STEAM_0:0:1921819853><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:32:20: Team "CT" triggered "CTs_Win" (CT "13") (T "0")
+L 06/28/2020 - 17:32:20: World triggered "Round_End"
+L 06/28/2020 - 17:32:25: World triggered "Round_Start"
+L 06/28/2020 - 17:32:45: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "1729<314><STEAM_0:0:1921819853><CT>" with "m4a1"
+L 06/28/2020 - 17:32:45: Team "TERRORIST" triggered "Terrorists_Win" (CT "13") (T "1")
+L 06/28/2020 - 17:32:45: World triggered "Round_End"
+L 06/28/2020 - 17:32:50: World triggered "Round_Start"
+L 06/28/2020 - 17:33:06: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "1729<314><STEAM_0:0:1921819853><CT>" with "m4a1"
+L 06/28/2020 - 17:33:06: Team "TERRORIST" triggered "Terrorists_Win" (CT "13") (T "2")
+L 06/28/2020 - 17:33:06: World triggered "Round_End"
+L 06/28/2020 - 17:33:11: World triggered "Round_Start"
+L 06/28/2020 - 17:33:21: "1729<314><STEAM_0:0:1921819853><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:33:21: Team "CT" triggered "CTs_Win" (CT "14") (T "2")
+L 06/28/2020 - 17:33:21: World triggered "Round_End"
+L 06/28/2020 - 17:33:26: World triggered "Round_Start"
+L 06/28/2020 - 17:33:54: "1729<314><STEAM_0:0:1921819853><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:33:54: Team "CT" triggered "CTs_Win" (CT "15") (T "2")
+L 06/28/2020 - 17:33:54: World triggered "Round_End"
+L 06/28/2020 - 17:33:59: World triggered "Round_Start"
+L 06/28/2020 - 17:34:11: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "1729<314><STEAM_0:0:1921819853><CT>" with "m4a1"
+L 06/28/2020 - 17:34:11: Team "TERRORIST" triggered "Terrorists_Win" (CT "15") (T "3")
+L 06/28/2020 - 17:34:11: World triggered "Round_End"
+L 06/28/2020 - 17:34:16: World triggered "Round_Start"
+L 06/28/2020 - 17:34:26: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_RevEmu]; pClient = 05668028
+L 06/28/2020 - 17:34:26: "Mute || Cristiano<318><STEAM_0:0:1465890162><>" connected, address "103.200.41.158:27005"
+L 06/28/2020 - 17:34:40: "1729<314><STEAM_0:0:1921819853><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:34:40: Team "CT" triggered "CTs_Win" (CT "16") (T "3")
+L 06/28/2020 - 17:34:40: World triggered "Round_End"
+L 06/28/2020 - 17:34:45: World triggered "Round_Start"
+L 06/28/2020 - 17:34:50: "1729<314><STEAM_0:0:1921819853><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:34:50: Team "CT" triggered "CTs_Win" (CT "17") (T "3")
+L 06/28/2020 - 17:34:50: World triggered "Round_End"
+L 06/28/2020 - 17:34:55: World triggered "Round_Start"
+L 06/28/2020 - 17:35:06: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "1729<314><STEAM_0:0:1921819853><CT>" with "m4a1"
+L 06/28/2020 - 17:35:06: Team "TERRORIST" triggered "Terrorists_Win" (CT "17") (T "4")
+L 06/28/2020 - 17:35:06: World triggered "Round_End"
+L 06/28/2020 - 17:35:09: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_RevEmu]; pClient = 05668028
+L 06/28/2020 - 17:35:09: "Mute || Cristiano<319><STEAM_0:0:1465890162><>" connected, address "103.200.41.158:27005"
+L 06/28/2020 - 17:35:11: World triggered "Round_Start"
+L 06/28/2020 - 17:35:14: "1729<314><STEAM_0:0:1921819853><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:35:14: Team "CT" triggered "CTs_Win" (CT "18") (T "4")
+L 06/28/2020 - 17:35:14: World triggered "Round_End"
+L 06/28/2020 - 17:35:19: World triggered "Round_Start"
+L 06/28/2020 - 17:36:15: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "1729<314><STEAM_0:0:1921819853><CT>" with "ak47"
+L 06/28/2020 - 17:36:15: Team "TERRORIST" triggered "Terrorists_Win" (CT "18") (T "5")
+L 06/28/2020 - 17:36:15: World triggered "Round_End"
+L 06/28/2020 - 17:36:20: World triggered "Round_Start"
+L 06/28/2020 - 17:36:37: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "1729<314><STEAM_0:0:1921819853><CT>" with "ak47"
+L 06/28/2020 - 17:36:37: Team "TERRORIST" triggered "Terrorists_Win" (CT "18") (T "6")
+L 06/28/2020 - 17:36:37: World triggered "Round_End"
+L 06/28/2020 - 17:36:42: World triggered "Round_Start"
+L 06/28/2020 - 17:36:58: "1729<314><STEAM_0:0:1921819853><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:36:58: Team "CT" triggered "CTs_Win" (CT "19") (T "6")
+L 06/28/2020 - 17:36:58: World triggered "Round_End"
+L 06/28/2020 - 17:37:03: World triggered "Round_Start"
+L 06/28/2020 - 17:37:18: "1729<314><STEAM_0:0:1921819853><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:37:18: Team "CT" triggered "CTs_Win" (CT "20") (T "6")
+L 06/28/2020 - 17:37:18: World triggered "Round_End"
+L 06/28/2020 - 17:37:23: World triggered "Round_Start"
+L 06/28/2020 - 17:37:32: "1729<314><STEAM_0:0:1921819853><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:37:32: Team "CT" triggered "CTs_Win" (CT "21") (T "6")
+L 06/28/2020 - 17:37:32: World triggered "Round_End"
+L 06/28/2020 - 17:37:37: World triggered "Round_Start"
+L 06/28/2020 - 17:37:46: "1729<314><STEAM_0:0:1921819853><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "knife"
+L 06/28/2020 - 17:37:46: Team "CT" triggered "CTs_Win" (CT "22") (T "6")
+L 06/28/2020 - 17:37:47: World triggered "Round_End"
+L 06/28/2020 - 17:37:52: World triggered "Round_Start"
+L 06/28/2020 - 17:38:10: "1729<314><STEAM_0:0:1921819853><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "knife"
+L 06/28/2020 - 17:38:10: Team "CT" triggered "CTs_Win" (CT "23") (T "6")
+L 06/28/2020 - 17:38:10: World triggered "Round_End"
+L 06/28/2020 - 17:38:15: World triggered "Round_Start"
+L 06/28/2020 - 17:38:19: "1729<314><STEAM_0:0:1921819853><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:38:19: Team "CT" triggered "CTs_Win" (CT "24") (T "6")
+L 06/28/2020 - 17:38:19: World triggered "Round_End"
+L 06/28/2020 - 17:38:24: World triggered "Round_Start"
+L 06/28/2020 - 17:38:35: "1729<314><STEAM_0:0:1921819853><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:38:35: Team "CT" triggered "CTs_Win" (CT "25") (T "6")
+L 06/28/2020 - 17:38:35: World triggered "Round_End"
+L 06/28/2020 - 17:38:37: [DPROTO]: Client 6 - Set AuthIdType 1 [dp_RevEmu]; pClient = 056860B8
+L 06/28/2020 - 17:38:37: "HKB<320><STEAM_0:0:829514906><>" connected, address "94.224.68.144:1028"
+L 06/28/2020 - 17:38:40: World triggered "Round_Start"
+L 06/28/2020 - 17:38:45: "HKB<320><STEAM_0:0:829514906><>" entered the game
+L 06/28/2020 - 17:38:49: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_RevEmu]; pClient = 05668028
+L 06/28/2020 - 17:38:49: "Mofo<321><STEAM_0:0:455086556><>" connected, address "137.132.217.43:27005"
+L 06/28/2020 - 17:38:53: "Mofo<321><STEAM_0:0:455086556><>" entered the game
+L 06/28/2020 - 17:38:58: "HKB<320><STEAM_0:0:829514906><>" joined team "TERRORIST"
+L 06/28/2020 - 17:38:59: "Mofo<321><STEAM_0:0:455086556><>" joined team "CT"
+L 06/28/2020 - 17:39:01: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "1729<314><STEAM_0:0:1921819853><CT>" with "grenade"
+L 06/28/2020 - 17:39:05: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "Mofo<321><STEAM_0:0:455086556><CT>" with "ak47"
+L 06/28/2020 - 17:39:05: Team "TERRORIST" triggered "Terrorists_Win" (CT "25") (T "7")
+L 06/28/2020 - 17:39:05: World triggered "Round_End"
+L 06/28/2020 - 17:39:10: World triggered "Round_Start"
+L 06/28/2020 - 17:39:15: "1729<314><STEAM_0:0:1921819853><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:39:21: "1729<314><STEAM_0:0:1921819853><CT>" killed "HKB<320><STEAM_0:0:829514906><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:39:21: Team "CT" triggered "CTs_Win" (CT "26") (T "7")
+L 06/28/2020 - 17:39:21: World triggered "Round_End"
+L 06/28/2020 - 17:39:26: World triggered "Round_Start"
+L 06/28/2020 - 17:39:30: "1729<314><STEAM_0:0:1921819853><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "grenade"
+L 06/28/2020 - 17:39:37: "HKB<320><STEAM_0:0:829514906><TERRORIST>" killed "Mofo<321><STEAM_0:0:455086556><CT>" with "ak47"
+L 06/28/2020 - 17:39:43: "HKB<320><STEAM_0:0:829514906><TERRORIST>" killed "1729<314><STEAM_0:0:1921819853><CT>" with "ak47"
+L 06/28/2020 - 17:39:43: Team "TERRORIST" triggered "Terrorists_Win" (CT "26") (T "8")
+L 06/28/2020 - 17:39:43: World triggered "Round_End"
+L 06/28/2020 - 17:39:46: [DPROTO]: Client 1 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0566D040
+L 06/28/2020 - 17:39:46: "Mute || Cristiano<322><STEAM_0:0:1465890162><>" connected, address "103.200.41.158:27005"
+L 06/28/2020 - 17:39:48: World triggered "Round_Start"
+L 06/28/2020 - 17:39:55: "HKB<320><STEAM_0:0:829514906><TERRORIST>" killed "1729<314><STEAM_0:0:1921819853><CT>" with "ak47"
+L 06/28/2020 - 17:39:55: "Mute || Cristiano<322><STEAM_0:0:1465890162><>" entered the game
+L 06/28/2020 - 17:39:56: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "Mofo<321><STEAM_0:0:455086556><CT>" with "aug"
+L 06/28/2020 - 17:39:56: Team "TERRORIST" triggered "Terrorists_Win" (CT "26") (T "9")
+L 06/28/2020 - 17:39:56: World triggered "Round_End"
+L 06/28/2020 - 17:39:59: "Mute || Cristiano<322><STEAM_0:0:1465890162><>" joined team "TERRORIST"
+L 06/28/2020 - 17:40:01: World triggered "Round_Start"
+L 06/28/2020 - 17:40:06: "Mofo<321><STEAM_0:0:455086556><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:40:12: "1729<314><STEAM_0:0:1921819853><CT>" killed "HKB<320><STEAM_0:0:829514906><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:40:12: "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" killed "1729<314><STEAM_0:0:1921819853><CT>" with "awp"
+L 06/28/2020 - 17:40:20: [DPROTO]: Client 2 - Set AuthIdType 1 [Native]; pClient = 05672058
+L 06/28/2020 - 17:40:21: "Bidding simulator<323><STEAM_0:0:65740571><>" connected, address "49.207.62.35:45767"
+L 06/28/2020 - 17:40:21: "Bidding simulator<323><STEAM_0:0:65740571><>" STEAM USERID validated
+L 06/28/2020 - 17:40:24: "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" killed "Mofo<321><STEAM_0:0:455086556><CT>" with "awp"
+L 06/28/2020 - 17:40:24: Team "TERRORIST" triggered "Terrorists_Win" (CT "26") (T "10")
+L 06/28/2020 - 17:40:24: World triggered "Round_End"
+L 06/28/2020 - 17:40:26: "Bidding simulator<323><STEAM_0:0:65740571><>" entered the game
+L 06/28/2020 - 17:40:29: World triggered "Round_Start"
+L 06/28/2020 - 17:40:37: "HKB<320><STEAM_0:0:829514906><TERRORIST>" killed "Mofo<321><STEAM_0:0:455086556><CT>" with "ak47"
+L 06/28/2020 - 17:40:38: "HKB<320><STEAM_0:0:829514906><TERRORIST>" killed "1729<314><STEAM_0:0:1921819853><CT>" with "ak47"
+L 06/28/2020 - 17:40:38: Team "TERRORIST" triggered "Terrorists_Win" (CT "26") (T "11")
+L 06/28/2020 - 17:40:38: World triggered "Round_End"
+L 06/28/2020 - 17:40:43: World triggered "Round_Start"
+L 06/28/2020 - 17:40:54: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "Mofo<321><STEAM_0:0:455086556><CT>" with "ak47"
+L 06/28/2020 - 17:40:55: "Bidding simulator<323><STEAM_0:0:65740571><>" joined team "SPECTATOR"
+L 06/28/2020 - 17:41:00: "1729<314><STEAM_0:0:1921819853><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:41:01: "HKB<320><STEAM_0:0:829514906><TERRORIST>" killed "1729<314><STEAM_0:0:1921819853><CT>" with "ak47"
+L 06/28/2020 - 17:41:01: Team "TERRORIST" triggered "Terrorists_Win" (CT "26") (T "12")
+L 06/28/2020 - 17:41:01: World triggered "Round_End"
+L 06/28/2020 - 17:41:06: World triggered "Round_Start"
+L 06/28/2020 - 17:41:10: "1729<314><STEAM_0:0:1921819853><CT>" killed "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:41:13: "Mofo<321><STEAM_0:0:455086556><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:41:23: "1729<314><STEAM_0:0:1921819853><CT>" killed "HKB<320><STEAM_0:0:829514906><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:41:23: Team "CT" triggered "CTs_Win" (CT "27") (T "12")
+L 06/28/2020 - 17:41:23: World triggered "Round_End"
+L 06/28/2020 - 17:41:28: World triggered "Round_Start"
+L 06/28/2020 - 17:41:33: "HKB<320><STEAM_0:0:829514906><TERRORIST>" killed "1729<314><STEAM_0:0:1921819853><CT>" with "ak47"
+L 06/28/2020 - 17:41:35: "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" killed "Mofo<321><STEAM_0:0:455086556><CT>" with "awp"
+L 06/28/2020 - 17:41:35: Team "TERRORIST" triggered "Terrorists_Win" (CT "27") (T "13")
+L 06/28/2020 - 17:41:35: World triggered "Round_End"
+L 06/28/2020 - 17:41:40: World triggered "Round_Start"
+L 06/28/2020 - 17:41:47: "1729<314><STEAM_0:0:1921819853><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:41:50: "HKB<320><STEAM_0:0:829514906><TERRORIST>" killed "Mofo<321><STEAM_0:0:455086556><CT>" with "ak47"
+L 06/28/2020 - 17:41:51: "1729<314><STEAM_0:0:1921819853><CT>" killed "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:41:52: "Bidding simulator<323><STEAM_0:0:65740571><SPECTATOR>" disconnected
+L 06/28/2020 - 17:41:53: "1729<314><STEAM_0:0:1921819853><CT>" killed "HKB<320><STEAM_0:0:829514906><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:41:53: Team "CT" triggered "CTs_Win" (CT "28") (T "13")
+L 06/28/2020 - 17:41:53: World triggered "Round_End"
+L 06/28/2020 - 17:41:58: World triggered "Round_Start"
+L 06/28/2020 - 17:42:02: "HKB<320><STEAM_0:0:829514906><TERRORIST>" killed "1729<314><STEAM_0:0:1921819853><CT>" with "ak47"
+L 06/28/2020 - 17:42:06: [DPROTO]: Client 2 - Set AuthIdType 1 [Native]; pClient = 05672058
+L 06/28/2020 - 17:42:06: "MERA BAAP<324><STEAM_0:0:63052104><>" connected, address "106.51.30.169:30747"
+L 06/28/2020 - 17:42:06: "MERA BAAP<324><STEAM_0:0:63052104><>" STEAM USERID validated
+L 06/28/2020 - 17:42:09: "MERA BAAP<324><STEAM_0:0:63052104><>" entered the game
+L 06/28/2020 - 17:42:12: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "Mofo<321><STEAM_0:0:455086556><CT>" with "ak47"
+L 06/28/2020 - 17:42:12: Team "TERRORIST" triggered "Terrorists_Win" (CT "28") (T "14")
+L 06/28/2020 - 17:42:12: World triggered "Round_End"
+L 06/28/2020 - 17:42:16: "MERA BAAP<324><STEAM_0:0:63052104><>" joined team "CT"
+L 06/28/2020 - 17:42:17: World triggered "Round_Start"
+L 06/28/2020 - 17:42:24: "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" killed "MERA BAAP<324><STEAM_0:0:63052104><CT>" with "awp"
+L 06/28/2020 - 17:42:25: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "Mofo<321><STEAM_0:0:455086556><CT>" with "grenade"
+L 06/28/2020 - 17:42:25: "1729<314><STEAM_0:0:1921819853><CT>" killed "HKB<320><STEAM_0:0:829514906><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:42:27: "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" killed "1729<314><STEAM_0:0:1921819853><CT>" with "awp"
+L 06/28/2020 - 17:42:27: Team "TERRORIST" triggered "Terrorists_Win" (CT "28") (T "15")
+L 06/28/2020 - 17:42:27: World triggered "Round_End"
+L 06/28/2020 - 17:42:32: World triggered "Round_Start"
+L 06/28/2020 - 17:42:36: "1729<314><STEAM_0:0:1921819853><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:42:42: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:42:50: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed "HKB<320><STEAM_0:0:829514906><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:42:50: Team "CT" triggered "CTs_Win" (CT "29") (T "15")
+L 06/28/2020 - 17:42:50: World triggered "Round_End"
+L 06/28/2020 - 17:42:55: World triggered "Round_Start"
+L 06/28/2020 - 17:43:00: [DPROTO]: Client 5 - Set AuthIdType 1 [Native]; pClient = 056810A0
+L 06/28/2020 - 17:43:00: ">.<<325><STEAM_0:0:60684219><>" connected, address "137.132.215.1:27005"
+L 06/28/2020 - 17:43:01: ">.<<325><STEAM_0:0:60684219><>" STEAM USERID validated
+L 06/28/2020 - 17:43:05: "1729<314><STEAM_0:0:1921819853><CT>" killed "HKB<320><STEAM_0:0:829514906><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:43:05: ">.<<325><STEAM_0:0:60684219><>" entered the game
+L 06/28/2020 - 17:43:07: "1729<314><STEAM_0:0:1921819853><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:43:08: "1729<314><STEAM_0:0:1921819853><CT>" killed "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:43:08: Team "CT" triggered "CTs_Win" (CT "30") (T "15")
+L 06/28/2020 - 17:43:08: World triggered "Round_End"
+L 06/28/2020 - 17:43:13: World triggered "Round_Start"
+L 06/28/2020 - 17:43:13: ">.<<325><STEAM_0:0:60684219><>" joined team "TERRORIST"
+L 06/28/2020 - 17:43:22: "Mofo<321><STEAM_0:0:455086556><CT>" killed ">.<<325><STEAM_0:0:60684219><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:43:25: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:43:28: "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" killed "1729<314><STEAM_0:0:1921819853><CT>" with "awp"
+L 06/28/2020 - 17:43:31: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed "HKB<320><STEAM_0:0:829514906><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:43:39: "Mofo<321><STEAM_0:0:455086556><CT>" killed "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:43:39: Team "CT" triggered "CTs_Win" (CT "31") (T "15")
+L 06/28/2020 - 17:43:39: World triggered "Round_End"
+L 06/28/2020 - 17:43:44: World triggered "Round_Start"
+L 06/28/2020 - 17:43:47: "Mofo<321><STEAM_0:0:455086556><CT>" killed "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:43:48: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed ">.<<325><STEAM_0:0:60684219><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:43:50: "1729<314><STEAM_0:0:1921819853><CT>" killed "HKB<320><STEAM_0:0:829514906><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:44:04: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "Mofo<321><STEAM_0:0:455086556><CT>" with "m4a1"
+L 06/28/2020 - 17:44:07: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "1729<314><STEAM_0:0:1921819853><CT>" with "m4a1"
+L 06/28/2020 - 17:44:19: [DPROTO]: Client 7 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0568B0D0
+L 06/28/2020 - 17:44:19: "Hathoda Tyagi<326><STEAM_0:0:266700107><>" connected, address "1.186.227.32:10237"
+L 06/28/2020 - 17:44:23: "Hathoda Tyagi<326><STEAM_0:0:266700107><>" entered the game
+L 06/28/2020 - 17:44:26: "Hathoda Tyagi<326><STEAM_0:0:266700107><>" joined team "CT"
+L 06/28/2020 - 17:44:30: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "MERA BAAP<324><STEAM_0:0:63052104><CT>" with "m4a1"
+L 06/28/2020 - 17:44:30: Team "TERRORIST" triggered "Terrorists_Win" (CT "31") (T "16")
+L 06/28/2020 - 17:44:30: World triggered "Round_End"
+L 06/28/2020 - 17:44:35: World triggered "Round_Start"
+L 06/28/2020 - 17:44:35: "HKB<320><STEAM_0:0:829514906><TERRORIST>" say_team "pagiol"
+L 06/28/2020 - 17:44:41: "HKB<320><STEAM_0:0:829514906><TERRORIST>" killed "1729<314><STEAM_0:0:1921819853><CT>" with "ak47"
+L 06/28/2020 - 17:44:41: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:44:41: "Hathoda Tyagi<326><STEAM_0:0:266700107><CT>" killed "HKB<320><STEAM_0:0:829514906><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:44:42: ">.<<325><STEAM_0:0:60684219><TERRORIST>" killed "Hathoda Tyagi<326><STEAM_0:0:266700107><CT>" with "m4a1"
+L 06/28/2020 - 17:44:48: "Mofo<321><STEAM_0:0:455086556><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:44:59: ">.<<325><STEAM_0:0:60684219><TERRORIST>" killed "MERA BAAP<324><STEAM_0:0:63052104><CT>" with "m4a1"
+L 06/28/2020 - 17:45:02: "HKB<320><STEAM_0:0:829514906><TERRORIST>" disconnected
+L 06/28/2020 - 17:45:06: "1729<314><STEAM_0:0:1921819853><CT>" joined team "TERRORIST"
+L 06/28/2020 - 17:45:07: "Mofo<321><STEAM_0:0:455086556><CT>" killed ">.<<325><STEAM_0:0:60684219><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:45:07: Team "CT" triggered "CTs_Win" (CT "32") (T "16")
+L 06/28/2020 - 17:45:07: World triggered "Round_End"
+L 06/28/2020 - 17:45:12: World triggered "Round_Start"
+L 06/28/2020 - 17:45:19: "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" killed "MERA BAAP<324><STEAM_0:0:63052104><CT>" with "awp"
+L 06/28/2020 - 17:45:20: ">.<<325><STEAM_0:0:60684219><TERRORIST>" killed "Hathoda Tyagi<326><STEAM_0:0:266700107><CT>" with "ak47"
+L 06/28/2020 - 17:45:27: "Mofo<321><STEAM_0:0:455086556><CT>" killed "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:45:37: "1729<314><STEAM_0:0:1921819853><TERRORIST>" killed "Mofo<321><STEAM_0:0:455086556><CT>" with "m4a1"
+L 06/28/2020 - 17:45:37: Team "TERRORIST" triggered "Terrorists_Win" (CT "32") (T "17")
+L 06/28/2020 - 17:45:37: World triggered "Round_End"
+L 06/28/2020 - 17:45:42: World triggered "Round_Start"
+L 06/28/2020 - 17:45:47: "Hathoda Tyagi<326><STEAM_0:0:266700107><CT>" killed "1729<314><STEAM_0:0:1921819853><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:45:50: "Hathoda Tyagi<326><STEAM_0:0:266700107><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:45:51: "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" killed "Mofo<321><STEAM_0:0:455086556><CT>" with "awp"
+L 06/28/2020 - 17:45:57: ">.<<325><STEAM_0:0:60684219><TERRORIST>" killed "Hathoda Tyagi<326><STEAM_0:0:266700107><CT>" with "ak47"
+L 06/28/2020 - 17:46:14: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed ">.<<325><STEAM_0:0:60684219><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:46:30: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:46:30: Team "CT" triggered "CTs_Win" (CT "33") (T "17")
+L 06/28/2020 - 17:46:30: World triggered "Round_End"
+L 06/28/2020 - 17:46:35: World triggered "Round_Start"
+L 06/28/2020 - 17:46:40: "Hathoda Tyagi<326><STEAM_0:0:266700107><CT>" killed "1729<314><STEAM_0:0:1921819853><TERRORIST>" with "awp"
+L 06/28/2020 - 17:46:42: ">.<<325><STEAM_0:0:60684219><TERRORIST>" killed "Mofo<321><STEAM_0:0:455086556><CT>" with "m4a1"
+L 06/28/2020 - 17:46:45: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" with "grenade"
+L 06/28/2020 - 17:46:49: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:46:52: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed ">.<<325><STEAM_0:0:60684219><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:46:52: Team "CT" triggered "CTs_Win" (CT "34") (T "17")
+L 06/28/2020 - 17:46:52: World triggered "Round_End"
+L 06/28/2020 - 17:46:57: World triggered "Round_Start"
+L 06/28/2020 - 17:47:06: "Hathoda Tyagi<326><STEAM_0:0:266700107><CT>" killed "1729<314><STEAM_0:0:1921819853><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:47:07: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "grenade"
+L 06/28/2020 - 17:47:07: ">.<<325><STEAM_0:0:60684219><TERRORIST>" killed "Hathoda Tyagi<326><STEAM_0:0:266700107><CT>" with "ak47"
+L 06/28/2020 - 17:47:08: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:47:11: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed ">.<<325><STEAM_0:0:60684219><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:47:11: Team "CT" triggered "CTs_Win" (CT "35") (T "17")
+L 06/28/2020 - 17:47:11: World triggered "Round_End"
+L 06/28/2020 - 17:47:16: World triggered "Round_Start"
+L 06/28/2020 - 17:47:18: "1729<314><STEAM_0:0:1921819853><TERRORIST>" killed "Hathoda Tyagi<326><STEAM_0:0:266700107><CT>" with "m4a1"
+L 06/28/2020 - 17:47:19: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "MERA BAAP<324><STEAM_0:0:63052104><CT>" with "aug"
+L 06/28/2020 - 17:47:19: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" with "grenade"
+L 06/28/2020 - 17:47:25: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "Mofo<321><STEAM_0:0:455086556><CT>" with "aug"
+L 06/28/2020 - 17:47:25: Team "TERRORIST" triggered "Terrorists_Win" (CT "35") (T "18")
+L 06/28/2020 - 17:47:25: World triggered "Round_End"
+L 06/28/2020 - 17:47:30: World triggered "Round_Start"
+L 06/28/2020 - 17:47:37: "Hathoda Tyagi<326><STEAM_0:0:266700107><CT>" killed "1729<314><STEAM_0:0:1921819853><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:47:38: "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" killed "Hathoda Tyagi<326><STEAM_0:0:266700107><CT>" with "ak47"
+L 06/28/2020 - 17:47:38: "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" killed "Mofo<321><STEAM_0:0:455086556><CT>" with "ak47"
+L 06/28/2020 - 17:47:50: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:47:51: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "MERA BAAP<324><STEAM_0:0:63052104><CT>" with "m4a1"
+L 06/28/2020 - 17:47:51: Team "TERRORIST" triggered "Terrorists_Win" (CT "35") (T "19")
+L 06/28/2020 - 17:47:51: World triggered "Round_End"
+L 06/28/2020 - 17:47:56: World triggered "Round_Start"
+L 06/28/2020 - 17:47:59: "Hathoda Tyagi<326><STEAM_0:0:266700107><CT>" killed "1729<314><STEAM_0:0:1921819853><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:48:08: ">.<<325><STEAM_0:0:60684219><TERRORIST>" killed "Mofo<321><STEAM_0:0:455086556><CT>" with "ak47"
+L 06/28/2020 - 17:48:09: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "Hathoda Tyagi<326><STEAM_0:0:266700107><CT>" with "m4a1"
+L 06/28/2020 - 17:48:16: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "MERA BAAP<324><STEAM_0:0:63052104><CT>" with "m4a1"
+L 06/28/2020 - 17:48:16: Team "TERRORIST" triggered "Terrorists_Win" (CT "35") (T "20")
+L 06/28/2020 - 17:48:16: World triggered "Round_End"
+L 06/28/2020 - 17:48:21: World triggered "Round_Start"
+L 06/28/2020 - 17:48:29: "1729<314><STEAM_0:0:1921819853><TERRORIST>" killed "MERA BAAP<324><STEAM_0:0:63052104><CT>" with "ak47"
+L 06/28/2020 - 17:48:35: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "Mofo<321><STEAM_0:0:455086556><CT>" with "m4a1"
+L 06/28/2020 - 17:48:40: "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" killed "Hathoda Tyagi<326><STEAM_0:0:266700107><CT>" with "ak47"
+L 06/28/2020 - 17:48:40: Team "TERRORIST" triggered "Terrorists_Win" (CT "35") (T "21")
+L 06/28/2020 - 17:48:40: World triggered "Round_End"
+L 06/28/2020 - 17:48:45: World triggered "Round_Start"
+L 06/28/2020 - 17:48:50: "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" killed "Hathoda Tyagi<326><STEAM_0:0:266700107><CT>" with "ak47"
+L 06/28/2020 - 17:48:53: "Mofo<321><STEAM_0:0:455086556><CT>" killed "1729<314><STEAM_0:0:1921819853><TERRORIST>" with "awp"
+L 06/28/2020 - 17:48:56: "Mofo<321><STEAM_0:0:455086556><CT>" killed "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" with "awp"
+L 06/28/2020 - 17:49:10: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "Mofo<321><STEAM_0:0:455086556><CT>" with "m4a1"
+L 06/28/2020 - 17:49:11: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed ">.<<325><STEAM_0:0:60684219><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:49:21: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "MERA BAAP<324><STEAM_0:0:63052104><CT>" with "m4a1"
+L 06/28/2020 - 17:49:21: Team "TERRORIST" triggered "Terrorists_Win" (CT "35") (T "22")
+L 06/28/2020 - 17:49:21: World triggered "Round_End"
+L 06/28/2020 - 17:49:26: World triggered "Round_Start"
+L 06/28/2020 - 17:49:32: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "Mofo<321><STEAM_0:0:455086556><CT>" with "m4a1"
+L 06/28/2020 - 17:49:34: ">.<<325><STEAM_0:0:60684219><TERRORIST>" killed "MERA BAAP<324><STEAM_0:0:63052104><CT>" with "ak47"
+L 06/28/2020 - 17:49:35: "Hathoda Tyagi<326><STEAM_0:0:266700107><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:49:36: "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" killed "Hathoda Tyagi<326><STEAM_0:0:266700107><CT>" with "ak47"
+L 06/28/2020 - 17:49:36: Team "TERRORIST" triggered "Terrorists_Win" (CT "35") (T "23")
+L 06/28/2020 - 17:49:36: World triggered "Round_End"
+L 06/28/2020 - 17:49:41: World triggered "Round_Start"
+L 06/28/2020 - 17:49:46: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:49:50: "Hathoda Tyagi<326><STEAM_0:0:266700107><CT>" killed "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:49:55: ">.<<325><STEAM_0:0:60684219><TERRORIST>" killed "MERA BAAP<324><STEAM_0:0:63052104><CT>" with "ak47"
+L 06/28/2020 - 17:50:00: "Mofo<321><STEAM_0:0:455086556><CT>" killed ">.<<325><STEAM_0:0:60684219><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:50:18: "1729<314><STEAM_0:0:1921819853><TERRORIST>" killed "Hathoda Tyagi<326><STEAM_0:0:266700107><CT>" with "awp"
+L 06/28/2020 - 17:50:20: "Mofo<321><STEAM_0:0:455086556><CT>" killed "1729<314><STEAM_0:0:1921819853><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:50:20: Team "CT" triggered "CTs_Win" (CT "36") (T "23")
+L 06/28/2020 - 17:50:20: World triggered "Round_End"
+L 06/28/2020 - 17:50:25: World triggered "Round_Start"
+L 06/28/2020 - 17:50:33: ">.<<325><STEAM_0:0:60684219><TERRORIST>" killed "Hathoda Tyagi<326><STEAM_0:0:266700107><CT>" with "m4a1"
+L 06/28/2020 - 17:50:33: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed ">.<<325><STEAM_0:0:60684219><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:50:36: "Mofo<321><STEAM_0:0:455086556><CT>" killed "1729<314><STEAM_0:0:1921819853><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:50:40: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:50:52: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:50:52: Team "CT" triggered "CTs_Win" (CT "37") (T "23")
+L 06/28/2020 - 17:50:52: World triggered "Round_End"
+L 06/28/2020 - 17:50:57: World triggered "Round_Start"
+L 06/28/2020 - 17:51:04: "Mofo<321><STEAM_0:0:455086556><CT>" killed "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:51:08: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "MERA BAAP<324><STEAM_0:0:63052104><CT>" with "ak47"
+L 06/28/2020 - 17:51:13: "Hathoda Tyagi<326><STEAM_0:0:266700107><CT>" killed ">.<<325><STEAM_0:0:60684219><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:51:13: "Hathoda Tyagi<326><STEAM_0:0:266700107><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:51:15: "Hathoda Tyagi<326><STEAM_0:0:266700107><CT>" killed "1729<314><STEAM_0:0:1921819853><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:51:15: Team "CT" triggered "CTs_Win" (CT "38") (T "23")
+L 06/28/2020 - 17:51:15: World triggered "Round_End"
+L 06/28/2020 - 17:51:20: World triggered "Round_Start"
+L 06/28/2020 - 17:51:28: "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" killed "Hathoda Tyagi<326><STEAM_0:0:266700107><CT>" with "ak47"
+L 06/28/2020 - 17:51:28: [DPROTO]: Client 6 - Set AuthIdType 1 [Native]; pClient = 056860B8
+L 06/28/2020 - 17:51:28: "Classic 0.51 || Mode : plant<327><STEAM_0:0:83230422><>" connected, address "103.76.82.177:28182"
+L 06/28/2020 - 17:51:29: "Classic 0.51 || Mode : plant<327><STEAM_0:0:83230422><>" STEAM USERID validated
+L 06/28/2020 - 17:51:33: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "1729<314><STEAM_0:0:1921819853><TERRORIST>" with "awp"
+L 06/28/2020 - 17:51:33: "Classic 0.51 || Mode : plant<327><STEAM_0:0:83230422><>" entered the game
+L 06/28/2020 - 17:51:38: "Mofo<321><STEAM_0:0:455086556><CT>" killed "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:51:42: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed ">.<<325><STEAM_0:0:60684219><TERRORIST>" with "awp"
+L 06/28/2020 - 17:51:52: "Hathoda Tyagi<326><STEAM_0:0:266700107><CT>" disconnected
+L 06/28/2020 - 17:51:52: [DPROTO]: Client 7 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0568B0D0
+L 06/28/2020 - 17:51:52: "Hathoda Tyagi<328><STEAM_0:0:266700107><>" connected, address "1.186.227.32:10237"
+L 06/28/2020 - 17:51:56: "Hathoda Tyagi<328><STEAM_0:0:266700107><>" entered the game
+L 06/28/2020 - 17:51:56: "Classic 0.51 || Mode : plant<327><STEAM_0:0:83230422><>" joined team "CT"
+L 06/28/2020 - 17:51:58: "Hathoda Tyagi<328><STEAM_0:0:266700107><>" joined team "CT"
+L 06/28/2020 - 17:52:05: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "Mofo<321><STEAM_0:0:455086556><CT>" with "m4a1"
+L 06/28/2020 - 17:52:07: "Hathoda Tyagi<328><STEAM_0:0:266700107><CT>" disconnected
+L 06/28/2020 - 17:52:07: [DPROTO]: Client 7 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0568B0D0
+L 06/28/2020 - 17:52:07: "Hathoda Tyagi<329><STEAM_0:0:266700107><>" connected, address "1.186.227.32:10237"
+L 06/28/2020 - 17:52:11: "Hathoda Tyagi<329><STEAM_0:0:266700107><>" entered the game
+L 06/28/2020 - 17:52:14: "Hathoda Tyagi<329><STEAM_0:0:266700107><>" joined team "SPECTATOR"
+L 06/28/2020 - 17:52:37: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "MERA BAAP<324><STEAM_0:0:63052104><CT>" with "m4a1"
+L 06/28/2020 - 17:52:37: Team "TERRORIST" triggered "Terrorists_Win" (CT "38") (T "24")
+L 06/28/2020 - 17:52:37: World triggered "Round_End"
+L 06/28/2020 - 17:52:42: "Classic 0.51 || Mode : plant<327><STEAM_0:0:83230422><CT>" changed name to "Escanor"
+L 06/28/2020 - 17:52:42: World triggered "Round_Start"
+L 06/28/2020 - 17:52:56: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "1729<314><STEAM_0:0:1921819853><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:53:02: "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" killed "Mofo<321><STEAM_0:0:455086556><CT>" with "awp"
+L 06/28/2020 - 17:53:02: "Escanor<327><STEAM_0:0:83230422><CT>" killed "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:53:06: "Escanor<327><STEAM_0:0:83230422><CT>" killed ">.<<325><STEAM_0:0:60684219><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:53:09: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "MERA BAAP<324><STEAM_0:0:63052104><CT>" with "mp5navy"
+L 06/28/2020 - 17:53:12: "Escanor<327><STEAM_0:0:83230422><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:53:12: Team "CT" triggered "CTs_Win" (CT "39") (T "24")
+L 06/28/2020 - 17:53:12: World triggered "Round_End"
+L 06/28/2020 - 17:53:17: World triggered "Round_Start"
+L 06/28/2020 - 17:53:21: [DPROTO]: Client 8 - Set AuthIdType 1 [Native]; pClient = 056900E8
+L 06/28/2020 - 17:53:21: "Sic Mundus Creatus Est<330><STEAM_0:1:66144441><>" connected, address "106.51.234.216:29367"
+L 06/28/2020 - 17:53:21: "Sic Mundus Creatus Est<330><STEAM_0:1:66144441><>" STEAM USERID validated
+L 06/28/2020 - 17:53:23: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed ">.<<325><STEAM_0:0:60684219><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:53:24: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed "1729<314><STEAM_0:0:1921819853><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:53:24: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "MERA BAAP<324><STEAM_0:0:63052104><CT>" with "ak47"
+L 06/28/2020 - 17:53:24: "Mofo<321><STEAM_0:0:455086556><CT>" killed "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" with "mp5navy"
+L 06/28/2020 - 17:53:26: "Escanor<327><STEAM_0:0:83230422><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:53:26: Team "CT" triggered "CTs_Win" (CT "40") (T "24")
+L 06/28/2020 - 17:53:26: World triggered "Round_End"
+L 06/28/2020 - 17:53:27: "Sic Mundus Creatus Est<330><STEAM_0:1:66144441><>" entered the game
+L 06/28/2020 - 17:53:31: World triggered "Round_Start"
+L 06/28/2020 - 17:53:34: "Sic Mundus Creatus Est<330><STEAM_0:1:66144441><>" joined team "CT"
+L 06/28/2020 - 17:53:37: [DPROTO]: Client 9 - Set AuthIdType 1 [dp_RevEmu]; pClient = 05695100
+L 06/28/2020 - 17:53:37: "Berlin<331><STEAM_0:0:355901680><>" connected, address "103.217.121.111:61643"
+L 06/28/2020 - 17:53:43: "Escanor<327><STEAM_0:0:83230422><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:53:46: "Berlin<331><STEAM_0:0:355901680><>" entered the game
+L 06/28/2020 - 17:53:46: "Escanor<327><STEAM_0:0:83230422><CT>" killed "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:53:48: "Sic Mundus Creatus Est<330><STEAM_0:1:66144441><CT>" killed "1729<314><STEAM_0:0:1921819853><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:53:49: ">.<<325><STEAM_0:0:60684219><TERRORIST>" killed "Escanor<327><STEAM_0:0:83230422><CT>" with "ak47"
+L 06/28/2020 - 17:53:49: "Sic Mundus Creatus Est<330><STEAM_0:1:66144441><CT>" killed ">.<<325><STEAM_0:0:60684219><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:53:49: Team "CT" triggered "CTs_Win" (CT "41") (T "24")
+L 06/28/2020 - 17:53:49: World triggered "Round_End"
+L 06/28/2020 - 17:53:54: World triggered "Round_Start"
+L 06/28/2020 - 17:54:00: "Sic Mundus Creatus Est<330><STEAM_0:1:66144441><CT>" killed "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:54:06: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed ">.<<325><STEAM_0:0:60684219><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:54:07: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "Mofo<321><STEAM_0:0:455086556><CT>" with "awp"
+L 06/28/2020 - 17:54:07: "Escanor<327><STEAM_0:0:83230422><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:54:11: "Berlin<331><STEAM_0:0:355901680><>" joined team "TERRORIST"
+L 06/28/2020 - 17:54:15: "Escanor<327><STEAM_0:0:83230422><CT>" killed "Berlin<331><STEAM_0:0:355901680><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:54:19: "Escanor<327><STEAM_0:0:83230422><CT>" killed "1729<314><STEAM_0:0:1921819853><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:54:19: Team "CT" triggered "CTs_Win" (CT "42") (T "24")
+L 06/28/2020 - 17:54:19: World triggered "Round_End"
+L 06/28/2020 - 17:54:24: World triggered "Round_Start"
+L 06/28/2020 - 17:54:28: "Escanor<327><STEAM_0:0:83230422><CT>" killed "Berlin<331><STEAM_0:0:355901680><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:54:33: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "Escanor<327><STEAM_0:0:83230422><CT>" with "m4a1"
+L 06/28/2020 - 17:54:37: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:54:39: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "Sic Mundus Creatus Est<330><STEAM_0:1:66144441><CT>" with "m4a1"
+L 06/28/2020 - 17:54:39: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:54:41: "Mofo<321><STEAM_0:0:455086556><CT>" killed ">.<<325><STEAM_0:0:60684219><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:54:48: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed "1729<314><STEAM_0:0:1921819853><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:54:48: Team "CT" triggered "CTs_Win" (CT "43") (T "24")
+L 06/28/2020 - 17:54:48: World triggered "Round_End"
+L 06/28/2020 - 17:54:53: World triggered "Round_Start"
+L 06/28/2020 - 17:55:00: "Sic Mundus Creatus Est<330><STEAM_0:1:66144441><CT>" killed "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:55:05: "Sic Mundus Creatus Est<330><STEAM_0:1:66144441><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:55:07: "Escanor<327><STEAM_0:0:83230422><CT>" killed "Berlin<331><STEAM_0:0:355901680><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:55:08: "Escanor<327><STEAM_0:0:83230422><CT>" killed ">.<<325><STEAM_0:0:60684219><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:55:10: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed "1729<314><STEAM_0:0:1921819853><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:55:10: Team "CT" triggered "CTs_Win" (CT "44") (T "24")
+L 06/28/2020 - 17:55:10: World triggered "Round_End"
+L 06/28/2020 - 17:55:13: [DPROTO]: Client 10 - Set AuthIdType 1 [Native]; pClient = 0569A118
+L 06/28/2020 - 17:55:13: "antiseptic cream CORONIL<332><STEAM_0:1:49729967><>" connected, address "180.151.106.26:27005"
+L 06/28/2020 - 17:55:13: "antiseptic cream CORONIL<332><STEAM_0:1:49729967><>" STEAM USERID validated
+L 06/28/2020 - 17:55:15: World triggered "Round_Start"
+L 06/28/2020 - 17:55:16: "Hathoda Tyagi<329><STEAM_0:0:266700107><SPECTATOR>" joined team "CT"
+L 06/28/2020 - 17:55:23: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "1729<314><STEAM_0:0:1921819853><TERRORIST>" with "awp"
+L 06/28/2020 - 17:55:25: "Mofo<321><STEAM_0:0:455086556><CT>" killed "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:55:26: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed "Berlin<331><STEAM_0:0:355901680><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:55:28: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "Mofo<321><STEAM_0:0:455086556><CT>" with "awp"
+L 06/28/2020 - 17:55:29: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:55:31: "antiseptic cream CORONIL<332><STEAM_0:1:49729967><>" entered the game
+L 06/28/2020 - 17:55:32: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed ">.<<325><STEAM_0:0:60684219><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:55:32: Team "CT" triggered "CTs_Win" (CT "45") (T "24")
+L 06/28/2020 - 17:55:32: World triggered "Round_End"
+L 06/28/2020 - 17:55:35: "Sic Mundus Creatus Est<330><STEAM_0:1:66144441><CT>" disconnected
+L 06/28/2020 - 17:55:37: World triggered "Round_Start"
+L 06/28/2020 - 17:55:42: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "1729<314><STEAM_0:0:1921819853><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:55:44: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:55:46: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed ">.<<325><STEAM_0:0:60684219><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:55:48: "Escanor<327><STEAM_0:0:83230422><CT>" killed "Berlin<331><STEAM_0:0:355901680><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:55:48: "Hathoda Tyagi<329><STEAM_0:0:266700107><CT>" killed "Escanor<327><STEAM_0:0:83230422><CT>" with "grenade"
+L 06/28/2020 - 17:55:49: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "grenade"
+L 06/28/2020 - 17:55:49: Team "CT" triggered "CTs_Win" (CT "46") (T "24")
+L 06/28/2020 - 17:55:49: World triggered "Round_End"
+L 06/28/2020 - 17:55:53: "antiseptic cream CORONIL<332><STEAM_0:1:49729967><>" joined team "SPECTATOR"
+L 06/28/2020 - 17:55:54: World triggered "Round_Start"
+L 06/28/2020 - 17:56:01: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "Mofo<321><STEAM_0:0:455086556><CT>" with "m4a1"
+L 06/28/2020 - 17:56:03: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed ">.<<325><STEAM_0:0:60684219><TERRORIST>" with "grenade"
+L 06/28/2020 - 17:56:04: "Hathoda Tyagi<329><STEAM_0:0:266700107><CT>" killed "1729<314><STEAM_0:0:1921819853><TERRORIST>" with "knife"
+L 06/28/2020 - 17:56:05: "Hathoda Tyagi<329><STEAM_0:0:266700107><CT>" killed "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" with "knife"
+L 06/28/2020 - 17:56:05: "Escanor<327><STEAM_0:0:83230422><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:56:07: "Hathoda Tyagi<329><STEAM_0:0:266700107><CT>" killed "Berlin<331><STEAM_0:0:355901680><TERRORIST>" with "knife"
+L 06/28/2020 - 17:56:07: Team "CT" triggered "CTs_Win" (CT "47") (T "24")
+L 06/28/2020 - 17:56:07: World triggered "Round_End"
+L 06/28/2020 - 17:56:10: [DPROTO]: Client 8 - Set AuthIdType 1 [Native]; pClient = 056900E8
+L 06/28/2020 - 17:56:10: "kIlL bIlL<333><STEAM_0:0:33944120><>" connected, address "103.252.165.219:27005"
+L 06/28/2020 - 17:56:11: "kIlL bIlL<333><STEAM_0:0:33944120><>" STEAM USERID validated
+L 06/28/2020 - 17:56:12: World triggered "Round_Start"
+L 06/28/2020 - 17:56:16: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" with "awp"
+L 06/28/2020 - 17:56:19: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed ">.<<325><STEAM_0:0:60684219><TERRORIST>" with "awp"
+L 06/28/2020 - 17:56:19: "kIlL bIlL<333><STEAM_0:0:33944120><>" entered the game
+L 06/28/2020 - 17:56:20: "Berlin<331><STEAM_0:0:355901680><TERRORIST>" killed "MERA BAAP<324><STEAM_0:0:63052104><CT>" with "m4a1"
+L 06/28/2020 - 17:56:21: "Hathoda Tyagi<329><STEAM_0:0:266700107><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "knife"
+L 06/28/2020 - 17:56:22: "Escanor<327><STEAM_0:0:83230422><CT>" killed "Berlin<331><STEAM_0:0:355901680><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:56:25: "Mofo<321><STEAM_0:0:455086556><CT>" killed "1729<314><STEAM_0:0:1921819853><TERRORIST>" with "ak47"
+L 06/28/2020 - 17:56:25: Team "CT" triggered "CTs_Win" (CT "48") (T "24")
+L 06/28/2020 - 17:56:26: World triggered "Round_End"
+L 06/28/2020 - 17:56:29: "Escanor<327><STEAM_0:0:83230422><CT>" committed suicide with "world"
+L 06/28/2020 - 17:56:29: "Escanor<327><STEAM_0:0:83230422><CT>" joined team "TERRORIST"
+L 06/28/2020 - 17:56:31: World triggered "Round_Start"
+L 06/28/2020 - 17:56:35: "Berlin<331><STEAM_0:0:355901680><TERRORIST>" killed "Mofo<321><STEAM_0:0:455086556><CT>" with "m4a1"
+L 06/28/2020 - 17:56:35: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed "Berlin<331><STEAM_0:0:355901680><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:56:36: "Escanor<327><STEAM_0:0:83230422><TERRORIST>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:56:36: "Escanor<327><STEAM_0:0:83230422><TERRORIST>" killed "Hathoda Tyagi<329><STEAM_0:0:266700107><CT>" with "m4a1"
+L 06/28/2020 - 17:56:37: "kIlL bIlL<333><STEAM_0:0:33944120><>" joined team "CT"
+L 06/28/2020 - 17:56:44: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed "Escanor<327><STEAM_0:0:83230422><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:57:00: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed ">.<<325><STEAM_0:0:60684219><TERRORIST>" with "xm1014"
+L 06/28/2020 - 17:57:03: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" with "usp"
+L 06/28/2020 - 17:57:04: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed "1729<314><STEAM_0:0:1921819853><TERRORIST>" with "usp"
+L 06/28/2020 - 17:57:04: Team "CT" triggered "CTs_Win" (CT "49") (T "24")
+L 06/28/2020 - 17:57:04: World triggered "Round_End"
+L 06/28/2020 - 17:57:09: World triggered "Round_Start"
+L 06/28/2020 - 17:57:12: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "1729<314><STEAM_0:0:1921819853><TERRORIST>" with "aug"
+L 06/28/2020 - 17:57:14: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" with "aug"
+L 06/28/2020 - 17:57:15: "kIlL bIlL<333><STEAM_0:0:33944120><CT>" killed "Escanor<327><STEAM_0:0:83230422><TERRORIST>" with "awp"
+L 06/28/2020 - 17:57:17: "Berlin<331><STEAM_0:0:355901680><TERRORIST>" killed "Hathoda Tyagi<329><STEAM_0:0:266700107><CT>" with "m4a1"
+L 06/28/2020 - 17:57:18: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed ">.<<325><STEAM_0:0:60684219><TERRORIST>" with "glock18"
+L 06/28/2020 - 17:57:19: "Berlin<331><STEAM_0:0:355901680><TERRORIST>" killed "kIlL bIlL<333><STEAM_0:0:33944120><CT>" with "m4a1"
+L 06/28/2020 - 17:57:24: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed "Berlin<331><STEAM_0:0:355901680><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:57:32: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:57:32: Team "CT" triggered "CTs_Win" (CT "50") (T "24")
+L 06/28/2020 - 17:57:32: World triggered "Round_End"
+L 06/28/2020 - 17:57:37: World triggered "Round_Start"
+L 06/28/2020 - 17:57:43: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed "Escanor<327><STEAM_0:0:83230422><TERRORIST>" with "grenade"
+L 06/28/2020 - 17:57:43: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed "Berlin<331><STEAM_0:0:355901680><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:57:46: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed ">.<<325><STEAM_0:0:60684219><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:57:48: "MERA BAAP<324><STEAM_0:0:63052104><CT>" killed "1729<314><STEAM_0:0:1921819853><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:57:53: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "MERA BAAP<324><STEAM_0:0:63052104><CT>" with "ak47"
+L 06/28/2020 - 17:57:57: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "Hathoda Tyagi<329><STEAM_0:0:266700107><CT>" with "ak47"
+L 06/28/2020 - 17:58:01: Bad Rcon: "rcon 664530469 "" password LAuda2" from "103.76.82.177:28182"
+L 06/28/2020 - 17:58:01: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "kIlL bIlL<333><STEAM_0:0:33944120><CT>" with "xm1014"
+L 06/28/2020 - 17:58:04: Bad Rcon: "rcon 664530469 "" password Lauda2" from "103.76.82.177:28182"
+L 06/28/2020 - 17:58:11: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "Mofo<321><STEAM_0:0:455086556><CT>" with "m4a1"
+L 06/28/2020 - 17:58:11: Team "TERRORIST" triggered "Terrorists_Win" (CT "50") (T "25")
+L 06/28/2020 - 17:58:11: World triggered "Round_End"
+L 06/28/2020 - 17:58:16: World triggered "Round_Start"
+L 06/28/2020 - 17:58:18: Rcon: "rcon 664530469 "Lauda2" changelevel $2000$" from "103.76.82.177:28182"
+L 06/28/2020 - 17:58:18: [META] ini: Begin re-reading plugins list: g:/tcafiles/users/fkguxmko/7303/cstrike/addons/metamod/plugins.ini
+L 06/28/2020 - 17:58:18: [META] ini: Read plugin config for: AMX Mod X
+L 06/28/2020 - 17:58:18: [META] ini: Read plugin config for: dproto_EF
+L 06/28/2020 - 17:58:18: [META] ini: Finished reading plugins list: g:/tcafiles/users/fkguxmko/7303/cstrike/addons/metamod/plugins.ini; Found 2 plugins
+L 06/28/2020 - 17:58:18: [META] dll: Updating plugins...
+L 06/28/2020 - 17:58:18: [META] dll: Finished updating 5 plugins; kept 2, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 06/28/2020 - 17:58:18: "Mofo<321><STEAM_0:0:455086556><CT>" disconnected
+L 06/28/2020 - 17:58:18: "Mute || Cristiano<322><STEAM_0:0:1465890162><TERRORIST>" disconnected
+L 06/28/2020 - 17:58:18: "MERA BAAP<324><STEAM_0:0:63052104><CT>" disconnected
+L 06/28/2020 - 17:58:18: "1729<314><STEAM_0:0:1921819853><TERRORIST>" disconnected
+L 06/28/2020 - 17:58:18: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" disconnected
+L 06/28/2020 - 17:58:18: ">.<<325><STEAM_0:0:60684219><TERRORIST>" disconnected
+L 06/28/2020 - 17:58:18: "Escanor<327><STEAM_0:0:83230422><TERRORIST>" disconnected
+L 06/28/2020 - 17:58:18: "Hathoda Tyagi<329><STEAM_0:0:266700107><CT>" disconnected
+L 06/28/2020 - 17:58:18: "kIlL bIlL<333><STEAM_0:0:33944120><CT>" disconnected
+L 06/28/2020 - 17:58:18: "Berlin<331><STEAM_0:0:355901680><TERRORIST>" disconnected
+L 06/28/2020 - 17:58:18: World triggered "Round_Draw" (CT "50") (T "25")
+L 06/28/2020 - 17:58:18: World triggered "Round_End"
+L 06/28/2020 - 17:58:18: "antiseptic cream CORONIL<332><STEAM_0:1:49729967><SPECTATOR>" disconnected
+L 06/28/2020 - 17:58:18: World triggered "Round_Draw" (CT "50") (T "25")
+L 06/28/2020 - 17:58:18: World triggered "Round_End"
+L 06/28/2020 - 17:58:18: Log file closed

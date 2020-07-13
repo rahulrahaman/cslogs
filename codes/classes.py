@@ -5,7 +5,7 @@ from codes.classes import *
 from codes.config import *
 
 
-class Match():
+class Match:
     def __init__(self, raw_info):
         '''
         Called when first half is finished
@@ -42,6 +42,8 @@ class Match():
         self.frag_list.extend(frag_list)
         self.markers += [len(self.log)+marker for marker in markers]
         self.log += raw_info
+        self.get_brownie_scores(players, markers, raw_info, '2nd Half')
+
         for team in self.teams:
             first_side = self.teams[team]['first_side']
             self.teams[team]['final_score'] = self.dynamics[-1][1-int(first_side)]
@@ -57,14 +59,16 @@ class Match():
                         if self.frag_list[frag_no][j]==player:
                             self.frag_list[frag_no][j] = ret_
                 self.players[ret_]['rounds'] += len(dynamics)-1
+                for num in range(len(self.brownies)):
+                    if self.brownies[num][1] == player:
+                        self.brownies[num][1] = ret_
                 for key in players[player]:
                     if key not in ['name', 'team', 'steam', 'ct', 'id']:
                         self.players[ret_][key] = self.players[ret_].get(key, 0) + players[player][key]
-        
+
         for team in self.teams:
             self.teams[team]['win'] = self.teams[team]['final_score']==RACE_TO
-            
-        self.get_brownie_scores(players, markers, raw_info, '2nd Half')
+
         self.final_score = str(self.teams[self.team_list[0]]['final_score']) + '-' + str(self.teams[self.team_list[1]]['final_score'])
         self.tag += '  (' + self.final_score + ')'
         return

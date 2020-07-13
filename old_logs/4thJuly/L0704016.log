@@ -1,0 +1,227 @@
+L 07/04/2020 - 21:52:26: Log file started (file "logs\L0704016.log") (game "cstrike") (version "48/1.1.2.7/8308")
+L 07/04/2020 - 21:52:26: Loading map "de_inferno"
+L 07/04/2020 - 21:52:26: Server cvars start
+L 07/04/2020 - 21:52:26: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 07/04/2020 - 21:52:26: Server cvar "_tutor_debug_level" = "0"
+L 07/04/2020 - 21:52:26: Server cvar "_tutor_examine_time" = "0.5"
+L 07/04/2020 - 21:52:26: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 07/04/2020 - 21:52:26: Server cvar "_tutor_look_angle" = "10"
+L 07/04/2020 - 21:52:26: Server cvar "_tutor_look_distance" = "200"
+L 07/04/2020 - 21:52:26: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 07/04/2020 - 21:52:26: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 07/04/2020 - 21:52:26: Server cvar "_tutor_message_repeats" = "5"
+L 07/04/2020 - 21:52:26: Server cvar "_tutor_view_distance" = "1000"
+L 07/04/2020 - 21:52:26: Server cvar "allow_spectators" = "1"
+L 07/04/2020 - 21:52:26: Server cvar "amx_client_languages" = "1"
+L 07/04/2020 - 21:52:26: Server cvar "amx_language" = "en"
+L 07/04/2020 - 21:52:26: Server cvar "amx_nextmap" = "DE_INFERNO"
+L 07/04/2020 - 21:52:26: Server cvar "amx_timeleft" = "65520:10"
+L 07/04/2020 - 21:52:26: Server cvar "amxmodx_version" = "1.8.2"
+L 07/04/2020 - 21:52:26: Server cvar "coop" = "0"
+L 07/04/2020 - 21:52:26: Server cvar "deathmatch" = "1"
+L 07/04/2020 - 21:52:26: Server cvar "decalfrequency" = "60"
+L 07/04/2020 - 21:52:26: Server cvar "dp_version" = "0.9.582"
+L 07/04/2020 - 21:52:26: Server cvar "edgefriction" = "2"
+L 07/04/2020 - 21:52:26: Server cvar "hostage_debug" = "0"
+L 07/04/2020 - 21:52:26: Server cvar "hostage_stop" = "0"
+L 07/04/2020 - 21:52:26: Server cvar "humans_join_team" = "any"
+L 07/04/2020 - 21:52:26: Server cvar "max_queries_sec" = "3.0"
+L 07/04/2020 - 21:52:26: Server cvar "max_queries_sec_global" = "30"
+L 07/04/2020 - 21:52:26: Server cvar "max_queries_window" = "60"
+L 07/04/2020 - 21:52:26: Server cvar "metamod_version" = "1.20"
+L 07/04/2020 - 21:52:26: Server cvar "mp_allowmonsters" = "0"
+L 07/04/2020 - 21:52:26: Server cvar "mp_autokick" = "0"
+L 07/04/2020 - 21:52:26: Server cvar "mp_autokick_timeout" = "-1"
+L 07/04/2020 - 21:52:26: Server cvar "mp_autoteambalance" = "0"
+L 07/04/2020 - 21:52:26: Server cvar "mp_buytime" = "1.5"
+L 07/04/2020 - 21:52:26: Server cvar "mp_c4timer" = "45"
+L 07/04/2020 - 21:52:26: Server cvar "mp_chattime" = "0"
+L 07/04/2020 - 21:52:26: Server cvar "mp_consistency" = "1"
+L 07/04/2020 - 21:52:26: Server cvar "mp_fadetoblack" = "0"
+L 07/04/2020 - 21:52:26: Server cvar "mp_flashlight" = "0"
+L 07/04/2020 - 21:52:26: Server cvar "mp_footsteps" = "1"
+L 07/04/2020 - 21:52:26: Server cvar "mp_forcecamera" = "0"
+L 07/04/2020 - 21:52:26: Server cvar "mp_forcechasecam" = "2"
+L 07/04/2020 - 21:52:26: Server cvar "mp_fragsleft" = "0"
+L 07/04/2020 - 21:52:26: Server cvar "mp_freezetime" = "10"
+L 07/04/2020 - 21:52:26: Server cvar "mp_friendlyfire" = "1"
+L 07/04/2020 - 21:52:26: Server cvar "mp_ghostfrequency" = "0.1"
+L 07/04/2020 - 21:52:26: Server cvar "mp_hostagepenalty" = "2"
+L 07/04/2020 - 21:52:26: Server cvar "mp_infinite_ammo" = "0"
+L 07/04/2020 - 21:52:26: Server cvar "mp_kickpercent" = "0.66"
+L 07/04/2020 - 21:52:26: Server cvar "mp_limitteams" = "5"
+L 07/04/2020 - 21:52:26: Server cvar "mp_logdetail" = "0"
+L 07/04/2020 - 21:52:26: Server cvar "mp_logfile" = "1"
+L 07/04/2020 - 21:52:26: Server cvar "mp_logmessages" = "1"
+L 07/04/2020 - 21:52:26: Server cvar "mp_mapvoteratio" = "0.66"
+L 07/04/2020 - 21:52:26: Server cvar "mp_maxrounds" = "0"
+L 07/04/2020 - 21:52:26: Server cvar "mp_mirrordamage" = "0"
+L 07/04/2020 - 21:52:26: Server cvar "mp_playerid" = "0"
+L 07/04/2020 - 21:52:26: Server cvar "mp_roundtime" = "2"
+L 07/04/2020 - 21:52:26: Server cvar "mp_scoreboard_showhealth" = "3"
+L 07/04/2020 - 21:52:26: Server cvar "mp_scoreboard_showmoney" = "3"
+L 07/04/2020 - 21:52:26: Server cvar "mp_startmoney" = "800"
+L 07/04/2020 - 21:52:26: Server cvar "mp_timeleft" = "0"
+L 07/04/2020 - 21:52:26: Server cvar "mp_timelimit" = "65535"
+L 07/04/2020 - 21:52:26: Server cvar "mp_tkpunish" = "0"
+L 07/04/2020 - 21:52:26: Server cvar "mp_windifference" = "1"
+L 07/04/2020 - 21:52:26: Server cvar "mp_winlimit" = "0"
+L 07/04/2020 - 21:52:26: Server cvar "pausable" = "0"
+L 07/04/2020 - 21:52:26: Server cvar "sv_accelerate" = "5"
+L 07/04/2020 - 21:52:26: Server cvar "sv_aim" = "0"
+L 07/04/2020 - 21:52:26: Server cvar "sv_airaccelerate" = "10"
+L 07/04/2020 - 21:52:26: Server cvar "sv_allowupload" = "1"
+L 07/04/2020 - 21:52:26: Server cvar "sv_alltalk" = "0"
+L 07/04/2020 - 21:52:26: Server cvar "sv_bounce" = "1"
+L 07/04/2020 - 21:52:26: Server cvar "sv_cheats" = "0"
+L 07/04/2020 - 21:52:26: Server cvar "sv_clienttrace" = "1"
+L 07/04/2020 - 21:52:26: Server cvar "sv_contact" = "apoo12345@gmail.com"
+L 07/04/2020 - 21:52:26: Server cvar "sv_friction" = "4"
+L 07/04/2020 - 21:52:26: Server cvar "sv_gravity" = "800"
+L 07/04/2020 - 21:52:26: Server cvar "sv_logblocks" = "0"
+L 07/04/2020 - 21:52:26: Server cvar "sv_maxrate" = "20000"
+L 07/04/2020 - 21:52:26: Server cvar "sv_maxspeed" = "900"
+L 07/04/2020 - 21:52:26: Server cvar "sv_minrate" = "5000"
+L 07/04/2020 - 21:52:26: Server cvar "sv_password" = "Lauda"
+L 07/04/2020 - 21:52:26: Server cvar "sv_proxies" = "1"
+L 07/04/2020 - 21:52:26: Server cvar "sv_restart" = "0"
+L 07/04/2020 - 21:52:26: Server cvar "sv_restartround" = "0"
+L 07/04/2020 - 21:52:26: Server cvar "sv_stepsize" = "18"
+L 07/04/2020 - 21:52:26: Server cvar "sv_stopspeed" = "75"
+L 07/04/2020 - 21:52:26: Server cvar "sv_uploadmax" = "0.5"
+L 07/04/2020 - 21:52:26: Server cvar "sv_voiceenable" = "0"
+L 07/04/2020 - 21:52:26: Server cvar "sv_wateraccelerate" = "10"
+L 07/04/2020 - 21:52:26: Server cvar "sv_waterfriction" = "1"
+L 07/04/2020 - 21:52:26: Server cvars end
+L 07/04/2020 - 21:52:26: Server cvar "amx_nextmap" = "de_inferno"
+L 07/04/2020 - 21:52:27: Started map "de_inferno" (CRC "-1312756001")
+L 07/04/2020 - 21:52:30: "-_-!<808><STEAM_0:0:60684219><>" entered the game
+L 07/04/2020 - 21:52:31: "Ninja Bois || 1729<807><STEAM_0:0:1921819853><>" entered the game
+L 07/04/2020 - 21:52:31: "Ninja Bois || F5<804><VALVE_0:4:60688751><>" entered the game
+L 07/04/2020 - 21:52:31: "Branco Bois || pRo_rVlTN<806><STEAM_0:1:546352772><>" entered the game
+L 07/04/2020 - 21:52:33: "-_-!<808><STEAM_0:0:60684219><>" disconnected
+L 07/04/2020 - 21:52:33: World triggered "Round_Draw" (CT "0") (T "0")
+L 07/04/2020 - 21:52:33: World triggered "Round_End"
+L 07/04/2020 - 21:52:36: "Branco Bois || noob_assassin<803><STEAM_0:0:1060612858><>" entered the game
+L 07/04/2020 - 21:52:41: "Ninja Bois || F5<804><VALVE_0:4:60688751><>" joined team "TERRORIST"
+L 07/04/2020 - 21:52:42: "Ninja Bois || F5<804><VALVE_0:4:60688751><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 07/04/2020 - 21:52:48: World triggered "Round_Start"
+L 07/04/2020 - 21:52:53: "Ninja Bois || F5<804><VALVE_0:4:60688751><TERRORIST>" triggered "Dropped_The_Bomb"
+L 07/04/2020 - 21:52:53: "Ninja Bois || F5<804><VALVE_0:4:60688751><TERRORIST>" disconnected
+L 07/04/2020 - 21:52:53: World triggered "Round_Draw" (CT "0") (T "0")
+L 07/04/2020 - 21:52:53: World triggered "Round_End"
+L 07/04/2020 - 21:52:56: "Branco Bois || pRo_rVlTN<806><STEAM_0:1:546352772><>" joined team "TERRORIST"
+L 07/04/2020 - 21:53:08: World triggered "Round_Start"
+L 07/04/2020 - 21:53:23: "Ninja Bois || 1729<807><STEAM_0:0:1921819853><>" joined team "CT"
+L 07/04/2020 - 21:54:05: [DPROTO]: Client 11 - Set AuthIdType 4 [dproto]; pClient = 0569F130
+L 07/04/2020 - 21:54:05: "Ninja Bois || F5<809><VALVE_0:4:60688751><>" connected, address "103.240.96.174:27005"
+L 07/04/2020 - 21:54:09: "Ninja Bois || F5<809><VALVE_0:4:60688751><>" entered the game
+L 07/04/2020 - 21:54:17: "Ninja Bois || F5<809><VALVE_0:4:60688751><>" joined team "CT"
+L 07/04/2020 - 21:55:08: Team "CT" triggered "Target_Saved" (CT "1") (T "0")
+L 07/04/2020 - 21:55:08: World triggered "Round_End"
+L 07/04/2020 - 21:55:23: World triggered "Round_Start"
+L 07/04/2020 - 21:55:32: World triggered "Game_Commencing"
+L 07/04/2020 - 21:55:32: World triggered "Game_Commencing" (CT "1") (T "0")
+L 07/04/2020 - 21:55:32: World triggered "Round_End"
+L 07/04/2020 - 21:55:35: "Branco Bois || pRo_rVlTN<806><STEAM_0:1:546352772><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 07/04/2020 - 21:55:38: "Ninja Bois || F5<809><VALVE_0:4:60688751><CT>" committed suicide with "world"
+L 07/04/2020 - 21:55:38: "Ninja Bois || F5<809><VALVE_0:4:60688751><CT>" joined team "TERRORIST"
+L 07/04/2020 - 21:55:45: World triggered "Round_Start"
+L 07/04/2020 - 21:56:03: "Branco Bois || pRo_rVlTN<806><STEAM_0:1:546352772><TERRORIST>" triggered "Dropped_The_Bomb"
+L 07/04/2020 - 21:56:03: "Branco Bois || pRo_rVlTN<806><STEAM_0:1:546352772><TERRORIST>" disconnected
+L 07/04/2020 - 21:56:03: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 07/04/2020 - 21:56:03: World triggered "Round_End"
+L 07/04/2020 - 21:56:08: "Ninja Bois || F5<809><VALVE_0:4:60688751><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 07/04/2020 - 21:56:18: World triggered "Round_Start"
+L 07/04/2020 - 21:56:30: "Ninja Bois || 1729<807><STEAM_0:0:1921819853><CT>" killed "Ninja Bois || F5<809><VALVE_0:4:60688751><TERRORIST>" with "usp"
+L 07/04/2020 - 21:56:30: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 07/04/2020 - 21:56:30: World triggered "Round_End"
+L 07/04/2020 - 21:56:35: "Ninja Bois || F5<809><VALVE_0:4:60688751><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 07/04/2020 - 21:56:45: World triggered "Round_Start"
+L 07/04/2020 - 21:57:01: "Ninja Bois || 1729<807><STEAM_0:0:1921819853><CT>" killed "Ninja Bois || F5<809><VALVE_0:4:60688751><TERRORIST>" with "usp"
+L 07/04/2020 - 21:57:01: Team "CT" triggered "CTs_Win" (CT "3") (T "0")
+L 07/04/2020 - 21:57:01: World triggered "Round_End"
+L 07/04/2020 - 21:57:06: "Ninja Bois || F5<809><VALVE_0:4:60688751><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 07/04/2020 - 21:57:16: World triggered "Round_Start"
+L 07/04/2020 - 21:57:33: "Ninja Bois || 1729<807><STEAM_0:0:1921819853><CT>" killed "Ninja Bois || F5<809><VALVE_0:4:60688751><TERRORIST>" with "usp"
+L 07/04/2020 - 21:57:33: Team "CT" triggered "CTs_Win" (CT "4") (T "0")
+L 07/04/2020 - 21:57:33: World triggered "Round_End"
+L 07/04/2020 - 21:57:38: "Ninja Bois || F5<809><VALVE_0:4:60688751><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 07/04/2020 - 21:57:43: "Ninja Bois || F5<809><VALVE_0:4:60688751><TERRORIST>" triggered "Dropped_The_Bomb"
+L 07/04/2020 - 21:57:48: World triggered "Round_Start"
+L 07/04/2020 - 21:58:17: "Ninja Bois || 1729<807><STEAM_0:0:1921819853><CT>" killed "Ninja Bois || F5<809><VALVE_0:4:60688751><TERRORIST>" with "usp"
+L 07/04/2020 - 21:58:17: Team "CT" triggered "CTs_Win" (CT "5") (T "0")
+L 07/04/2020 - 21:58:17: World triggered "Round_End"
+L 07/04/2020 - 21:58:22: "Ninja Bois || F5<809><VALVE_0:4:60688751><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 07/04/2020 - 21:58:32: World triggered "Round_Start"
+L 07/04/2020 - 21:58:46: "Ninja Bois || 1729<807><STEAM_0:0:1921819853><CT>" killed "Ninja Bois || F5<809><VALVE_0:4:60688751><TERRORIST>" with "usp"
+L 07/04/2020 - 21:58:46: Team "CT" triggered "CTs_Win" (CT "6") (T "0")
+L 07/04/2020 - 21:58:46: World triggered "Round_End"
+L 07/04/2020 - 21:58:51: "Ninja Bois || F5<809><VALVE_0:4:60688751><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 07/04/2020 - 21:59:01: World triggered "Round_Start"
+L 07/04/2020 - 21:59:14: "Ninja Bois || 1729<807><STEAM_0:0:1921819853><CT>" killed "Ninja Bois || F5<809><VALVE_0:4:60688751><TERRORIST>" with "usp"
+L 07/04/2020 - 21:59:14: Team "CT" triggered "CTs_Win" (CT "7") (T "0")
+L 07/04/2020 - 21:59:14: World triggered "Round_End"
+L 07/04/2020 - 21:59:19: "Ninja Bois || F5<809><VALVE_0:4:60688751><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 07/04/2020 - 21:59:29: World triggered "Round_Start"
+L 07/04/2020 - 21:59:30: "Branco Bois || noob_assassin<803><STEAM_0:0:1060612858><>" disconnected
+L 07/04/2020 - 22:00:02: "Ninja Bois || 1729<807><STEAM_0:0:1921819853><CT>" killed "Ninja Bois || F5<809><VALVE_0:4:60688751><TERRORIST>" with "usp"
+L 07/04/2020 - 22:00:02: Team "CT" triggered "CTs_Win" (CT "8") (T "0")
+L 07/04/2020 - 22:00:02: World triggered "Round_End"
+L 07/04/2020 - 22:00:07: "Ninja Bois || F5<809><VALVE_0:4:60688751><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 07/04/2020 - 22:00:17: World triggered "Round_Start"
+L 07/04/2020 - 22:00:35: "Ninja Bois || 1729<807><STEAM_0:0:1921819853><CT>" killed "Ninja Bois || F5<809><VALVE_0:4:60688751><TERRORIST>" with "usp"
+L 07/04/2020 - 22:00:35: Team "CT" triggered "CTs_Win" (CT "9") (T "0")
+L 07/04/2020 - 22:00:35: World triggered "Round_End"
+L 07/04/2020 - 22:00:40: "Ninja Bois || F5<809><VALVE_0:4:60688751><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 07/04/2020 - 22:00:50: World triggered "Round_Start"
+L 07/04/2020 - 22:01:14: "Ninja Bois || 1729<807><STEAM_0:0:1921819853><CT>" killed "Ninja Bois || F5<809><VALVE_0:4:60688751><TERRORIST>" with "usp"
+L 07/04/2020 - 22:01:14: Team "CT" triggered "CTs_Win" (CT "10") (T "0")
+L 07/04/2020 - 22:01:14: World triggered "Round_End"
+L 07/04/2020 - 22:01:19: "Ninja Bois || F5<809><VALVE_0:4:60688751><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 07/04/2020 - 22:01:29: World triggered "Round_Start"
+L 07/04/2020 - 22:01:41: "Ninja Bois || 1729<807><STEAM_0:0:1921819853><CT>" killed "Ninja Bois || F5<809><VALVE_0:4:60688751><TERRORIST>" with "usp"
+L 07/04/2020 - 22:01:41: Team "CT" triggered "CTs_Win" (CT "11") (T "0")
+L 07/04/2020 - 22:01:41: World triggered "Round_End"
+L 07/04/2020 - 22:01:46: "Ninja Bois || F5<809><VALVE_0:4:60688751><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 07/04/2020 - 22:01:49: "Ninja Bois || 1729<807><STEAM_0:0:1921819853><CT>" say "cholo tata pore khelbo abar"
+L 07/04/2020 - 22:01:52: "Ninja Bois || 1729<807><STEAM_0:0:1921819853><CT>" disconnected
+L 07/04/2020 - 22:01:56: World triggered "Round_Start"
+L 07/04/2020 - 22:01:58: "Ninja Bois || F5<809><VALVE_0:4:60688751><TERRORIST>" triggered "Dropped_The_Bomb"
+L 07/04/2020 - 22:01:58: "Ninja Bois || F5<809><VALVE_0:4:60688751><TERRORIST>" disconnected
+L 07/04/2020 - 22:01:58: World triggered "Round_Draw" (CT "11") (T "0")
+L 07/04/2020 - 22:01:58: World triggered "Round_End"
+L 07/04/2020 - 22:02:13: World triggered "Round_Start"
+L 07/04/2020 - 22:04:13: Team "CT" triggered "Target_Saved" (CT "12") (T "0")
+L 07/04/2020 - 22:04:13: World triggered "Round_End"
+L 07/04/2020 - 22:04:28: World triggered "Round_Start"
+L 07/04/2020 - 22:06:28: Team "CT" triggered "Target_Saved" (CT "13") (T "0")
+L 07/04/2020 - 22:06:28: World triggered "Round_End"
+L 07/04/2020 - 22:06:43: World triggered "Round_Start"
+L 07/04/2020 - 22:08:43: Team "CT" triggered "Target_Saved" (CT "14") (T "0")
+L 07/04/2020 - 22:08:43: World triggered "Round_End"
+L 07/04/2020 - 22:08:58: World triggered "Round_Start"
+L 07/04/2020 - 22:10:58: Team "CT" triggered "Target_Saved" (CT "15") (T "0")
+L 07/04/2020 - 22:10:58: World triggered "Round_End"
+L 07/04/2020 - 22:11:13: World triggered "Round_Start"
+L 07/04/2020 - 22:13:13: Team "CT" triggered "Target_Saved" (CT "16") (T "0")
+L 07/04/2020 - 22:13:13: World triggered "Round_End"
+L 07/04/2020 - 22:13:28: World triggered "Round_Start"
+L 07/04/2020 - 22:15:28: Team "CT" triggered "Target_Saved" (CT "17") (T "0")
+L 07/04/2020 - 22:15:28: World triggered "Round_End"
+L 07/04/2020 - 22:15:43: World triggered "Round_Start"
+L 07/04/2020 - 22:17:43: Team "CT" triggered "Target_Saved" (CT "18") (T "0")
+L 07/04/2020 - 22:17:43: World triggered "Round_End"
+L 07/04/2020 - 22:17:58: World triggered "Round_Start"
+L 07/04/2020 - 22:19:58: Team "CT" triggered "Target_Saved" (CT "19") (T "0")
+L 07/04/2020 - 22:19:58: World triggered "Round_End"
+L 07/04/2020 - 22:20:13: World triggered "Round_Start"
+L 07/04/2020 - 22:22:13: Team "CT" triggered "Target_Saved" (CT "20") (T "0")
+L 07/04/2020 - 22:22:13: World triggered "Round_End"
+L 07/04/2020 - 22:22:28: World triggered "Round_Start"
+L 07/04/2020 - 22:24:28: Team "CT" triggered "Target_Saved" (CT "21") (T "0")
+L 07/04/2020 - 22:24:28: World triggered "Round_End"
+L 07/04/2020 - 22:24:43: World triggered "Round_Start"
+L 07/04/2020 - 22:26:43: Team "CT" triggered "Target_Saved" (CT "22") (T "0")
+L 07/04/2020 - 22:26:43: World triggered "Round_End"
+L 07/04/2020

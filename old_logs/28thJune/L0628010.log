@@ -1,0 +1,164 @@
+L 06/28/2020 - 17:58:18: Log file started (file "logs\L0628010.log") (game "cstrike") (version "48/1.1.2.7/8308")
+L 06/28/2020 - 17:58:18: Loading map "$2000$"
+L 06/28/2020 - 17:58:18: Server cvars start
+L 06/28/2020 - 17:58:18: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 06/28/2020 - 17:58:18: Server cvar "_tutor_debug_level" = "0"
+L 06/28/2020 - 17:58:18: Server cvar "_tutor_examine_time" = "0.5"
+L 06/28/2020 - 17:58:18: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 06/28/2020 - 17:58:18: Server cvar "_tutor_look_angle" = "10"
+L 06/28/2020 - 17:58:18: Server cvar "_tutor_look_distance" = "200"
+L 06/28/2020 - 17:58:18: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 06/28/2020 - 17:58:18: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 06/28/2020 - 17:58:18: Server cvar "_tutor_message_repeats" = "5"
+L 06/28/2020 - 17:58:18: Server cvar "_tutor_view_distance" = "1000"
+L 06/28/2020 - 17:58:18: Server cvar "allow_spectators" = "1"
+L 06/28/2020 - 17:58:18: Server cvar "amx_client_languages" = "1"
+L 06/28/2020 - 17:58:18: Server cvar "amx_language" = "en"
+L 06/28/2020 - 17:58:18: Server cvar "amx_nextmap" = "$2000$"
+L 06/28/2020 - 17:58:18: Server cvar "amx_timeleft" = "65504:43"
+L 06/28/2020 - 17:58:18: Server cvar "amxmodx_version" = "1.8.2"
+L 06/28/2020 - 17:58:18: Server cvar "coop" = "0"
+L 06/28/2020 - 17:58:18: Server cvar "deathmatch" = "1"
+L 06/28/2020 - 17:58:18: Server cvar "decalfrequency" = "60"
+L 06/28/2020 - 17:58:18: Server cvar "dp_version" = "0.9.582"
+L 06/28/2020 - 17:58:18: Server cvar "edgefriction" = "2"
+L 06/28/2020 - 17:58:18: Server cvar "hostage_debug" = "0"
+L 06/28/2020 - 17:58:18: Server cvar "hostage_stop" = "0"
+L 06/28/2020 - 17:58:18: Server cvar "humans_join_team" = "any"
+L 06/28/2020 - 17:58:18: Server cvar "max_queries_sec" = "3.0"
+L 06/28/2020 - 17:58:18: Server cvar "max_queries_sec_global" = "30"
+L 06/28/2020 - 17:58:18: Server cvar "max_queries_window" = "60"
+L 06/28/2020 - 17:58:18: Server cvar "metamod_version" = "1.20"
+L 06/28/2020 - 17:58:18: Server cvar "mp_allowmonsters" = "0"
+L 06/28/2020 - 17:58:18: Server cvar "mp_autokick" = "0"
+L 06/28/2020 - 17:58:18: Server cvar "mp_autokick_timeout" = "-1"
+L 06/28/2020 - 17:58:18: Server cvar "mp_autoteambalance" = "0"
+L 06/28/2020 - 17:58:18: Server cvar "mp_buytime" = "1.5"
+L 06/28/2020 - 17:58:18: Server cvar "mp_c4timer" = "45"
+L 06/28/2020 - 17:58:18: Server cvar "mp_chattime" = "0"
+L 06/28/2020 - 17:58:18: Server cvar "mp_consistency" = "1"
+L 06/28/2020 - 17:58:18: Server cvar "mp_fadetoblack" = "0"
+L 06/28/2020 - 17:58:18: Server cvar "mp_flashlight" = "0"
+L 06/28/2020 - 17:58:18: Server cvar "mp_footsteps" = "1"
+L 06/28/2020 - 17:58:18: Server cvar "mp_forcecamera" = "0"
+L 06/28/2020 - 17:58:18: Server cvar "mp_forcechasecam" = "2"
+L 06/28/2020 - 17:58:18: Server cvar "mp_fragsleft" = "0"
+L 06/28/2020 - 17:58:18: Server cvar "mp_freezetime" = "0"
+L 06/28/2020 - 17:58:18: Server cvar "mp_friendlyfire" = "1"
+L 06/28/2020 - 17:58:18: Server cvar "mp_ghostfrequency" = "0.1"
+L 06/28/2020 - 17:58:18: Server cvar "mp_hostagepenalty" = "2"
+L 06/28/2020 - 17:58:18: Server cvar "mp_infinite_ammo" = "0"
+L 06/28/2020 - 17:58:18: Server cvar "mp_kickpercent" = "0.66"
+L 06/28/2020 - 17:58:18: Server cvar "mp_limitteams" = "5"
+L 06/28/2020 - 17:58:18: Server cvar "mp_logdetail" = "0"
+L 06/28/2020 - 17:58:18: Server cvar "mp_logfile" = "1"
+L 06/28/2020 - 17:58:18: Server cvar "mp_logmessages" = "1"
+L 06/28/2020 - 17:58:18: Server cvar "mp_mapvoteratio" = "0.66"
+L 06/28/2020 - 17:58:18: Server cvar "mp_maxrounds" = "0"
+L 06/28/2020 - 17:58:18: Server cvar "mp_mirrordamage" = "0"
+L 06/28/2020 - 17:58:18: Server cvar "mp_playerid" = "0"
+L 06/28/2020 - 17:58:18: Server cvar "mp_roundtime" = "2"
+L 06/28/2020 - 17:58:18: Server cvar "mp_scoreboard_showhealth" = "3"
+L 06/28/2020 - 17:58:18: Server cvar "mp_scoreboard_showmoney" = "3"
+L 06/28/2020 - 17:58:18: Server cvar "mp_startmoney" = "800"
+L 06/28/2020 - 17:58:18: Server cvar "mp_timeleft" = "0"
+L 06/28/2020 - 17:58:18: Server cvar "mp_timelimit" = "65535"
+L 06/28/2020 - 17:58:18: Server cvar "mp_tkpunish" = "0"
+L 06/28/2020 - 17:58:18: Server cvar "mp_windifference" = "1"
+L 06/28/2020 - 17:58:18: Server cvar "mp_winlimit" = "0"
+L 06/28/2020 - 17:58:18: Server cvar "pausable" = "0"
+L 06/28/2020 - 17:58:18: Server cvar "sv_accelerate" = "5"
+L 06/28/2020 - 17:58:18: Server cvar "sv_aim" = "0"
+L 06/28/2020 - 17:58:18: Server cvar "sv_airaccelerate" = "10"
+L 06/28/2020 - 17:58:18: Server cvar "sv_allowupload" = "1"
+L 06/28/2020 - 17:58:18: Server cvar "sv_alltalk" = "0"
+L 06/28/2020 - 17:58:18: Server cvar "sv_bounce" = "1"
+L 06/28/2020 - 17:58:18: Server cvar "sv_cheats" = "0"
+L 06/28/2020 - 17:58:18: Server cvar "sv_clienttrace" = "1"
+L 06/28/2020 - 17:58:18: Server cvar "sv_contact" = "apoo12345@gmail.com"
+L 06/28/2020 - 17:58:18: Server cvar "sv_friction" = "4"
+L 06/28/2020 - 17:58:18: Server cvar "sv_gravity" = "800"
+L 06/28/2020 - 17:58:18: Server cvar "sv_logblocks" = "0"
+L 06/28/2020 - 17:58:18: Server cvar "sv_maxrate" = "20000"
+L 06/28/2020 - 17:58:18: Server cvar "sv_maxspeed" = "900"
+L 06/28/2020 - 17:58:18: Server cvar "sv_minrate" = "5000"
+L 06/28/2020 - 17:58:18: Server cvar "sv_password" = "Lauda"
+L 06/28/2020 - 17:58:18: Server cvar "sv_proxies" = "1"
+L 06/28/2020 - 17:58:18: Server cvar "sv_restart" = "0"
+L 06/28/2020 - 17:58:18: Server cvar "sv_restartround" = "0"
+L 06/28/2020 - 17:58:18: Server cvar "sv_stepsize" = "18"
+L 06/28/2020 - 17:58:18: Server cvar "sv_stopspeed" = "75"
+L 06/28/2020 - 17:58:18: Server cvar "sv_uploadmax" = "0.5"
+L 06/28/2020 - 17:58:18: Server cvar "sv_voiceenable" = "0"
+L 06/28/2020 - 17:58:18: Server cvar "sv_wateraccelerate" = "10"
+L 06/28/2020 - 17:58:18: Server cvar "sv_waterfriction" = "1"
+L 06/28/2020 - 17:58:18: Server cvars end
+L 06/28/2020 - 17:58:20: Started map "$2000$" (CRC "-1688392397")
+L 06/28/2020 - 17:58:21: World triggered "Round_Start"
+L 06/28/2020 - 17:58:22: ">.<<325><STEAM_0:0:60684219><>" entered the game
+L 06/28/2020 - 17:58:23: "MERA BAAP<324><STEAM_0:0:63052104><>" entered the game
+L 06/28/2020 - 17:58:23: "Ladder<310><STEAM_0:0:369456433><>" entered the game
+L 06/28/2020 - 17:58:24: "Mofo<321><STEAM_0:0:455086556><>" entered the game
+L 06/28/2020 - 17:58:24: "1729<314><STEAM_0:0:1921819853><>" entered the game
+L 06/28/2020 - 17:58:24: "Hathoda Tyagi<329><STEAM_0:0:266700107><>" entered the game
+L 06/28/2020 - 17:58:24: "Escanor<327><STEAM_0:0:83230422><>" entered the game
+L 06/28/2020 - 17:58:25: "Berlin<331><STEAM_0:0:355901680><>" entered the game
+L 06/28/2020 - 17:58:25: "Mute || Cristiano<322><STEAM_0:0:1465890162><>" entered the game
+L 06/28/2020 - 17:58:26: "Hathoda Tyagi<329><STEAM_0:0:266700107><>" joined team "CT"
+L 06/28/2020 - 17:58:27: "kIlL bIlL<333><STEAM_0:0:33944120><>" entered the game
+L 06/28/2020 - 17:58:27: "antiseptic cream CORONIL<332><STEAM_0:1:49729967><>" entered the game
+L 06/28/2020 - 17:58:27: "Ladder<310><STEAM_0:0:369456433><>" joined team "TERRORIST"
+L 06/28/2020 - 17:58:28: World triggered "Game_Commencing"
+L 06/28/2020 - 17:58:28: World triggered "Game_Commencing" (CT "0") (T "0")
+L 06/28/2020 - 17:58:28: World triggered "Round_End"
+L 06/28/2020 - 17:58:29: "Berlin<331><STEAM_0:0:355901680><>" joined team "TERRORIST"
+L 06/28/2020 - 17:58:30: "Escanor<327><STEAM_0:0:83230422><>" joined team "TERRORIST"
+L 06/28/2020 - 17:58:30: "kIlL bIlL<333><STEAM_0:0:33944120><>" joined team "CT"
+L 06/28/2020 - 17:58:30: "MERA BAAP<324><STEAM_0:0:63052104><>" joined team "TERRORIST"
+L 06/28/2020 - 17:58:31: World triggered "Round_Start"
+L 06/28/2020 - 17:58:35: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" killed "Hathoda Tyagi<329><STEAM_0:0:266700107><CT>" with "m4a1"
+L 06/28/2020 - 17:58:42: "Escanor<327><STEAM_0:0:83230422><TERRORIST>" killed "kIlL bIlL<333><STEAM_0:0:33944120><CT>" with "m4a1"
+L 06/28/2020 - 17:58:42: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 06/28/2020 - 17:58:42: World triggered "Round_End"
+L 06/28/2020 - 17:58:47: World triggered "Round_Start"
+L 06/28/2020 - 17:58:50: "Hathoda Tyagi<329><STEAM_0:0:266700107><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:58:50: "MERA BAAP<324><STEAM_0:0:63052104><TERRORIST>" killed "Hathoda Tyagi<329><STEAM_0:0:266700107><CT>" with "m4a1"
+L 06/28/2020 - 17:58:51: "kIlL bIlL<333><STEAM_0:0:33944120><CT>" killed "MERA BAAP<324><STEAM_0:0:63052104><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:58:52: "Berlin<331><STEAM_0:0:355901680><TERRORIST>" killed "kIlL bIlL<333><STEAM_0:0:33944120><CT>" with "m4a1"
+L 06/28/2020 - 17:58:52: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 06/28/2020 - 17:58:52: World triggered "Round_End"
+L 06/28/2020 - 17:58:57: "Escanor<327><STEAM_0:0:83230422><TERRORIST>" committed suicide with "world"
+L 06/28/2020 - 17:58:57: "Escanor<327><STEAM_0:0:83230422><TERRORIST>" joined team "CT"
+L 06/28/2020 - 17:58:57: World triggered "Round_Start"
+L 06/28/2020 - 17:59:01: "1729<314><STEAM_0:0:1921819853><>" joined team "TERRORIST"
+L 06/28/2020 - 17:59:05: "MERA BAAP<324><STEAM_0:0:63052104><TERRORIST>" killed "kIlL bIlL<333><STEAM_0:0:33944120><CT>" with "m4a1"
+L 06/28/2020 - 17:59:12: "1729<314><STEAM_0:0:1921819853><TERRORIST>" killed "Escanor<327><STEAM_0:0:83230422><CT>" with "ak47"
+L 06/28/2020 - 17:59:13: "Berlin<331><STEAM_0:0:355901680><TERRORIST>" killed "Hathoda Tyagi<329><STEAM_0:0:266700107><CT>" with "m4a1"
+L 06/28/2020 - 17:59:13: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "3")
+L 06/28/2020 - 17:59:13: World triggered "Round_End"
+L 06/28/2020 - 17:59:18: World triggered "Round_Start"
+L 06/28/2020 - 17:59:23: "Hathoda Tyagi<329><STEAM_0:0:266700107><CT>" killed "Ladder<310><STEAM_0:0:369456433><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:59:23: "Hathoda Tyagi<329><STEAM_0:0:266700107><CT>" killed "Berlin<331><STEAM_0:0:355901680><TERRORIST>" with "m4a1"
+L 06/28/2020 - 17:59:24: "1729<314><STEAM_0:0:1921819853><TERRORIST>" killed "Hathoda Tyagi<329><STEAM_0:0:266700107><CT>" with "ak47"
+L 06/28/2020 - 17:59:25: "MERA BAAP<324><STEAM_0:0:63052104><TERRORIST>" killed "Escanor<327><STEAM_0:0:83230422><CT>" with "m4a1"
+L 06/28/2020 - 17:59:26: Rcon: "rcon 2193246164 "Lauda2" changelevel de_dust2" from "137.132.215.1:27005"
+L 06/28/2020 - 17:59:26: [META] ini: Begin re-reading plugins list: g:/tcafiles/users/fkguxmko/7303/cstrike/addons/metamod/plugins.ini
+L 06/28/2020 - 17:59:26: [META] ini: Read plugin config for: AMX Mod X
+L 06/28/2020 - 17:59:26: [META] ini: Read plugin config for: dproto_EF
+L 06/28/2020 - 17:59:26: [META] ini: Finished reading plugins list: g:/tcafiles/users/fkguxmko/7303/cstrike/addons/metamod/plugins.ini; Found 2 plugins
+L 06/28/2020 - 17:59:26: [META] dll: Updating plugins...
+L 06/28/2020 - 17:59:26: [META] dll: Finished updating 5 plugins; kept 2, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 06/28/2020 - 17:59:26: "Mofo<321><STEAM_0:0:455086556><>" disconnected
+L 06/28/2020 - 17:59:26: "Mute || Cristiano<322><STEAM_0:0:1465890162><>" disconnected
+L 06/28/2020 - 17:59:26: "MERA BAAP<324><STEAM_0:0:63052104><TERRORIST>" disconnected
+L 06/28/2020 - 17:59:26: "1729<314><STEAM_0:0:1921819853><TERRORIST>" disconnected
+L 06/28/2020 - 17:59:26: Team "CT" triggered "CTs_Win" (CT "1") (T "3")
+L 06/28/2020 - 17:59:26: World triggered "Round_End"
+L 06/28/2020 - 17:59:26: "Ladder<310><STEAM_0:0:369456433><TERRORIST>" disconnected
+L 06/28/2020 - 17:59:26: ">.<<325><STEAM_0:0:60684219><>" disconnected
+L 06/28/2020 - 17:59:26: "Escanor<327><STEAM_0:0:83230422><CT>" disconnected
+L 06/28/2020 - 17:59:26: "Hathoda Tyagi<329><STEAM_0:0:266700107><CT>" disconnected
+L 06/28/2020 - 17:59:26: "kIlL bIlL<333><STEAM_0:0:33944120><CT>" disconnected
+L 06/28/2020 - 17:59:26: "Berlin<331><STEAM_0:0:355901680><TERRORIST>" disconnected
+L 06/28/2020 - 17:59:26: "antiseptic cream CORONIL<332><STEAM_0:1:49729967><>" disconnected
+L 06/28/2020 - 17:59:26: Log file closed

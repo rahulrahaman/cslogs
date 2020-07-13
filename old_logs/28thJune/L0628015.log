@@ -1,0 +1,126 @@
+L 06/28/2020 - 23:28:37: Log file started (file "logs\L0628015.log") (game "cstrike") (version "48/1.1.2.7/8308")
+L 06/28/2020 - 23:28:37: Loading map "de_nuke"
+L 06/28/2020 - 23:28:37: Server cvars start
+L 06/28/2020 - 23:28:37: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 06/28/2020 - 23:28:37: Server cvar "_tutor_debug_level" = "0"
+L 06/28/2020 - 23:28:37: Server cvar "_tutor_examine_time" = "0.5"
+L 06/28/2020 - 23:28:37: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 06/28/2020 - 23:28:37: Server cvar "_tutor_look_angle" = "10"
+L 06/28/2020 - 23:28:37: Server cvar "_tutor_look_distance" = "200"
+L 06/28/2020 - 23:28:37: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 06/28/2020 - 23:28:37: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 06/28/2020 - 23:28:37: Server cvar "_tutor_message_repeats" = "5"
+L 06/28/2020 - 23:28:37: Server cvar "_tutor_view_distance" = "1000"
+L 06/28/2020 - 23:28:37: Server cvar "allow_spectators" = "1"
+L 06/28/2020 - 23:28:37: Server cvar "amx_client_languages" = "1"
+L 06/28/2020 - 23:28:37: Server cvar "amx_language" = "en"
+L 06/28/2020 - 23:28:37: Server cvar "amx_nextmap" = "de_inferno"
+L 06/28/2020 - 23:28:37: Server cvar "amx_timeleft" = "65513:25"
+L 06/28/2020 - 23:28:37: Server cvar "amxmodx_version" = "1.8.2"
+L 06/28/2020 - 23:28:37: Server cvar "coop" = "0"
+L 06/28/2020 - 23:28:37: Server cvar "deathmatch" = "1"
+L 06/28/2020 - 23:28:37: Server cvar "decalfrequency" = "60"
+L 06/28/2020 - 23:28:37: Server cvar "dp_version" = "0.9.582"
+L 06/28/2020 - 23:28:37: Server cvar "edgefriction" = "2"
+L 06/28/2020 - 23:28:37: Server cvar "hostage_debug" = "0"
+L 06/28/2020 - 23:28:37: Server cvar "hostage_stop" = "0"
+L 06/28/2020 - 23:28:37: Server cvar "humans_join_team" = "any"
+L 06/28/2020 - 23:28:37: Server cvar "max_queries_sec" = "3.0"
+L 06/28/2020 - 23:28:37: Server cvar "max_queries_sec_global" = "30"
+L 06/28/2020 - 23:28:37: Server cvar "max_queries_window" = "60"
+L 06/28/2020 - 23:28:37: Server cvar "metamod_version" = "1.20"
+L 06/28/2020 - 23:28:37: Server cvar "mp_allowmonsters" = "0"
+L 06/28/2020 - 23:28:37: Server cvar "mp_autokick" = "0"
+L 06/28/2020 - 23:28:37: Server cvar "mp_autokick_timeout" = "-1"
+L 06/28/2020 - 23:28:37: Server cvar "mp_autoteambalance" = "0"
+L 06/28/2020 - 23:28:37: Server cvar "mp_buytime" = "1.5"
+L 06/28/2020 - 23:28:37: Server cvar "mp_c4timer" = "45"
+L 06/28/2020 - 23:28:37: Server cvar "mp_chattime" = "0"
+L 06/28/2020 - 23:28:37: Server cvar "mp_consistency" = "1"
+L 06/28/2020 - 23:28:37: Server cvar "mp_fadetoblack" = "0"
+L 06/28/2020 - 23:28:37: Server cvar "mp_flashlight" = "0"
+L 06/28/2020 - 23:28:37: Server cvar "mp_footsteps" = "1"
+L 06/28/2020 - 23:28:37: Server cvar "mp_forcecamera" = "0"
+L 06/28/2020 - 23:28:37: Server cvar "mp_forcechasecam" = "2"
+L 06/28/2020 - 23:28:37: Server cvar "mp_fragsleft" = "0"
+L 06/28/2020 - 23:28:37: Server cvar "mp_freezetime" = "13"
+L 06/28/2020 - 23:28:37: Server cvar "mp_friendlyfire" = "1"
+L 06/28/2020 - 23:28:37: Server cvar "mp_ghostfrequency" = "0.1"
+L 06/28/2020 - 23:28:37: Server cvar "mp_hostagepenalty" = "2"
+L 06/28/2020 - 23:28:37: Server cvar "mp_infinite_ammo" = "0"
+L 06/28/2020 - 23:28:37: Server cvar "mp_kickpercent" = "0.66"
+L 06/28/2020 - 23:28:37: Server cvar "mp_limitteams" = "5"
+L 06/28/2020 - 23:28:37: Server cvar "mp_logdetail" = "0"
+L 06/28/2020 - 23:28:37: Server cvar "mp_logfile" = "1"
+L 06/28/2020 - 23:28:37: Server cvar "mp_logmessages" = "1"
+L 06/28/2020 - 23:28:37: Server cvar "mp_mapvoteratio" = "0.66"
+L 06/28/2020 - 23:28:37: Server cvar "mp_maxrounds" = "0"
+L 06/28/2020 - 23:28:37: Server cvar "mp_mirrordamage" = "0"
+L 06/28/2020 - 23:28:37: Server cvar "mp_playerid" = "0"
+L 06/28/2020 - 23:28:37: Server cvar "mp_roundtime" = "2"
+L 06/28/2020 - 23:28:37: Server cvar "mp_scoreboard_showhealth" = "3"
+L 06/28/2020 - 23:28:37: Server cvar "mp_scoreboard_showmoney" = "3"
+L 06/28/2020 - 23:28:37: Server cvar "mp_startmoney" = "800"
+L 06/28/2020 - 23:28:37: Server cvar "mp_timeleft" = "0"
+L 06/28/2020 - 23:28:37: Server cvar "mp_timelimit" = "65535"
+L 06/28/2020 - 23:28:37: Server cvar "mp_tkpunish" = "0"
+L 06/28/2020 - 23:28:37: Server cvar "mp_windifference" = "1"
+L 06/28/2020 - 23:28:37: Server cvar "mp_winlimit" = "0"
+L 06/28/2020 - 23:28:37: Server cvar "pausable" = "0"
+L 06/28/2020 - 23:28:37: Server cvar "sv_accelerate" = "5"
+L 06/28/2020 - 23:28:37: Server cvar "sv_aim" = "0"
+L 06/28/2020 - 23:28:37: Server cvar "sv_airaccelerate" = "10"
+L 06/28/2020 - 23:28:37: Server cvar "sv_allowupload" = "1"
+L 06/28/2020 - 23:28:37: Server cvar "sv_alltalk" = "0"
+L 06/28/2020 - 23:28:37: Server cvar "sv_bounce" = "1"
+L 06/28/2020 - 23:28:37: Server cvar "sv_cheats" = "0"
+L 06/28/2020 - 23:28:37: Server cvar "sv_clienttrace" = "1"
+L 06/28/2020 - 23:28:37: Server cvar "sv_contact" = "apoo12345@gmail.com"
+L 06/28/2020 - 23:28:37: Server cvar "sv_friction" = "4"
+L 06/28/2020 - 23:28:37: Server cvar "sv_gravity" = "800"
+L 06/28/2020 - 23:28:37: Server cvar "sv_logblocks" = "0"
+L 06/28/2020 - 23:28:37: Server cvar "sv_maxrate" = "20000"
+L 06/28/2020 - 23:28:37: Server cvar "sv_maxspeed" = "900"
+L 06/28/2020 - 23:28:37: Server cvar "sv_minrate" = "5000"
+L 06/28/2020 - 23:28:37: Server cvar "sv_password" = "Lauda"
+L 06/28/2020 - 23:28:37: Server cvar "sv_proxies" = "1"
+L 06/28/2020 - 23:28:37: Server cvar "sv_restart" = "0"
+L 06/28/2020 - 23:28:37: Server cvar "sv_restartround" = "0"
+L 06/28/2020 - 23:28:37: Server cvar "sv_stepsize" = "18"
+L 06/28/2020 - 23:28:37: Server cvar "sv_stopspeed" = "75"
+L 06/28/2020 - 23:28:37: Server cvar "sv_uploadmax" = "0.5"
+L 06/28/2020 - 23:28:37: Server cvar "sv_voiceenable" = "0"
+L 06/28/2020 - 23:28:37: Server cvar "sv_wateraccelerate" = "10"
+L 06/28/2020 - 23:28:37: Server cvar "sv_waterfriction" = "1"
+L 06/28/2020 - 23:28:37: Server cvars end
+L 06/28/2020 - 23:28:37: Server cvar "amx_nextmap" = "de_nuke"
+L 06/28/2020 - 23:28:38: Started map "de_nuke" (CRC "-1757378041")
+L 06/28/2020 - 23:28:41: "Wolves || StuFu<407><STEAM_0:1:147341737><>" entered the game
+L 06/28/2020 - 23:28:41: "Sunday Fragday || openai<406><STEAM_0:0:65740571><>" entered the game
+L 06/28/2020 - 23:28:42: "Old is Gold || pRo_rVltN<402><STEAM_0:1:546352772><>" entered the game
+L 06/28/2020 - 23:28:44: "Old is Gold || Ramdev<389><STEAM_0:0:559308928><>" entered the game
+L 06/28/2020 - 23:28:45: "Sunday Fragday || openai<406><STEAM_0:0:65740571><>" joined team "SPECTATOR"
+L 06/28/2020 - 23:28:48: "assassin<405><STEAM_0:0:1060612858><>" entered the game
+L 06/28/2020 - 23:28:49: Rcon: "rcon 2306763133 "Lauda2" changelevel de_dust2" from "49.207.62.35:44607"
+L 06/28/2020 - 23:28:49: [META] ini: Begin re-reading plugins list: g:/tcafiles/users/fkguxmko/7303/cstrike/addons/metamod/plugins.ini
+L 06/28/2020 - 23:28:49: [META] ini: Read plugin config for: AMX Mod X
+L 06/28/2020 - 23:28:49: [META] ini: Read plugin config for: dproto_EF
+L 06/28/2020 - 23:28:49: [META] ini: Finished reading plugins list: g:/tcafiles/users/fkguxmko/7303/cstrike/addons/metamod/plugins.ini; Found 2 plugins
+L 06/28/2020 - 23:28:49: [META] dll: Updating plugins...
+L 06/28/2020 - 23:28:49: [META] dll: Finished updating 5 plugins; kept 2, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 06/28/2020 - 23:28:49: "Wolves || StuFu<407><STEAM_0:1:147341737><>" disconnected
+L 06/28/2020 - 23:28:49: World triggered "Round_Draw" (CT "0") (T "0")
+L 06/28/2020 - 23:28:49: World triggered "Round_End"
+L 06/28/2020 - 23:28:49: "Old is Gold || pRo_rVltN<402><STEAM_0:1:546352772><>" disconnected
+L 06/28/2020 - 23:28:49: World triggered "Round_Draw" (CT "0") (T "0")
+L 06/28/2020 - 23:28:49: World triggered "Round_End"
+L 06/28/2020 - 23:28:49: "Old is Gold || Ramdev<389><STEAM_0:0:559308928><>" disconnected
+L 06/28/2020 - 23:28:49: World triggered "Round_Draw" (CT "0") (T "0")
+L 06/28/2020 - 23:28:49: World triggered "Round_End"
+L 06/28/2020 - 23:28:49: "Sunday Fragday || openai<406><STEAM_0:0:65740571><SPECTATOR>" disconnected
+L 06/28/2020 - 23:28:49: World triggered "Round_Draw" (CT "0") (T "0")
+L 06/28/2020 - 23:28:49: World triggered "Round_End"
+L 06/28/2020 - 23:28:49: "assassin<405><STEAM_0:0:1060612858><>" disconnected
+L 06/28/2020 - 23:28:49: World triggered "Round_Draw" (CT "0") (T "0")
+L 06/28/2020 - 23:28:49: World triggered "Round_End"
+L 06/28/2020 - 23:28:49: Log file closed

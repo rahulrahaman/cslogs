@@ -1,0 +1,213 @@
+L 07/04/2020 - 17:17:11: Log file started (file "logs\L0704010.log") (game "cstrike") (version "48/1.1.2.7/8308")
+L 07/04/2020 - 17:17:11: Loading map "de_dust2"
+L 07/04/2020 - 17:17:11: Server cvars start
+L 07/04/2020 - 17:17:11: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 07/04/2020 - 17:17:11: Server cvar "_tutor_debug_level" = "0"
+L 07/04/2020 - 17:17:11: Server cvar "_tutor_examine_time" = "0.5"
+L 07/04/2020 - 17:17:11: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 07/04/2020 - 17:17:11: Server cvar "_tutor_look_angle" = "10"
+L 07/04/2020 - 17:17:11: Server cvar "_tutor_look_distance" = "200"
+L 07/04/2020 - 17:17:11: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 07/04/2020 - 17:17:11: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 07/04/2020 - 17:17:11: Server cvar "_tutor_message_repeats" = "5"
+L 07/04/2020 - 17:17:11: Server cvar "_tutor_view_distance" = "1000"
+L 07/04/2020 - 17:17:11: Server cvar "allow_spectators" = "1"
+L 07/04/2020 - 17:17:11: Server cvar "amx_client_languages" = "1"
+L 07/04/2020 - 17:17:11: Server cvar "amx_language" = "en"
+L 07/04/2020 - 17:17:11: Server cvar "amx_nextmap" = "$2000$"
+L 07/04/2020 - 17:17:11: Server cvar "amx_timeleft" = "65501:44"
+L 07/04/2020 - 17:17:11: Server cvar "amxmodx_version" = "1.8.2"
+L 07/04/2020 - 17:17:11: Server cvar "coop" = "0"
+L 07/04/2020 - 17:17:11: Server cvar "deathmatch" = "1"
+L 07/04/2020 - 17:17:11: Server cvar "decalfrequency" = "60"
+L 07/04/2020 - 17:17:11: Server cvar "dp_version" = "0.9.582"
+L 07/04/2020 - 17:17:11: Server cvar "edgefriction" = "2"
+L 07/04/2020 - 17:17:11: Server cvar "hostage_debug" = "0"
+L 07/04/2020 - 17:17:11: Server cvar "hostage_stop" = "0"
+L 07/04/2020 - 17:17:11: Server cvar "humans_join_team" = "any"
+L 07/04/2020 - 17:17:11: Server cvar "max_queries_sec" = "3.0"
+L 07/04/2020 - 17:17:11: Server cvar "max_queries_sec_global" = "30"
+L 07/04/2020 - 17:17:11: Server cvar "max_queries_window" = "60"
+L 07/04/2020 - 17:17:11: Server cvar "metamod_version" = "1.20"
+L 07/04/2020 - 17:17:11: Server cvar "mp_allowmonsters" = "0"
+L 07/04/2020 - 17:17:11: Server cvar "mp_autokick" = "0"
+L 07/04/2020 - 17:17:11: Server cvar "mp_autokick_timeout" = "-1"
+L 07/04/2020 - 17:17:11: Server cvar "mp_autoteambalance" = "0"
+L 07/04/2020 - 17:17:11: Server cvar "mp_buytime" = "1.5"
+L 07/04/2020 - 17:17:11: Server cvar "mp_c4timer" = "45"
+L 07/04/2020 - 17:17:11: Server cvar "mp_chattime" = "0"
+L 07/04/2020 - 17:17:11: Server cvar "mp_consistency" = "1"
+L 07/04/2020 - 17:17:11: Server cvar "mp_fadetoblack" = "0"
+L 07/04/2020 - 17:17:11: Server cvar "mp_flashlight" = "0"
+L 07/04/2020 - 17:17:11: Server cvar "mp_footsteps" = "1"
+L 07/04/2020 - 17:17:11: Server cvar "mp_forcecamera" = "0"
+L 07/04/2020 - 17:17:11: Server cvar "mp_forcechasecam" = "2"
+L 07/04/2020 - 17:17:11: Server cvar "mp_fragsleft" = "0"
+L 07/04/2020 - 17:17:11: Server cvar "mp_freezetime" = "0"
+L 07/04/2020 - 17:17:11: Server cvar "mp_friendlyfire" = "1"
+L 07/04/2020 - 17:17:11: Server cvar "mp_ghostfrequency" = "0.1"
+L 07/04/2020 - 17:17:11: Server cvar "mp_hostagepenalty" = "2"
+L 07/04/2020 - 17:17:11: Server cvar "mp_infinite_ammo" = "0"
+L 07/04/2020 - 17:17:11: Server cvar "mp_kickpercent" = "0.66"
+L 07/04/2020 - 17:17:11: Server cvar "mp_limitteams" = "5"
+L 07/04/2020 - 17:17:11: Server cvar "mp_logdetail" = "0"
+L 07/04/2020 - 17:17:11: Server cvar "mp_logfile" = "1"
+L 07/04/2020 - 17:17:11: Server cvar "mp_logmessages" = "1"
+L 07/04/2020 - 17:17:11: Server cvar "mp_mapvoteratio" = "0.66"
+L 07/04/2020 - 17:17:11: Server cvar "mp_maxrounds" = "0"
+L 07/04/2020 - 17:17:11: Server cvar "mp_mirrordamage" = "0"
+L 07/04/2020 - 17:17:11: Server cvar "mp_playerid" = "0"
+L 07/04/2020 - 17:17:11: Server cvar "mp_roundtime" = "2"
+L 07/04/2020 - 17:17:11: Server cvar "mp_scoreboard_showhealth" = "3"
+L 07/04/2020 - 17:17:11: Server cvar "mp_scoreboard_showmoney" = "3"
+L 07/04/2020 - 17:17:11: Server cvar "mp_startmoney" = "800"
+L 07/04/2020 - 17:17:11: Server cvar "mp_timeleft" = "0"
+L 07/04/2020 - 17:17:11: Server cvar "mp_timelimit" = "65535"
+L 07/04/2020 - 17:17:11: Server cvar "mp_tkpunish" = "0"
+L 07/04/2020 - 17:17:11: Server cvar "mp_windifference" = "1"
+L 07/04/2020 - 17:17:11: Server cvar "mp_winlimit" = "0"
+L 07/04/2020 - 17:17:11: Server cvar "pausable" = "0"
+L 07/04/2020 - 17:17:11: Server cvar "sv_accelerate" = "5"
+L 07/04/2020 - 17:17:11: Server cvar "sv_aim" = "0"
+L 07/04/2020 - 17:17:11: Server cvar "sv_airaccelerate" = "10"
+L 07/04/2020 - 17:17:11: Server cvar "sv_allowupload" = "1"
+L 07/04/2020 - 17:17:11: Server cvar "sv_alltalk" = "0"
+L 07/04/2020 - 17:17:11: Server cvar "sv_bounce" = "1"
+L 07/04/2020 - 17:17:11: Server cvar "sv_cheats" = "0"
+L 07/04/2020 - 17:17:11: Server cvar "sv_clienttrace" = "1"
+L 07/04/2020 - 17:17:11: Server cvar "sv_contact" = "apoo12345@gmail.com"
+L 07/04/2020 - 17:17:11: Server cvar "sv_friction" = "4"
+L 07/04/2020 - 17:17:11: Server cvar "sv_gravity" = "800"
+L 07/04/2020 - 17:17:11: Server cvar "sv_logblocks" = "0"
+L 07/04/2020 - 17:17:11: Server cvar "sv_maxrate" = "20000"
+L 07/04/2020 - 17:17:11: Server cvar "sv_maxspeed" = "900"
+L 07/04/2020 - 17:17:11: Server cvar "sv_minrate" = "5000"
+L 07/04/2020 - 17:17:11: Server cvar "sv_password" = "Lauda"
+L 07/04/2020 - 17:17:11: Server cvar "sv_proxies" = "1"
+L 07/04/2020 - 17:17:11: Server cvar "sv_restart" = "0"
+L 07/04/2020 - 17:17:11: Server cvar "sv_restartround" = "0"
+L 07/04/2020 - 17:17:11: Server cvar "sv_stepsize" = "18"
+L 07/04/2020 - 17:17:11: Server cvar "sv_stopspeed" = "75"
+L 07/04/2020 - 17:17:11: Server cvar "sv_uploadmax" = "0.5"
+L 07/04/2020 - 17:17:11: Server cvar "sv_voiceenable" = "0"
+L 07/04/2020 - 17:17:11: Server cvar "sv_wateraccelerate" = "10"
+L 07/04/2020 - 17:17:11: Server cvar "sv_waterfriction" = "1"
+L 07/04/2020 - 17:17:11: Server cvars end
+L 07/04/2020 - 17:17:13: Server cvar "amx_nextmap" = "de_dust2"
+L 07/04/2020 - 17:17:14: Started map "de_dust2" (CRC "1159425449")
+L 07/04/2020 - 17:17:14: [DPROTO]: Client 11 - Set AuthIdType 1 [Native]; pClient = 0569F130
+L 07/04/2020 - 17:17:14: "B-|<752><STEAM_0:0:60684219><>" connected, address "137.132.214.44:27005"
+L 07/04/2020 - 17:17:14: "B-|<752><STEAM_0:0:60684219><>" STEAM USERID validated
+L 07/04/2020 - 17:17:15: World triggered "Round_Start"
+L 07/04/2020 - 17:17:16: "B-|<752><STEAM_0:0:60684219><>" entered the game
+L 07/04/2020 - 17:17:16: "Wolves || StuFu<745><STEAM_0:1:147341737><>" entered the game
+L 07/04/2020 - 17:17:17: "CoroniL<738><STEAM_0:0:455086556><>" entered the game
+L 07/04/2020 - 17:17:18: "Kh@nk!r Ch@k@<747><STEAM_0:0:1663171942><>" entered the game
+L 07/04/2020 - 17:17:18: "Ladder<742><STEAM_0:0:369456433><>" entered the game
+L 07/04/2020 - 17:17:18: "Hathoda Tyagi<739><STEAM_0:0:266700107><>" entered the game
+L 07/04/2020 - 17:17:18: "pRo_RVltN<749><STEAM_0:1:546352772><>" entered the game
+L 07/04/2020 - 17:17:18: "sUthoL<744><STEAM_0:0:1414580386><>" entered the game
+L 07/04/2020 - 17:17:20: "Professor<741><STEAM_0:0:493150978><>" entered the game
+L 07/04/2020 - 17:17:20: "Wolves || StuFu<745><STEAM_0:1:147341737><>" joined team "TERRORIST"
+L 07/04/2020 - 17:17:20: "Wolves || StuFu<745><STEAM_0:1:147341737><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 07/04/2020 - 17:17:21: "wolf<740><VALVE_0:4:1088121065><>" entered the game
+L 07/04/2020 - 17:17:21: "Ladder<742><STEAM_0:0:369456433><>" joined team "CT"
+L 07/04/2020 - 17:17:22: "Hathoda Tyagi<739><STEAM_0:0:266700107><>" joined team "TERRORIST"
+L 07/04/2020 - 17:17:22: "BURNol<750><STEAM_0:1:49729967><>" entered the game
+L 07/04/2020 - 17:17:22: "Here Comes The Kraken<746><STEAM_0:0:810273828><>" entered the game
+L 07/04/2020 - 17:17:22: World triggered "Game_Commencing"
+L 07/04/2020 - 17:17:22: World triggered "Game_Commencing" (CT "0") (T "0")
+L 07/04/2020 - 17:17:22: World triggered "Round_End"
+L 07/04/2020 - 17:17:24: "CoroniL<738><STEAM_0:0:455086556><>" joined team "CT"
+L 07/04/2020 - 17:17:25: "Wolves || StuFu<745><STEAM_0:1:147341737><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 07/04/2020 - 17:17:25: World triggered "Round_Start"
+L 07/04/2020 - 17:17:33: "BURNol<750><STEAM_0:1:49729967><>" joined team "CT"
+L 07/04/2020 - 17:17:34: "B-|<752><STEAM_0:0:60684219><>" joined team "CT"
+L 07/04/2020 - 17:17:35: "sUthoL<744><STEAM_0:0:1414580386><>" joined team "TERRORIST"
+L 07/04/2020 - 17:17:39: "Here Comes The Kraken<746><STEAM_0:0:810273828><>" joined team "TERRORIST"
+L 07/04/2020 - 17:17:39: "Professor<741><STEAM_0:0:493150978><>" joined team "CT"
+L 07/04/2020 - 17:17:43: "pRo_RVltN<749><STEAM_0:1:546352772><>" joined team "TERRORIST"
+L 07/04/2020 - 17:17:52: "pRo_RVltN<749><STEAM_0:1:546352772><TERRORIST>" killed "Ladder<742><STEAM_0:0:369456433><CT>" with "glock18"
+L 07/04/2020 - 17:17:56: "BURNol<750><STEAM_0:1:49729967><CT>" killed "Wolves || StuFu<745><STEAM_0:1:147341737><TERRORIST>" with "usp"
+L 07/04/2020 - 17:17:56: "Wolves || StuFu<745><STEAM_0:1:147341737><TERRORIST>" triggered "Dropped_The_Bomb"
+L 07/04/2020 - 17:17:56: "sUthoL<744><STEAM_0:0:1414580386><TERRORIST>" killed "BURNol<750><STEAM_0:1:49729967><CT>" with "glock18"
+L 07/04/2020 - 17:17:58: "Here Comes The Kraken<746><STEAM_0:0:810273828><TERRORIST>" triggered "Got_The_Bomb"
+L 07/04/2020 - 17:18:05: "B-|<752><STEAM_0:0:60684219><CT>" killed "pRo_RVltN<749><STEAM_0:1:546352772><TERRORIST>" with "usp"
+L 07/04/2020 - 17:18:06: "B-|<752><STEAM_0:0:60684219><CT>" killed "Hathoda Tyagi<739><STEAM_0:0:266700107><TERRORIST>" with "usp"
+L 07/04/2020 - 17:18:13: "sUthoL<744><STEAM_0:0:1414580386><TERRORIST>" killed "CoroniL<738><STEAM_0:0:455086556><CT>" with "usp"
+L 07/04/2020 - 17:18:14: "Here Comes The Kraken<746><STEAM_0:0:810273828><TERRORIST>" killed "B-|<752><STEAM_0:0:60684219><CT>" with "usp"
+L 07/04/2020 - 17:18:16: "Here Comes The Kraken<746><STEAM_0:0:810273828><TERRORIST>" killed "Professor<741><STEAM_0:0:493150978><CT>" with "usp"
+L 07/04/2020 - 17:18:16: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 07/04/2020 - 17:18:16: World triggered "Round_End"
+L 07/04/2020 - 17:18:21: "Wolves || StuFu<745><STEAM_0:1:147341737><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 07/04/2020 - 17:18:21: World triggered "Round_Start"
+L 07/04/2020 - 17:18:30: "Here Comes The Kraken<746><STEAM_0:0:810273828><TERRORIST>" changed name to "Here Comes The Kraken [Aga!N]"
+L 07/04/2020 - 17:18:31: "pRo_RVltN<749><STEAM_0:1:546352772><TERRORIST>" killed "BURNol<750><STEAM_0:1:49729967><CT>" with "ak47"
+L 07/04/2020 - 17:18:41: "CoroniL<738><STEAM_0:0:455086556><CT>" killed "pRo_RVltN<749><STEAM_0:1:546352772><TERRORIST>" with "usp"
+L 07/04/2020 - 17:18:44: "sUthoL<744><STEAM_0:0:1414580386><TERRORIST>" killed "CoroniL<738><STEAM_0:0:455086556><CT>" with "usp"
+L 07/04/2020 - 17:18:52: "B-|<752><STEAM_0:0:60684219><CT>" killed "Wolves || StuFu<745><STEAM_0:1:147341737><TERRORIST>" with "usp"
+L 07/04/2020 - 17:18:52: "Wolves || StuFu<745><STEAM_0:1:147341737><TERRORIST>" triggered "Dropped_The_Bomb"
+L 07/04/2020 - 17:18:55: "Here Comes The Kraken [Aga!N]<746><STEAM_0:0:810273828><TERRORIST>" triggered "Got_The_Bomb"
+L 07/04/2020 - 17:18:56: "Here Comes The Kraken [Aga!N]<746><STEAM_0:0:810273828><TERRORIST>" killed "B-|<752><STEAM_0:0:60684219><CT>" with "ak47"
+L 07/04/2020 - 17:18:59: "sUthoL<744><STEAM_0:0:1414580386><TERRORIST>" killed "Professor<741><STEAM_0:0:493150978><CT>" with "usp"
+L 07/04/2020 - 17:19:06: "wolf<740><VALVE_0:4:1088121065><>" joined team "SPECTATOR"
+L 07/04/2020 - 17:19:11: Rcon: "rcon 730833704 "Lauda2" sv_restart 1" from "106.51.30.169:30398"
+L 07/04/2020 - 17:19:11: Server cvar "sv_restart" = "1"
+L 07/04/2020 - 17:19:12: World triggered "Restart_Round_(1_second)"
+L 07/04/2020 - 17:19:12: Team "CT" scored "0" with "5" players
+L 07/04/2020 - 17:19:12: Team "TERRORIST" scored "1" with "5" players
+L 07/04/2020 - 17:19:12: Server cvar "sv_restart" = "0"
+L 07/04/2020 - 17:19:13: "Here Comes The Kraken [Aga!N]<746><STEAM_0:0:810273828><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 07/04/2020 - 17:19:13: World triggered "Round_Start"
+L 07/04/2020 - 17:19:35: "CoroniL<738><STEAM_0:0:455086556><CT>" killed "Here Comes The Kraken [Aga!N]<746><STEAM_0:0:810273828><TERRORIST>" with "usp"
+L 07/04/2020 - 17:19:35: "Here Comes The Kraken [Aga!N]<746><STEAM_0:0:810273828><TERRORIST>" triggered "Dropped_The_Bomb"
+L 07/04/2020 - 17:19:37: "Ladder<742><STEAM_0:0:369456433><CT>" killed "sUthoL<744><STEAM_0:0:1414580386><TERRORIST>" with "usp"
+L 07/04/2020 - 17:19:39: "Wolves || StuFu<745><STEAM_0:1:147341737><TERRORIST>" killed "Professor<741><STEAM_0:0:493150978><CT>" with "deagle"
+L 07/04/2020 - 17:19:53: "Ladder<742><STEAM_0:0:369456433><CT>" killed "Wolves || StuFu<745><STEAM_0:1:147341737><TERRORIST>" with "usp"
+L 07/04/2020 - 17:19:55: "pRo_RVltN<749><STEAM_0:1:546352772><TERRORIST>" killed "Hathoda Tyagi<739><STEAM_0:0:266700107><TERRORIST>" with "glock18"
+L 07/04/2020 - 17:20:00: "pRo_RVltN<749><STEAM_0:1:546352772><TERRORIST>" killed "B-|<752><STEAM_0:0:60684219><CT>" with "glock18"
+L 07/04/2020 - 17:20:09: "Ladder<742><STEAM_0:0:369456433><CT>" killed "pRo_RVltN<749><STEAM_0:1:546352772><TERRORIST>" with "usp"
+L 07/04/2020 - 17:20:09: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 07/04/2020 - 17:20:09: World triggered "Round_End"
+L 07/04/2020 - 17:20:14: "pRo_RVltN<749><STEAM_0:1:546352772><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 07/04/2020 - 17:20:14: World triggered "Round_Start"
+L 07/04/2020 - 17:20:17: "CoroniL<738><STEAM_0:0:455086556><CT>" disconnected
+L 07/04/2020 - 17:20:27: "pRo_RVltN<749><STEAM_0:1:546352772><TERRORIST>" killed "BURNol<750><STEAM_0:1:49729967><CT>" with "mp5navy"
+L 07/04/2020 - 17:20:31: "pRo_RVltN<749><STEAM_0:1:546352772><TERRORIST>" killed "Ladder<742><STEAM_0:0:369456433><CT>" with "mp5navy"
+L 07/04/2020 - 17:20:36: "B-|<752><STEAM_0:0:60684219><CT>" killed "Wolves || StuFu<745><STEAM_0:1:147341737><TERRORIST>" with "usp"
+L 07/04/2020 - 17:20:42: "B-|<752><STEAM_0:0:60684219><CT>" killed "Here Comes The Kraken [Aga!N]<746><STEAM_0:0:810273828><TERRORIST>" with "usp"
+L 07/04/2020 - 17:20:44: "pRo_RVltN<749><STEAM_0:1:546352772><TERRORIST>" killed "Professor<741><STEAM_0:0:493150978><CT>" with "mp5navy"
+L 07/04/2020 - 17:20:47: "B-|<752><STEAM_0:0:60684219><CT>" killed "Hathoda Tyagi<739><STEAM_0:0:266700107><TERRORIST>" with "usp"
+L 07/04/2020 - 17:20:50: "B-|<752><STEAM_0:0:60684219><CT>" killed "sUthoL<744><STEAM_0:0:1414580386><TERRORIST>" with "usp"
+L 07/04/2020 - 17:20:54: Rcon: "rcon 730833704 "Lauda2" sv_restart 1" from "106.51.30.169:30398"
+L 07/04/2020 - 17:20:54: Server cvar "sv_restart" = "1"
+L 07/04/2020 - 17:20:55: World triggered "Restart_Round_(1_second)"
+L 07/04/2020 - 17:20:55: Team "CT" scored "1" with "4" players
+L 07/04/2020 - 17:20:55: Team "TERRORIST" scored "0" with "5" players
+L 07/04/2020 - 17:20:55: Server cvar "sv_restart" = "0"
+L 07/04/2020 - 17:20:56: "Hathoda Tyagi<739><STEAM_0:0:266700107><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 07/04/2020 - 17:20:56: World triggered "Round_Start"
+L 07/04/2020 - 17:21:20: "Here Comes The Kraken [Aga!N]<746><STEAM_0:0:810273828><TERRORIST>" killed "BURNol<750><STEAM_0:1:49729967><CT>" with "glock18"
+L 07/04/2020 - 17:21:23: "pRo_RVltN<749><STEAM_0:1:546352772><TERRORIST>" killed "Professor<741><STEAM_0:0:493150978><CT>" with "glock18"
+L 07/04/2020 - 17:21:27: Rcon: "rcon 1354855122 "Lauda2" changelevel de_train" from "180.151.106.26:27005"
+L 07/04/2020 - 17:21:27: [META] ini: Begin re-reading plugins list: g:/tcafiles/users/fkguxmko/7303/cstrike/addons/metamod/plugins.ini
+L 07/04/2020 - 17:21:27: [META] ini: Read plugin config for: AMX Mod X
+L 07/04/2020 - 17:21:27: [META] ini: Read plugin config for: dproto_EF
+L 07/04/2020 - 17:21:27: [META] ini: Finished reading plugins list: g:/tcafiles/users/fkguxmko/7303/cstrike/addons/metamod/plugins.ini; Found 2 plugins
+L 07/04/2020 - 17:21:27: [META] dll: Updating plugins...
+L 07/04/2020 - 17:21:27: [META] dll: Finished updating 5 plugins; kept 2, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 07/04/2020 - 17:21:27: "Hathoda Tyagi<739><STEAM_0:0:266700107><TERRORIST>" triggered "Dropped_The_Bomb"
+L 07/04/2020 - 17:21:27: "Hathoda Tyagi<739><STEAM_0:0:266700107><TERRORIST>" disconnected
+L 07/04/2020 - 17:21:27: "wolf<740><VALVE_0:4:1088121065><SPECTATOR>" disconnected
+L 07/04/2020 - 17:21:27: "Professor<741><STEAM_0:0:493150978><CT>" disconnected
+L 07/04/2020 - 17:21:27: "Ladder<742><STEAM_0:0:369456433><CT>" disconnected
+L 07/04/2020 - 17:21:27: "sUthoL<744><STEAM_0:0:1414580386><TERRORIST>" disconnected
+L 07/04/2020 - 17:21:27: "Wolves || StuFu<745><STEAM_0:1:147341737><TERRORIST>" disconnected
+L 07/04/2020 - 17:21:27: "Here Comes The Kraken [Aga!N]<746><STEAM_0:0:810273828><TERRORIST>" disconnected
+L 07/04/2020 - 17:21:27: "Kh@nk!r Ch@k@<747><STEAM_0:0:1663171942><>" disconnected
+L 07/04/2020 - 17:21:27: "BURNol<750><STEAM_0:1:49729967><CT>" disconnected
+L 07/04/2020 - 17:21:27: "pRo_RVltN<749><STEAM_0:1:546352772><TERRORIST>" disconnected
+L 07/04/2020 - 17:21:27: "B-|<752><STEAM_0:0:60684219><CT>" disconnected
+L 07/04/2020 - 17:21:27: World triggered "Round_Draw" (CT "0") (T "0")
+L 07/04/2020 - 17:21:27: World triggered "Round_End"
+L 07/04/2020 - 17:21:27: Log file closed
