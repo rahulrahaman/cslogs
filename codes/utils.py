@@ -4,7 +4,9 @@ from datetime import datetime as dt
 
 
 def return_time(line):
-    return dt.strptime(line[2:23], '%d/%m/%Y - %H:%M:%S')
+    return dt.strptime(line[2:23], '%m/%d/%Y - %H:%M:%S')
+    #return dt.strptime(line[2:23], '%d/%m/%Y - %H:%M:%S') - updated
+    
 
 
 def parse_player_info(info):

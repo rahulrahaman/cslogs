@@ -16,6 +16,7 @@ match = None
 # Parse logs and get matches
 
 for file in file_list:
+    print("New File")
     print(file)
     with open(file, 'r') as openf:
         lines = openf.readlines()
@@ -109,4 +110,3 @@ for match in matches:
 
 # Report generation
 generate_report(final_KDA, final_frag_list, brownies, match_tags, team_players)
-

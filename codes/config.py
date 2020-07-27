@@ -10,11 +10,6 @@ weapon_dict = [{'name': 'Pistol pros',
                 'image': 'images/m4a1.jpg',
                 'imwidth': 4
                 },
-               {'name': 'Famas pros',
-                'weapon': ['famas'],
-                'image': 'images/famas.jpg',
-                'imwidth': 4
-                },
                {'name': 'AK47 pros',
                 'weapon': ['ak47'],
                 'image': 'images/ak47.jpg',
@@ -24,5 +19,17 @@ weapon_dict = [{'name': 'Pistol pros',
                 'weapon': ['awp'],
                 'image': 'images/sniper.jpg',
                 'imwidth': 5
+                },
+                {'name': 'Grenade pro',
+                'weapon': ['grenade'],
+                'image': 'images/grenade.jpg',
+                'imwidth': 2
                 }
                ]
+
+
+ #              {'name': 'Famas pros',
+ #               'weapon': ['famas'],
+ #               'image': 'images/famas.jpg',
+ #               'imwidth': 4
+ #               },
