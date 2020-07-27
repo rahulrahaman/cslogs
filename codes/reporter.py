@@ -116,7 +116,7 @@ def generate_report(final_KDA, final_frag_list, brownies, match_tags, team_playe
             pdf.cell(w=cell_width*2, h=2*th, txt=data[1][0], align='R')
             pdf.set_text_color(r=76, g=153, b=0)
             pdf.cell(w=cell_width*2, h=2*th, txt='(%.1f Kills)'%data[1][1])
-            pdf.set_text_color(r=0, g=0, b=0)
+        pdf.set_text_color(r=0, g=0, b=0)
         pdf.ln(3*th)
 
     # Humiliation section starts here
