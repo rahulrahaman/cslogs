@@ -1,0 +1,551 @@
+L 08/15/2020 - 17:27:33: Log file started (file "logs\L0815003.log") (game "cstrike") (version "48/1.1.2.7/8308")
+L 08/15/2020 - 17:27:33: Loading map "$2000$"
+L 08/15/2020 - 17:27:33: Server cvars start
+L 08/15/2020 - 17:27:33: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 08/15/2020 - 17:27:33: Server cvar "_tutor_debug_level" = "0"
+L 08/15/2020 - 17:27:33: Server cvar "_tutor_examine_time" = "0.5"
+L 08/15/2020 - 17:27:33: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 08/15/2020 - 17:27:33: Server cvar "_tutor_look_angle" = "10"
+L 08/15/2020 - 17:27:33: Server cvar "_tutor_look_distance" = "200"
+L 08/15/2020 - 17:27:33: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 08/15/2020 - 17:27:33: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 08/15/2020 - 17:27:33: Server cvar "_tutor_message_repeats" = "5"
+L 08/15/2020 - 17:27:33: Server cvar "_tutor_view_distance" = "1000"
+L 08/15/2020 - 17:27:33: Server cvar "allow_spectators" = "1"
+L 08/15/2020 - 17:27:33: Server cvar "amx_client_languages" = "1"
+L 08/15/2020 - 17:27:33: Server cvar "amx_language" = "en"
+L 08/15/2020 - 17:27:33: Server cvar "amx_nextmap" = "de_dust2"
+L 08/15/2020 - 17:27:33: Server cvar "amx_timeleft" = "65534:16"
+L 08/15/2020 - 17:27:33: Server cvar "amxmodx_version" = "1.8.2"
+L 08/15/2020 - 17:27:33: Server cvar "coop" = "0"
+L 08/15/2020 - 17:27:33: Server cvar "deathmatch" = "1"
+L 08/15/2020 - 17:27:33: Server cvar "decalfrequency" = "60"
+L 08/15/2020 - 17:27:33: Server cvar "dp_version" = "0.9.582"
+L 08/15/2020 - 17:27:33: Server cvar "edgefriction" = "2"
+L 08/15/2020 - 17:27:33: Server cvar "hostage_debug" = "0"
+L 08/15/2020 - 17:27:33: Server cvar "hostage_stop" = "0"
+L 08/15/2020 - 17:27:33: Server cvar "humans_join_team" = "any"
+L 08/15/2020 - 17:27:33: Server cvar "max_queries_sec" = "3.0"
+L 08/15/2020 - 17:27:33: Server cvar "max_queries_sec_global" = "30"
+L 08/15/2020 - 17:27:33: Server cvar "max_queries_window" = "60"
+L 08/15/2020 - 17:27:33: Server cvar "metamod_version" = "1.20"
+L 08/15/2020 - 17:27:33: Server cvar "mp_allowmonsters" = "0"
+L 08/15/2020 - 17:27:33: Server cvar "mp_autokick" = "0"
+L 08/15/2020 - 17:27:33: Server cvar "mp_autokick_timeout" = "-1"
+L 08/15/2020 - 17:27:33: Server cvar "mp_autoteambalance" = "0"
+L 08/15/2020 - 17:27:33: Server cvar "mp_buytime" = "1.5"
+L 08/15/2020 - 17:27:33: Server cvar "mp_c4timer" = "45"
+L 08/15/2020 - 17:27:33: Server cvar "mp_chattime" = "0"
+L 08/15/2020 - 17:27:33: Server cvar "mp_consistency" = "1"
+L 08/15/2020 - 17:27:33: Server cvar "mp_fadetoblack" = "0"
+L 08/15/2020 - 17:27:33: Server cvar "mp_flashlight" = "0"
+L 08/15/2020 - 17:27:33: Server cvar "mp_footsteps" = "1"
+L 08/15/2020 - 17:27:33: Server cvar "mp_forcecamera" = "0"
+L 08/15/2020 - 17:27:33: Server cvar "mp_forcechasecam" = "1"
+L 08/15/2020 - 17:27:33: Server cvar "mp_fragsleft" = "0"
+L 08/15/2020 - 17:27:33: Server cvar "mp_freezetime" = "7"
+L 08/15/2020 - 17:27:33: Server cvar "mp_friendlyfire" = "1"
+L 08/15/2020 - 17:27:33: Server cvar "mp_ghostfrequency" = "0.1"
+L 08/15/2020 - 17:27:33: Server cvar "mp_hostagepenalty" = "2"
+L 08/15/2020 - 17:27:33: Server cvar "mp_infinite_ammo" = "0"
+L 08/15/2020 - 17:27:33: Server cvar "mp_kickpercent" = "0.66"
+L 08/15/2020 - 17:27:33: Server cvar "mp_limitteams" = "5"
+L 08/15/2020 - 17:27:33: Server cvar "mp_logdetail" = "0"
+L 08/15/2020 - 17:27:33: Server cvar "mp_logfile" = "1"
+L 08/15/2020 - 17:27:33: Server cvar "mp_logmessages" = "1"
+L 08/15/2020 - 17:27:33: Server cvar "mp_mapvoteratio" = "0.66"
+L 08/15/2020 - 17:27:33: Server cvar "mp_maxrounds" = "0"
+L 08/15/2020 - 17:27:33: Server cvar "mp_mirrordamage" = "0"
+L 08/15/2020 - 17:27:33: Server cvar "mp_playerid" = "0"
+L 08/15/2020 - 17:27:33: Server cvar "mp_roundtime" = "2"
+L 08/15/2020 - 17:27:33: Server cvar "mp_scoreboard_showhealth" = "3"
+L 08/15/2020 - 17:27:33: Server cvar "mp_scoreboard_showmoney" = "3"
+L 08/15/2020 - 17:27:33: Server cvar "mp_startmoney" = "800"
+L 08/15/2020 - 17:27:33: Server cvar "mp_timeleft" = "0"
+L 08/15/2020 - 17:27:33: Server cvar "mp_timelimit" = "65535"
+L 08/15/2020 - 17:27:33: Server cvar "mp_tkpunish" = "0"
+L 08/15/2020 - 17:27:33: Server cvar "mp_windifference" = "1"
+L 08/15/2020 - 17:27:33: Server cvar "mp_winlimit" = "0"
+L 08/15/2020 - 17:27:33: Server cvar "pausable" = "0"
+L 08/15/2020 - 17:27:33: Server cvar "sv_accelerate" = "5"
+L 08/15/2020 - 17:27:33: Server cvar "sv_aim" = "0"
+L 08/15/2020 - 17:27:33: Server cvar "sv_airaccelerate" = "10"
+L 08/15/2020 - 17:27:33: Server cvar "sv_allowupload" = "1"
+L 08/15/2020 - 17:27:33: Server cvar "sv_alltalk" = "0"
+L 08/15/2020 - 17:27:33: Server cvar "sv_bounce" = "1"
+L 08/15/2020 - 17:27:33: Server cvar "sv_cheats" = "0"
+L 08/15/2020 - 17:27:33: Server cvar "sv_clienttrace" = "1"
+L 08/15/2020 - 17:27:33: Server cvar "sv_contact" = "apoo12345@gmail.com"
+L 08/15/2020 - 17:27:33: Server cvar "sv_friction" = "4"
+L 08/15/2020 - 17:27:33: Server cvar "sv_gravity" = "800"
+L 08/15/2020 - 17:27:33: Server cvar "sv_logblocks" = "0"
+L 08/15/2020 - 17:27:33: Server cvar "sv_maxrate" = "20000"
+L 08/15/2020 - 17:27:33: Server cvar "sv_maxspeed" = "320"
+L 08/15/2020 - 17:27:33: Server cvar "sv_minrate" = "5000"
+L 08/15/2020 - 17:27:33: Server cvar "sv_password" = "Lauda"
+L 08/15/2020 - 17:27:33: Server cvar "sv_proxies" = "1"
+L 08/15/2020 - 17:27:33: Server cvar "sv_restart" = "0"
+L 08/15/2020 - 17:27:33: Server cvar "sv_restartround" = "0"
+L 08/15/2020 - 17:27:33: Server cvar "sv_stepsize" = "18"
+L 08/15/2020 - 17:27:33: Server cvar "sv_stopspeed" = "75"
+L 08/15/2020 - 17:27:33: Server cvar "sv_uploadmax" = "0.5"
+L 08/15/2020 - 17:27:33: Server cvar "sv_voiceenable" = "0"
+L 08/15/2020 - 17:27:33: Server cvar "sv_wateraccelerate" = "10"
+L 08/15/2020 - 17:27:33: Server cvar "sv_waterfriction" = "1"
+L 08/15/2020 - 17:27:33: Server cvars end
+L 08/15/2020 - 17:27:33: Server cvar "sv_maxspeed" = "900"
+L 08/15/2020 - 17:27:34: Server cvar "amx_nextmap" = "$2000$"
+L 08/15/2020 - 17:27:34: Started map "$2000$" (CRC "-1688392397")
+L 08/15/2020 - 17:27:38: "Agent Felix<1><STEAM_0:1:539804210><>" entered the game
+L 08/15/2020 - 17:27:38: "@cH!lL!eS<2><STEAM_0:0:1568553987><>" entered the game
+L 08/15/2020 - 17:27:40: "Agent Felix<1><STEAM_0:1:539804210><>" joined team "CT"
+L 08/15/2020 - 17:27:42: World triggered "Round_Start"
+L 08/15/2020 - 17:27:43: "@cH!lL!eS<2><STEAM_0:0:1568553987><>" joined team "TERRORIST"
+L 08/15/2020 - 17:27:43: World triggered "Game_Commencing"
+L 08/15/2020 - 17:27:43: World triggered "Game_Commencing" (CT "0") (T "0")
+L 08/15/2020 - 17:27:43: World triggered "Round_End"
+L 08/15/2020 - 17:27:53: World triggered "Round_Start"
+L 08/15/2020 - 17:27:54: [DPROTO]: Client 2 - Set AuthIdType 1 [Native]; pClient = 0595C058
+L 08/15/2020 - 17:27:54: "PPGod || N3m3s!$<3><STEAM_0:1:49729967><>" connected, address "49.207.195.153:62580"
+L 08/15/2020 - 17:27:54: "PPGod || N3m3s!$<3><STEAM_0:1:49729967><>" STEAM USERID validated
+L 08/15/2020 - 17:27:56: Rcon: "rcon 2221671928 "Lauda2" mp_freezetime 0" from "103.251.50.25:27005"
+L 08/15/2020 - 17:27:56: Server cvar "mp_freezetime" = "0"
+L 08/15/2020 - 17:27:58: "PPGod || N3m3s!$<3><STEAM_0:1:49729967><>" entered the game
+L 08/15/2020 - 17:28:01: [DPROTO]: Client 3 - Set AuthIdType 1 [Native]; pClient = 05961070
+L 08/15/2020 - 17:28:01: "Lallu mundus<4><STEAM_0:1:540695973><>" connected, address "103.200.41.158:27005"
+L 08/15/2020 - 17:28:02: "Lallu mundus<4><STEAM_0:1:540695973><>" STEAM USERID validated
+L 08/15/2020 - 17:28:12: "Agent Felix<1><STEAM_0:1:539804210><CT>" killed "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:28:12: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 08/15/2020 - 17:28:12: World triggered "Round_End"
+L 08/15/2020 - 17:28:14: "Lallu mundus<4><STEAM_0:1:540695973><>" entered the game
+L 08/15/2020 - 17:28:17: World triggered "Round_Start"
+L 08/15/2020 - 17:28:19: "Lallu mundus<4><STEAM_0:1:540695973><>" joined team "CT"
+L 08/15/2020 - 17:28:22: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Agent Felix<1><STEAM_0:1:539804210><CT>" with "ak47"
+L 08/15/2020 - 17:28:32: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Lallu mundus<4><STEAM_0:1:540695973><CT>" with "ak47"
+L 08/15/2020 - 17:28:32: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "1")
+L 08/15/2020 - 17:28:32: World triggered "Round_End"
+L 08/15/2020 - 17:28:37: World triggered "Round_Start"
+L 08/15/2020 - 17:28:48: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Agent Felix<1><STEAM_0:1:539804210><CT>" with "ak47"
+L 08/15/2020 - 17:28:50: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Lallu mundus<4><STEAM_0:1:540695973><CT>" with "ak47"
+L 08/15/2020 - 17:28:50: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "2")
+L 08/15/2020 - 17:28:50: World triggered "Round_End"
+L 08/15/2020 - 17:28:55: World triggered "Round_Start"
+L 08/15/2020 - 17:29:00: [DPROTO]: Client 4 - Set AuthIdType 1 [Native]; pClient = 05966088
+L 08/15/2020 - 17:29:00: "F5 STORME<5><STEAM_0:0:555673910><>" connected, address "103.18.170.101:27005"
+L 08/15/2020 - 17:29:01: "F5 STORME<5><STEAM_0:0:555673910><>" STEAM USERID validated
+L 08/15/2020 - 17:29:04: "F5 STORME<5><STEAM_0:0:555673910><>" entered the game
+L 08/15/2020 - 17:29:06: "Agent Felix<1><STEAM_0:1:539804210><CT>" killed "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:29:06: Team "CT" triggered "CTs_Win" (CT "2") (T "2")
+L 08/15/2020 - 17:29:06: World triggered "Round_End"
+L 08/15/2020 - 17:29:08: "F5 STORME<5><STEAM_0:0:555673910><>" joined team "TERRORIST"
+L 08/15/2020 - 17:29:11: World triggered "Round_Start"
+L 08/15/2020 - 17:29:15: "Lallu mundus<4><STEAM_0:1:540695973><CT>" killed "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:29:16: "Lallu mundus<4><STEAM_0:1:540695973><CT>" killed "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:29:16: Team "CT" triggered "CTs_Win" (CT "3") (T "2")
+L 08/15/2020 - 17:29:16: World triggered "Round_End"
+L 08/15/2020 - 17:29:21: World triggered "Round_Start"
+L 08/15/2020 - 17:29:30: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Agent Felix<1><STEAM_0:1:539804210><CT>" with "ak47"
+L 08/15/2020 - 17:29:42: [DPROTO]: Client 5 - Set AuthIdType 1 [Native]; pClient = 0596B0A0
+L 08/15/2020 - 17:29:42: "Bloodshot Eyes<6><STEAM_0:0:60684219><>" connected, address "137.132.215.24:27005"
+L 08/15/2020 - 17:29:42: "Bloodshot Eyes<6><STEAM_0:0:60684219><>" STEAM USERID validated
+L 08/15/2020 - 17:29:47: "Lallu mundus<4><STEAM_0:1:540695973><CT>" killed "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:29:51: "Bloodshot Eyes<6><STEAM_0:0:60684219><>" entered the game
+L 08/15/2020 - 17:29:55: "Bloodshot Eyes<6><STEAM_0:0:60684219><>" joined team "CT"
+L 08/15/2020 - 17:30:03: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Lallu mundus<4><STEAM_0:1:540695973><CT>" with "ak47"
+L 08/15/2020 - 17:30:03: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "3")
+L 08/15/2020 - 17:30:03: World triggered "Round_End"
+L 08/15/2020 - 17:30:03: [DPROTO]: Client 6 - Set AuthIdType 1 [Native]; pClient = 059700B8
+L 08/15/2020 - 17:30:03: "Viper<7><STEAM_0:1:555146948><>" connected, address "223.223.150.73:27005"
+L 08/15/2020 - 17:30:04: "Viper<7><STEAM_0:1:555146948><>" STEAM USERID validated
+L 08/15/2020 - 17:30:07: "Viper<7><STEAM_0:1:555146948><>" entered the game
+L 08/15/2020 - 17:30:08: World triggered "Round_Start"
+L 08/15/2020 - 17:30:11: "Viper<7><STEAM_0:1:555146948><>" joined team "CT"
+L 08/15/2020 - 17:30:13: "Agent Felix<1><STEAM_0:1:539804210><CT>" say "diggiestyle"
+L 08/15/2020 - 17:30:14: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Bloodshot Eyes<6><STEAM_0:0:60684219><CT>" with "ak47"
+L 08/15/2020 - 17:30:16: "Viper<7><STEAM_0:1:555146948><CT>" committed suicide with "world"
+L 08/15/2020 - 17:30:16: "Viper<7><STEAM_0:1:555146948><CT>" joined team "TERRORIST"
+L 08/15/2020 - 17:30:18: "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" killed "Lallu mundus<4><STEAM_0:1:540695973><CT>" with "m4a1"
+L 08/15/2020 - 17:30:28: "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" killed "Agent Felix<1><STEAM_0:1:539804210><CT>" with "m4a1"
+L 08/15/2020 - 17:30:28: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "4")
+L 08/15/2020 - 17:30:28: World triggered "Round_End"
+L 08/15/2020 - 17:30:28: "PPGod || N3m3s!$<3><STEAM_0:1:49729967><>" joined team "SPECTATOR"
+L 08/15/2020 - 17:30:33: World triggered "Round_Start"
+L 08/15/2020 - 17:30:44: "Agent Felix<1><STEAM_0:1:539804210><CT>" killed "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:30:49: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Bloodshot Eyes<6><STEAM_0:0:60684219><CT>" with "ak47"
+L 08/15/2020 - 17:30:51: "Viper<7><STEAM_0:1:555146948><TERRORIST>" killed "Lallu mundus<4><STEAM_0:1:540695973><CT>" with "ak47"
+L 08/15/2020 - 17:30:54: "Agent Felix<1><STEAM_0:1:539804210><CT>" killed "Viper<7><STEAM_0:1:555146948><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:30:54: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Agent Felix<1><STEAM_0:1:539804210><CT>" with "ak47"
+L 08/15/2020 - 17:30:54: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "5")
+L 08/15/2020 - 17:30:54: World triggered "Round_End"
+L 08/15/2020 - 17:30:59: World triggered "Round_Start"
+L 08/15/2020 - 17:31:04: "Bloodshot Eyes<6><STEAM_0:0:60684219><CT>" killed "Viper<7><STEAM_0:1:555146948><TERRORIST>" with "ak47"
+L 08/15/2020 - 17:31:06: "Bloodshot Eyes<6><STEAM_0:0:60684219><CT>" killed "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" with "ak47"
+L 08/15/2020 - 17:31:10: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Bloodshot Eyes<6><STEAM_0:0:60684219><CT>" with "ak47"
+L 08/15/2020 - 17:31:18: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Agent Felix<1><STEAM_0:1:539804210><CT>" with "ak47"
+L 08/15/2020 - 17:31:22: "Lallu mundus<4><STEAM_0:1:540695973><CT>" killed "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" with "awp"
+L 08/15/2020 - 17:31:22: Team "CT" triggered "CTs_Win" (CT "4") (T "5")
+L 08/15/2020 - 17:31:22: World triggered "Round_End"
+L 08/15/2020 - 17:31:27: World triggered "Round_Start"
+L 08/15/2020 - 17:31:36: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Agent Felix<1><STEAM_0:1:539804210><CT>" with "ak47"
+L 08/15/2020 - 17:31:38: "Bloodshot Eyes<6><STEAM_0:0:60684219><CT>" killed "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" with "ak47"
+L 08/15/2020 - 17:31:42: "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" killed "Bloodshot Eyes<6><STEAM_0:0:60684219><CT>" with "m4a1"
+L 08/15/2020 - 17:32:07: "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" killed "Lallu mundus<4><STEAM_0:1:540695973><CT>" with "m4a1"
+L 08/15/2020 - 17:32:07: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "6")
+L 08/15/2020 - 17:32:07: World triggered "Round_End"
+L 08/15/2020 - 17:32:12: World triggered "Round_Start"
+L 08/15/2020 - 17:32:19: "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" killed "Lallu mundus<4><STEAM_0:1:540695973><CT>" with "m4a1"
+L 08/15/2020 - 17:32:23: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Bloodshot Eyes<6><STEAM_0:0:60684219><CT>" with "ak47"
+L 08/15/2020 - 17:32:33: "Agent Felix<1><STEAM_0:1:539804210><CT>" killed "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:32:39: "Agent Felix<1><STEAM_0:1:539804210><CT>" killed "Viper<7><STEAM_0:1:555146948><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:32:48: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Agent Felix<1><STEAM_0:1:539804210><CT>" with "ak47"
+L 08/15/2020 - 17:32:48: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "7")
+L 08/15/2020 - 17:32:48: World triggered "Round_End"
+L 08/15/2020 - 17:32:53: World triggered "Round_Start"
+L 08/15/2020 - 17:32:58: "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" killed "Lallu mundus<4><STEAM_0:1:540695973><CT>" with "m4a1"
+L 08/15/2020 - 17:33:00: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Agent Felix<1><STEAM_0:1:539804210><CT>" with "ak47"
+L 08/15/2020 - 17:33:19: "Viper<7><STEAM_0:1:555146948><TERRORIST>" killed "Bloodshot Eyes<6><STEAM_0:0:60684219><CT>" with "knife"
+L 08/15/2020 - 17:33:19: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "8")
+L 08/15/2020 - 17:33:19: World triggered "Round_End"
+L 08/15/2020 - 17:33:24: World triggered "Round_Start"
+L 08/15/2020 - 17:33:31: "Viper<7><STEAM_0:1:555146948><TERRORIST>" killed "Agent Felix<1><STEAM_0:1:539804210><CT>" with "ak47"
+L 08/15/2020 - 17:33:37: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Lallu mundus<4><STEAM_0:1:540695973><CT>" with "ak47"
+L 08/15/2020 - 17:33:41: "Viper<7><STEAM_0:1:555146948><TERRORIST>" killed "Bloodshot Eyes<6><STEAM_0:0:60684219><CT>" with "ak47"
+L 08/15/2020 - 17:33:41: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "9")
+L 08/15/2020 - 17:33:41: World triggered "Round_End"
+L 08/15/2020 - 17:33:46: World triggered "Round_Start"
+L 08/15/2020 - 17:33:50: "Agent Felix<1><STEAM_0:1:539804210><CT>" killed "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:33:56: "Bloodshot Eyes<6><STEAM_0:0:60684219><CT>" killed "Lallu mundus<4><STEAM_0:1:540695973><CT>" with "ak47"
+L 08/15/2020 - 17:34:01: "Agent Felix<1><STEAM_0:1:539804210><CT>" killed "Viper<7><STEAM_0:1:555146948><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:34:01: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Agent Felix<1><STEAM_0:1:539804210><CT>" with "ak47"
+L 08/15/2020 - 17:34:10: "Viper<7><STEAM_0:1:555146948><TERRORIST>" disconnected
+L 08/15/2020 - 17:34:13: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Bloodshot Eyes<6><STEAM_0:0:60684219><CT>" with "ak47"
+L 08/15/2020 - 17:34:13: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "10")
+L 08/15/2020 - 17:34:13: World triggered "Round_End"
+L 08/15/2020 - 17:34:18: World triggered "Round_Start"
+L 08/15/2020 - 17:34:25: [DPROTO]: Client 6 - Set AuthIdType 1 [Native]; pClient = 059700B8
+L 08/15/2020 - 17:34:25: "Viper<8><STEAM_0:1:555146948><>" connected, address "223.223.150.73:27005"
+L 08/15/2020 - 17:34:25: "Viper<8><STEAM_0:1:555146948><>" STEAM USERID validated
+L 08/15/2020 - 17:34:27: "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" killed "Bloodshot Eyes<6><STEAM_0:0:60684219><CT>" with "m4a1"
+L 08/15/2020 - 17:34:29: "Viper<8><STEAM_0:1:555146948><>" entered the game
+L 08/15/2020 - 17:34:33: "Agent Felix<1><STEAM_0:1:539804210><CT>" killed "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:34:34: "Viper<8><STEAM_0:1:555146948><>" joined team "TERRORIST"
+L 08/15/2020 - 17:34:37: "Bloodshot Eyes<6><STEAM_0:0:60684219><CT>" disconnected
+L 08/15/2020 - 17:34:40: "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" killed "Lallu mundus<4><STEAM_0:1:540695973><CT>" with "m4a1"
+L 08/15/2020 - 17:34:47: "Agent Felix<1><STEAM_0:1:539804210><CT>" killed "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:34:53: "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" say "1 hp chiloXD" (dead)
+L 08/15/2020 - 17:35:02: "Agent Felix<1><STEAM_0:1:539804210><CT>" killed "Viper<8><STEAM_0:1:555146948><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:35:02: Team "CT" triggered "CTs_Win" (CT "5") (T "10")
+L 08/15/2020 - 17:35:02: World triggered "Round_End"
+L 08/15/2020 - 17:35:07: World triggered "Round_Start"
+L 08/15/2020 - 17:35:14: [DPROTO]: Client 5 - Set AuthIdType 1 [Native]; pClient = 0596B0A0
+L 08/15/2020 - 17:35:14: "Bloodshot Eyes<9><STEAM_0:0:60684219><>" connected, address "137.132.215.24:27005"
+L 08/15/2020 - 17:35:14: "Bloodshot Eyes<9><STEAM_0:0:60684219><>" STEAM USERID validated
+L 08/15/2020 - 17:35:16: "Bloodshot Eyes<9><STEAM_0:0:60684219><>" entered the game
+L 08/15/2020 - 17:35:17: "Agent Felix<1><STEAM_0:1:539804210><CT>" killed "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:35:18: "Agent Felix<1><STEAM_0:1:539804210><CT>" killed "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:35:21: "Bloodshot Eyes<9><STEAM_0:0:60684219><>" joined team "CT"
+L 08/15/2020 - 17:35:22: "Agent Felix<1><STEAM_0:1:539804210><CT>" killed "Viper<8><STEAM_0:1:555146948><TERRORIST>" with "usp"
+L 08/15/2020 - 17:35:22: Team "CT" triggered "CTs_Win" (CT "6") (T "10")
+L 08/15/2020 - 17:35:22: World triggered "Round_End"
+L 08/15/2020 - 17:35:27: World triggered "Round_Start"
+L 08/15/2020 - 17:35:38: "Agent Felix<1><STEAM_0:1:539804210><CT>" killed "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:35:38: "Lallu mundus<4><STEAM_0:1:540695973><CT>" killed "Viper<8><STEAM_0:1:555146948><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:35:41: "Lallu mundus<4><STEAM_0:1:540695973><CT>" killed "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:35:41: Team "CT" triggered "CTs_Win" (CT "7") (T "10")
+L 08/15/2020 - 17:35:41: World triggered "Round_End"
+L 08/15/2020 - 17:35:46: World triggered "Round_Start"
+L 08/15/2020 - 17:35:56: "Lallu mundus<4><STEAM_0:1:540695973><CT>" killed "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" with "grenade"
+L 08/15/2020 - 17:36:00: "Lallu mundus<4><STEAM_0:1:540695973><CT>" killed "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:36:01: "Viper<8><STEAM_0:1:555146948><TERRORIST>" disconnected
+L 08/15/2020 - 17:36:01: Team "CT" triggered "CTs_Win" (CT "8") (T "10")
+L 08/15/2020 - 17:36:01: World triggered "Round_End"
+L 08/15/2020 - 17:36:01: [DPROTO]: Client 6 - Set AuthIdType 1 [Native]; pClient = 059700B8
+L 08/15/2020 - 17:36:01: "Viper<10><STEAM_0:1:555146948><>" connected, address "223.223.150.73:27005"
+L 08/15/2020 - 17:36:02: "Viper<10><STEAM_0:1:555146948><>" STEAM USERID validated
+L 08/15/2020 - 17:36:06: World triggered "Round_Start"
+L 08/15/2020 - 17:36:07: "Viper<10><STEAM_0:1:555146948><>" entered the game
+L 08/15/2020 - 17:36:11: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Lallu mundus<4><STEAM_0:1:540695973><CT>" with "ak47"
+L 08/15/2020 - 17:36:18: "Agent Felix<1><STEAM_0:1:539804210><CT>" killed "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:36:18: "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" killed "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" with "usp"
+L 08/15/2020 - 17:36:18: Team "CT" triggered "CTs_Win" (CT "9") (T "10")
+L 08/15/2020 - 17:36:18: World triggered "Round_End"
+L 08/15/2020 - 17:36:21: "Viper<10><STEAM_0:1:555146948><>" joined team "TERRORIST"
+L 08/15/2020 - 17:36:23: World triggered "Round_Start"
+L 08/15/2020 - 17:36:29: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Agent Felix<1><STEAM_0:1:539804210><CT>" with "ak47"
+L 08/15/2020 - 17:36:30: "Viper<10><STEAM_0:1:555146948><TERRORIST>" killed "Lallu mundus<4><STEAM_0:1:540695973><CT>" with "ak47"
+L 08/15/2020 - 17:36:30: "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" killed "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" with "ak47"
+L 08/15/2020 - 17:36:35: "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" killed "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" with "usp"
+L 08/15/2020 - 17:37:01: "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" killed "Viper<10><STEAM_0:1:555146948><TERRORIST>" with "ak47"
+L 08/15/2020 - 17:37:01: Team "CT" triggered "CTs_Win" (CT "10") (T "10")
+L 08/15/2020 - 17:37:01: World triggered "Round_End"
+L 08/15/2020 - 17:37:06: World triggered "Round_Start"
+L 08/15/2020 - 17:37:10: "Agent Felix<1><STEAM_0:1:539804210><CT>" killed "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:37:11: "Viper<10><STEAM_0:1:555146948><TERRORIST>" killed "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" with "ak47"
+L 08/15/2020 - 17:37:12: "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" killed "Agent Felix<1><STEAM_0:1:539804210><CT>" with "m4a1"
+L 08/15/2020 - 17:37:15: "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" killed "Lallu mundus<4><STEAM_0:1:540695973><CT>" with "m4a1"
+L 08/15/2020 - 17:37:15: Team "TERRORIST" triggered "Terrorists_Win" (CT "10") (T "11")
+L 08/15/2020 - 17:37:15: World triggered "Round_End"
+L 08/15/2020 - 17:37:20: World triggered "Round_Start"
+L 08/15/2020 - 17:37:27: "Lallu mundus<4><STEAM_0:1:540695973><CT>" killed "Viper<10><STEAM_0:1:555146948><TERRORIST>" with "ak47"
+L 08/15/2020 - 17:37:29: "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" killed "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:37:30: "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" killed "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" with "m4a1"
+L 08/15/2020 - 17:37:36: "Agent Felix<1><STEAM_0:1:539804210><CT>" killed "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:37:36: Team "CT" triggered "CTs_Win" (CT "11") (T "11")
+L 08/15/2020 - 17:37:36: World triggered "Round_End"
+L 08/15/2020 - 17:37:41: World triggered "Round_Start"
+L 08/15/2020 - 17:37:48: "Agent Felix<1><STEAM_0:1:539804210><CT>" killed "Viper<10><STEAM_0:1:555146948><TERRORIST>" with "grenade"
+L 08/15/2020 - 17:37:52: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Agent Felix<1><STEAM_0:1:539804210><CT>" with "m4a1"
+L 08/15/2020 - 17:37:53: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Lallu mundus<4><STEAM_0:1:540695973><CT>" with "m4a1"
+L 08/15/2020 - 17:38:06: "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" killed "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" with "m4a1"
+L 08/15/2020 - 17:38:06: Team "TERRORIST" triggered "Terrorists_Win" (CT "11") (T "12")
+L 08/15/2020 - 17:38:06: World triggered "Round_End"
+L 08/15/2020 - 17:38:06: "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" killed "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:38:11: "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" say "SORRY"
+L 08/15/2020 - 17:38:11: World triggered "Round_Start"
+L 08/15/2020 - 17:38:19: "Lallu mundus<4><STEAM_0:1:540695973><CT>" killed "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" with "awp"
+L 08/15/2020 - 17:38:25: "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" killed "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" with "ak47"
+L 08/15/2020 - 17:38:27: "Agent Felix<1><STEAM_0:1:539804210><CT>" killed "Viper<10><STEAM_0:1:555146948><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:38:27: Team "CT" triggered "CTs_Win" (CT "12") (T "12")
+L 08/15/2020 - 17:38:27: World triggered "Round_End"
+L 08/15/2020 - 17:38:32: World triggered "Round_Start"
+L 08/15/2020 - 17:38:35: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Lallu mundus<4><STEAM_0:1:540695973><CT>" with "awp"
+L 08/15/2020 - 17:38:37: "Agent Felix<1><STEAM_0:1:539804210><CT>" killed "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:38:45: "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" killed "Viper<10><STEAM_0:1:555146948><TERRORIST>" with "ak47"
+L 08/15/2020 - 17:38:49: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" with "awp"
+L 08/15/2020 - 17:38:50: "Agent Felix<1><STEAM_0:1:539804210><CT>" killed "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:38:50: Team "CT" triggered "CTs_Win" (CT "13") (T "12")
+L 08/15/2020 - 17:38:50: World triggered "Round_End"
+L 08/15/2020 - 17:38:55: World triggered "Round_Start"
+L 08/15/2020 - 17:39:01: "Agent Felix<1><STEAM_0:1:539804210><CT>" killed "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:39:11: "Agent Felix<1><STEAM_0:1:539804210><CT>" killed "Viper<10><STEAM_0:1:555146948><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:39:25: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Agent Felix<1><STEAM_0:1:539804210><CT>" with "awp"
+L 08/15/2020 - 17:39:27: "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" killed "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" with "ak47"
+L 08/15/2020 - 17:39:27: Team "CT" triggered "CTs_Win" (CT "14") (T "12")
+L 08/15/2020 - 17:39:27: World triggered "Round_End"
+L 08/15/2020 - 17:39:32: World triggered "Round_Start"
+L 08/15/2020 - 17:39:44: "Viper<10><STEAM_0:1:555146948><TERRORIST>" killed "Lallu mundus<4><STEAM_0:1:540695973><CT>" with "m4a1"
+L 08/15/2020 - 17:39:47: "Agent Felix<1><STEAM_0:1:539804210><CT>" killed "Viper<10><STEAM_0:1:555146948><TERRORIST>" with "grenade"
+L 08/15/2020 - 17:39:51: "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" killed "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" with "m4a1"
+L 08/15/2020 - 17:39:55: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Agent Felix<1><STEAM_0:1:539804210><CT>" with "ak47"
+L 08/15/2020 - 17:39:55: Team "TERRORIST" triggered "Terrorists_Win" (CT "14") (T "13")
+L 08/15/2020 - 17:39:55: World triggered "Round_End"
+L 08/15/2020 - 17:39:55: "Agent Felix<1><STEAM_0:1:539804210><CT>" killed "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" with "grenade"
+L 08/15/2020 - 17:40:00: World triggered "Round_Start"
+L 08/15/2020 - 17:40:12: "Viper<10><STEAM_0:1:555146948><TERRORIST>" killed "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" with "aug"
+L 08/15/2020 - 17:40:21: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Agent Felix<1><STEAM_0:1:539804210><CT>" with "ak47"
+L 08/15/2020 - 17:40:27: "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" killed "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" with "ak47"
+L 08/15/2020 - 17:40:29: "Lallu mundus<4><STEAM_0:1:540695973><CT>" killed "Viper<10><STEAM_0:1:555146948><TERRORIST>" with "awp"
+L 08/15/2020 - 17:40:29: Team "CT" triggered "CTs_Win" (CT "15") (T "13")
+L 08/15/2020 - 17:40:29: World triggered "Round_End"
+L 08/15/2020 - 17:40:30: [DPROTO]: Client 7 - Set AuthIdType 1 [Native]; pClient = 059750D0
+L 08/15/2020 - 17:40:30: "PPGod || mundane mundus<11><STEAM_0:0:83230422><>" connected, address "103.76.82.177:6334"
+L 08/15/2020 - 17:40:31: "PPGod || mundane mundus<11><STEAM_0:0:83230422><>" STEAM USERID validated
+L 08/15/2020 - 17:40:34: World triggered "Round_Start"
+L 08/15/2020 - 17:40:35: "PPGod || mundane mundus<11><STEAM_0:0:83230422><>" entered the game
+L 08/15/2020 - 17:40:38: "PPGod || mundane mundus<11><STEAM_0:0:83230422><>" joined team "TERRORIST"
+L 08/15/2020 - 17:40:40: "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" killed "Viper<10><STEAM_0:1:555146948><TERRORIST>" with "ak47"
+L 08/15/2020 - 17:40:45: "Agent Felix<1><STEAM_0:1:539804210><CT>" killed "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" with "grenade"
+L 08/15/2020 - 17:40:45: "Agent Felix<1><STEAM_0:1:539804210><CT>" killed "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" with "grenade"
+L 08/15/2020 - 17:40:51: "Agent Felix<1><STEAM_0:1:539804210><CT>" killed "PPGod || mundane mundus<11><STEAM_0:0:83230422><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:40:51: Team "CT" triggered "CTs_Win" (CT "16") (T "13")
+L 08/15/2020 - 17:40:51: World triggered "Round_End"
+L 08/15/2020 - 17:40:56: World triggered "Round_Start"
+L 08/15/2020 - 17:41:03: "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" killed "PPGod || mundane mundus<11><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 08/15/2020 - 17:41:05: "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" killed "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" with "ak47"
+L 08/15/2020 - 17:41:06: [DPROTO]: Client 8 - Set AuthIdType 1 [Native]; pClient = 0597A0E8
+L 08/15/2020 - 17:41:06: "Sic Mundus Creatus Est<12><STEAM_0:1:66144441><>" connected, address "106.51.234.216:8850"
+L 08/15/2020 - 17:41:06: "Sic Mundus Creatus Est<12><STEAM_0:1:66144441><>" STEAM USERID validated
+L 08/15/2020 - 17:41:13: "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" killed "Lallu mundus<4><STEAM_0:1:540695973><CT>" with "m4a1"
+L 08/15/2020 - 17:41:16: "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" killed "Viper<10><STEAM_0:1:555146948><TERRORIST>" with "ak47"
+L 08/15/2020 - 17:41:20: "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" killed "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" with "m4a1"
+L 08/15/2020 - 17:41:20: "Sic Mundus Creatus Est<12><STEAM_0:1:66144441><>" entered the game
+L 08/15/2020 - 17:41:26: "Sic Mundus Creatus Est<12><STEAM_0:1:66144441><>" joined team "CT"
+L 08/15/2020 - 17:41:28: "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" killed "Agent Felix<1><STEAM_0:1:539804210><CT>" with "m4a1"
+L 08/15/2020 - 17:41:28: Team "TERRORIST" triggered "Terrorists_Win" (CT "16") (T "14")
+L 08/15/2020 - 17:41:28: World triggered "Round_End"
+L 08/15/2020 - 17:41:33: World triggered "Round_Start"
+L 08/15/2020 - 17:41:45: "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" killed "Lallu mundus<4><STEAM_0:1:540695973><CT>" with "m4a1"
+L 08/15/2020 - 17:41:46: "PPGod || mundane mundus<11><STEAM_0:0:83230422><TERRORIST>" killed "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" with "ak47"
+L 08/15/2020 - 17:41:48: "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" killed "Sic Mundus Creatus Est<12><STEAM_0:1:66144441><CT>" with "m4a1"
+L 08/15/2020 - 17:41:49: "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" killed "Agent Felix<1><STEAM_0:1:539804210><CT>" with "m4a1"
+L 08/15/2020 - 17:41:49: Team "TERRORIST" triggered "Terrorists_Win" (CT "16") (T "15")
+L 08/15/2020 - 17:41:49: World triggered "Round_End"
+L 08/15/2020 - 17:41:54: World triggered "Round_Start"
+L 08/15/2020 - 17:42:02: "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" killed "Agent Felix<1><STEAM_0:1:539804210><CT>" with "m4a1"
+L 08/15/2020 - 17:42:03: "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" killed "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" with "m4a1"
+L 08/15/2020 - 17:42:11: "Viper<10><STEAM_0:1:555146948><TERRORIST>" killed "Lallu mundus<4><STEAM_0:1:540695973><CT>" with "ak47"
+L 08/15/2020 - 17:42:11: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Sic Mundus Creatus Est<12><STEAM_0:1:66144441><CT>" with "m4a1"
+L 08/15/2020 - 17:42:11: Team "TERRORIST" triggered "Terrorists_Win" (CT "16") (T "16")
+L 08/15/2020 - 17:42:11: World triggered "Round_End"
+L 08/15/2020 - 17:42:16: World triggered "Round_Start"
+L 08/15/2020 - 17:42:19: "PPGod || mundane mundus<11><STEAM_0:0:83230422><TERRORIST>" killed "Sic Mundus Creatus Est<12><STEAM_0:1:66144441><CT>" with "awp"
+L 08/15/2020 - 17:42:20: "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" killed "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" with "m4a1"
+L 08/15/2020 - 17:42:21: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Lallu mundus<4><STEAM_0:1:540695973><CT>" with "m4a1"
+L 08/15/2020 - 17:42:24: "Agent Felix<1><STEAM_0:1:539804210><CT>" killed "PPGod || mundane mundus<11><STEAM_0:0:83230422><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:42:25: "Viper<10><STEAM_0:1:555146948><TERRORIST>" killed "Agent Felix<1><STEAM_0:1:539804210><CT>" with "ak47"
+L 08/15/2020 - 17:42:25: Team "TERRORIST" triggered "Terrorists_Win" (CT "16") (T "17")
+L 08/15/2020 - 17:42:25: World triggered "Round_End"
+L 08/15/2020 - 17:42:30: World triggered "Round_Start"
+L 08/15/2020 - 17:42:34: "Lallu mundus<4><STEAM_0:1:540695973><CT>" killed "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:42:34: "PPGod || mundane mundus<11><STEAM_0:0:83230422><TERRORIST>" killed "Lallu mundus<4><STEAM_0:1:540695973><CT>" with "m4a1"
+L 08/15/2020 - 17:42:38: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" with "m4a1"
+L 08/15/2020 - 17:42:44: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Agent Felix<1><STEAM_0:1:539804210><CT>" with "m4a1"
+L 08/15/2020 - 17:42:45: [DPROTO]: Client 9 - Set AuthIdType 1 [Native]; pClient = 0597F100
+L 08/15/2020 - 17:42:45: "Stufu<13><STEAM_0:1:147341737><>" connected, address "49.207.212.224:40555"
+L 08/15/2020 - 17:42:46: "Stufu<13><STEAM_0:1:147341737><>" STEAM USERID validated
+L 08/15/2020 - 17:42:46: "Viper<10><STEAM_0:1:555146948><TERRORIST>" killed "PPGod || mundane mundus<11><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 08/15/2020 - 17:42:50: "Sic Mundus Creatus Est<12><STEAM_0:1:66144441><CT>" killed "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" with "xm1014"
+L 08/15/2020 - 17:42:51: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Sic Mundus Creatus Est<12><STEAM_0:1:66144441><CT>" with "grenade"
+L 08/15/2020 - 17:42:51: Team "TERRORIST" triggered "Terrorists_Win" (CT "16") (T "18")
+L 08/15/2020 - 17:42:51: World triggered "Round_End"
+L 08/15/2020 - 17:42:52: "Stufu<13><STEAM_0:1:147341737><>" entered the game
+L 08/15/2020 - 17:42:56: World triggered "Round_Start"
+L 08/15/2020 - 17:43:08: "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" killed "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:43:08: "Stufu<13><STEAM_0:1:147341737><>" joined team "CT"
+L 08/15/2020 - 17:43:09: "PPGod || mundane mundus<11><STEAM_0:0:83230422><TERRORIST>" killed "Sic Mundus Creatus Est<12><STEAM_0:1:66144441><CT>" with "m4a1"
+L 08/15/2020 - 17:43:12: "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" killed "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" with "m4a1"
+L 08/15/2020 - 17:43:13: "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" killed "Lallu mundus<4><STEAM_0:1:540695973><CT>" with "m4a1"
+L 08/15/2020 - 17:43:15: "Stufu<13><STEAM_0:1:147341737><CT>" killed "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" with "ak47"
+L 08/15/2020 - 17:43:16: "Viper<10><STEAM_0:1:555146948><TERRORIST>" killed "Stufu<13><STEAM_0:1:147341737><CT>" with "m4a1"
+L 08/15/2020 - 17:43:22: "PPGod || mundane mundus<11><STEAM_0:0:83230422><TERRORIST>" killed "Agent Felix<1><STEAM_0:1:539804210><CT>" with "m4a1"
+L 08/15/2020 - 17:43:22: Team "TERRORIST" triggered "Terrorists_Win" (CT "16") (T "19")
+L 08/15/2020 - 17:43:22: World triggered "Round_End"
+L 08/15/2020 - 17:43:23: Rcon: "rcon 62388208 "Lauda2" amx_pause 1" from "49.207.212.224:40555"
+L 08/15/2020 - 17:43:23: Server cvar "pausable" = "1"
+L 08/15/2020 - 17:43:23: Server cvar "pausable" = "0"
+L 08/15/2020 - 17:43:36: Rcon: "rcon 62388208 "Lauda2" amx_pause 0" from "49.207.212.224:40555"
+L 08/15/2020 - 17:43:36: Server cvar "pausable" = "1"
+L 08/15/2020 - 17:43:36: Server cvar "pausable" = "0"
+L 08/15/2020 - 17:43:40: World triggered "Round_Start"
+L 08/15/2020 - 17:43:50: "Agent Felix<1><STEAM_0:1:539804210><CT>" killed "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:43:50: "PPGod || mundane mundus<11><STEAM_0:0:83230422><TERRORIST>" killed "Lallu mundus<4><STEAM_0:1:540695973><CT>" with "awp"
+L 08/15/2020 - 17:43:53: "Agent Felix<1><STEAM_0:1:539804210><CT>" killed "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" with "ak47"
+L 08/15/2020 - 17:43:54: "Stufu<13><STEAM_0:1:147341737><CT>" killed "Viper<10><STEAM_0:1:555146948><TERRORIST>" with "ak47"
+L 08/15/2020 - 17:44:03: "Agent Felix<1><STEAM_0:1:539804210><CT>" killed "PPGod || mundane mundus<11><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 08/15/2020 - 17:44:03: Team "CT" triggered "CTs_Win" (CT "17") (T "19")
+L 08/15/2020 - 17:44:03: World triggered "Round_End"
+L 08/15/2020 - 17:44:08: World triggered "Round_Start"
+L 08/15/2020 - 17:44:12: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Sic Mundus Creatus Est<12><STEAM_0:1:66144441><CT>" with "ak47"
+L 08/15/2020 - 17:44:15: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" with "ak47"
+L 08/15/2020 - 17:44:16: "Stufu<13><STEAM_0:1:147341737><CT>" killed "PPGod || mundane mundus<11><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 08/15/2020 - 17:44:19: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Agent Felix<1><STEAM_0:1:539804210><CT>" with "ak47"
+L 08/15/2020 - 17:44:24: "Viper<10><STEAM_0:1:555146948><TERRORIST>" killed "Lallu mundus<4><STEAM_0:1:540695973><CT>" with "m4a1"
+L 08/15/2020 - 17:44:24: "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" killed "Stufu<13><STEAM_0:1:147341737><CT>" with "m4a1"
+L 08/15/2020 - 17:44:24: Team "TERRORIST" triggered "Terrorists_Win" (CT "17") (T "20")
+L 08/15/2020 - 17:44:24: World triggered "Round_End"
+L 08/15/2020 - 17:44:29: World triggered "Round_Start"
+L 08/15/2020 - 17:44:32: "Viper<10><STEAM_0:1:555146948><TERRORIST>" killed "Agent Felix<1><STEAM_0:1:539804210><CT>" with "m4a1"
+L 08/15/2020 - 17:44:38: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Lallu mundus<4><STEAM_0:1:540695973><CT>" with "ak47"
+L 08/15/2020 - 17:44:40: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Sic Mundus Creatus Est<12><STEAM_0:1:66144441><CT>" with "ak47"
+L 08/15/2020 - 17:44:45: "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" killed "Stufu<13><STEAM_0:1:147341737><CT>" with "m4a1"
+L 08/15/2020 - 17:44:52: "Viper<10><STEAM_0:1:555146948><TERRORIST>" killed "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" with "m4a1"
+L 08/15/2020 - 17:44:52: Team "TERRORIST" triggered "Terrorists_Win" (CT "17") (T "21")
+L 08/15/2020 - 17:44:52: World triggered "Round_End"
+L 08/15/2020 - 17:44:57: World triggered "Round_Start"
+L 08/15/2020 - 17:45:04: "Stufu<13><STEAM_0:1:147341737><CT>" killed "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" with "ak47"
+L 08/15/2020 - 17:45:09: [DPROTO]: Client 10 - Set AuthIdType 1 [dp_RevEmu]; pClient = 05984118
+L 08/15/2020 - 17:45:09: "Jo Bieg<14><STEAM_0:0:355901680><>" connected, address "101.0.34.15:26657"
+L 08/15/2020 - 17:45:11: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Lallu mundus<4><STEAM_0:1:540695973><CT>" with "m4a1"
+L 08/15/2020 - 17:45:17: "Viper<10><STEAM_0:1:555146948><TERRORIST>" killed "Stufu<13><STEAM_0:1:147341737><CT>" with "m4a1"
+L 08/15/2020 - 17:45:17: [DPROTO]: Client 11 - Set AuthIdType 1 [Native]; pClient = 05989130
+L 08/15/2020 - 17:45:17: "PPG<15><STEAM_0:0:209561119><>" connected, address "202.142.70.83:13607"
+L 08/15/2020 - 17:45:17: "Jo Bieg<14><STEAM_0:0:355901680><>" entered the game
+L 08/15/2020 - 17:45:18: "PPG<15><STEAM_0:0:209561119><>" STEAM USERID validated
+L 08/15/2020 - 17:45:20: "Agent Felix<1><STEAM_0:1:539804210><CT>" killed "PPGod || mundane mundus<11><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 08/15/2020 - 17:45:24: "Jo Bieg<14><STEAM_0:0:355901680><>" joined team "TERRORIST"
+L 08/15/2020 - 17:45:27: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Agent Felix<1><STEAM_0:1:539804210><CT>" with "m4a1"
+L 08/15/2020 - 17:45:27: "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" killed "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" with "ak47"
+L 08/15/2020 - 17:45:31: "Viper<10><STEAM_0:1:555146948><TERRORIST>" killed "Sic Mundus Creatus Est<12><STEAM_0:1:66144441><CT>" with "m4a1"
+L 08/15/2020 - 17:45:36: "PPG<15><STEAM_0:0:209561119><>" entered the game
+L 08/15/2020 - 17:45:45: "PPG<15><STEAM_0:0:209561119><>" joined team "SPECTATOR"
+L 08/15/2020 - 17:45:45: "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" killed "Viper<10><STEAM_0:1:555146948><TERRORIST>" with "ak47"
+L 08/15/2020 - 17:45:45: Team "CT" triggered "CTs_Win" (CT "18") (T "21")
+L 08/15/2020 - 17:45:45: World triggered "Round_End"
+L 08/15/2020 - 17:45:50: World triggered "Round_Start"
+L 08/15/2020 - 17:45:55: "Viper<10><STEAM_0:1:555146948><TERRORIST>" killed "Lallu mundus<4><STEAM_0:1:540695973><CT>" with "aug"
+L 08/15/2020 - 17:45:55: "Jo Bieg<14><STEAM_0:0:355901680><TERRORIST>" killed "Sic Mundus Creatus Est<12><STEAM_0:1:66144441><CT>" with "ak47"
+L 08/15/2020 - 17:45:59: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" with "ak47"
+L 08/15/2020 - 17:46:04: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Agent Felix<1><STEAM_0:1:539804210><CT>" with "ak47"
+L 08/15/2020 - 17:46:05: "Stufu<13><STEAM_0:1:147341737><CT>" killed "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:46:08: "Viper<10><STEAM_0:1:555146948><TERRORIST>" killed "Stufu<13><STEAM_0:1:147341737><CT>" with "aug"
+L 08/15/2020 - 17:46:08: Team "TERRORIST" triggered "Terrorists_Win" (CT "18") (T "22")
+L 08/15/2020 - 17:46:08: World triggered "Round_End"
+L 08/15/2020 - 17:46:13: World triggered "Round_Start"
+L 08/15/2020 - 17:46:16: "PPGod || mundane mundus<11><STEAM_0:0:83230422><TERRORIST>" killed "Lallu mundus<4><STEAM_0:1:540695973><CT>" with "awp"
+L 08/15/2020 - 17:46:22: "Agent Felix<1><STEAM_0:1:539804210><CT>" killed "Viper<10><STEAM_0:1:555146948><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:46:22: "Stufu<13><STEAM_0:1:147341737><CT>" killed "Jo Bieg<14><STEAM_0:0:355901680><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:46:25: "PPGod || mundane mundus<11><STEAM_0:0:83230422><TERRORIST>" killed "Stufu<13><STEAM_0:1:147341737><CT>" with "awp"
+L 08/15/2020 - 17:46:25: "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" killed "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" with "ak47"
+L 08/15/2020 - 17:46:27: "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" killed "Agent Felix<1><STEAM_0:1:539804210><CT>" with "m4a1"
+L 08/15/2020 - 17:46:29: "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" killed "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" with "ak47"
+L 08/15/2020 - 17:46:32: "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" killed "PPGod || mundane mundus<11><STEAM_0:0:83230422><TERRORIST>" with "ak47"
+L 08/15/2020 - 17:46:32: Team "CT" triggered "CTs_Win" (CT "19") (T "22")
+L 08/15/2020 - 17:46:32: World triggered "Round_End"
+L 08/15/2020 - 17:46:37: World triggered "Round_Start"
+L 08/15/2020 - 17:46:44: "Stufu<13><STEAM_0:1:147341737><CT>" killed "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" with "m4a1"
+L 08/15/2020 - 17:46:47: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Sic Mundus Creatus Est<12><STEAM_0:1:66144441><CT>" with "ak47"
+L 08/15/2020 - 17:46:47: "Lallu mundus<4><STEAM_0:1:540695973><CT>" killed "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" with "ak47"
+L 08/15/2020 - 17:46:50: "PPGod || mundane mundus<11><STEAM_0:0:83230422><TERRORIST>" killed "Stufu<13><STEAM_0:1:147341737><CT>" with "awp"
+L 08/15/2020 - 17:46:53: "PPGod || mundane mundus<11><STEAM_0:0:83230422><TERRORIST>" killed "Lallu mundus<4><STEAM_0:1:540695973><CT>" with "awp"
+L 08/15/2020 - 17:46:57: "Viper<10><STEAM_0:1:555146948><TERRORIST>" killed "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" with "m4a1"
+L 08/15/2020 - 17:47:14: "PPGod || mundane mundus<11><STEAM_0:0:83230422><TERRORIST>" killed "Agent Felix<1><STEAM_0:1:539804210><CT>" with "awp"
+L 08/15/2020 - 17:47:14: Team "TERRORIST" triggered "Terrorists_Win" (CT "19") (T "23")
+L 08/15/2020 - 17:47:14: World triggered "Round_End"
+L 08/15/2020 - 17:47:19: World triggered "Round_Start"
+L 08/15/2020 - 17:47:24: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Agent Felix<1><STEAM_0:1:539804210><CT>" with "ak47"
+L 08/15/2020 - 17:47:26: "Jo Bieg<14><STEAM_0:0:355901680><TERRORIST>" killed "Lallu mundus<4><STEAM_0:1:540695973><CT>" with "m4a1"
+L 08/15/2020 - 17:47:26: "PPGod || mundane mundus<11><STEAM_0:0:83230422><TERRORIST>" killed "Stufu<13><STEAM_0:1:147341737><CT>" with "awp"
+L 08/15/2020 - 17:47:28: "Agent Felix<1><STEAM_0:1:539804210><CT>" disconnected
+L 08/15/2020 - 17:47:33: "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" killed "Viper<10><STEAM_0:1:555146948><TERRORIST>" with "ak47"
+L 08/15/2020 - 17:47:34: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Sic Mundus Creatus Est<12><STEAM_0:1:66144441><CT>" with "grenade"
+L 08/15/2020 - 17:47:38: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" with "ak47"
+L 08/15/2020 - 17:47:38: Team "TERRORIST" triggered "Terrorists_Win" (CT "19") (T "24")
+L 08/15/2020 - 17:47:38: World triggered "Round_End"
+L 08/15/2020 - 17:47:43: World triggered "Round_Start"
+L 08/15/2020 - 17:47:51: "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" killed "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" with "ak47"
+L 08/15/2020 - 17:47:55: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" with "ak47"
+L 08/15/2020 - 17:47:57: "PPGod || mundane mundus<11><STEAM_0:0:83230422><TERRORIST>" killed "Stufu<13><STEAM_0:1:147341737><CT>" with "awp"
+L 08/15/2020 - 17:47:59: "Viper<10><STEAM_0:1:555146948><TERRORIST>" killed "Lallu mundus<4><STEAM_0:1:540695973><CT>" with "awp"
+L 08/15/2020 - 17:48:03: "Jo Bieg<14><STEAM_0:0:355901680><TERRORIST>" killed "Sic Mundus Creatus Est<12><STEAM_0:1:66144441><CT>" with "m4a1"
+L 08/15/2020 - 17:48:03: Team "TERRORIST" triggered "Terrorists_Win" (CT "19") (T "25")
+L 08/15/2020 - 17:48:03: World triggered "Round_End"
+L 08/15/2020 - 17:48:08: World triggered "Round_Start"
+L 08/15/2020 - 17:48:17: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Lallu mundus<4><STEAM_0:1:540695973><CT>" with "ak47"
+L 08/15/2020 - 17:48:23: "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" killed "Stufu<13><STEAM_0:1:147341737><CT>" with "m4a1"
+L 08/15/2020 - 17:48:25: "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" killed "Viper<10><STEAM_0:1:555146948><TERRORIST>" with "ak47"
+L 08/15/2020 - 17:48:27: "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" killed "Sic Mundus Creatus Est<12><STEAM_0:1:66144441><CT>" with "m4a1"
+L 08/15/2020 - 17:48:32: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" killed "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" with "ak47"
+L 08/15/2020 - 17:48:32: Team "TERRORIST" triggered "Terrorists_Win" (CT "19") (T "26")
+L 08/15/2020 - 17:48:32: World triggered "Round_End"
+L 08/15/2020 - 17:48:37: World triggered "Round_Start"
+L 08/15/2020 - 17:48:48: "Jo Bieg<14><STEAM_0:0:355901680><TERRORIST>" killed "Sic Mundus Creatus Est<12><STEAM_0:1:66144441><CT>" with "m4a1"
+L 08/15/2020 - 17:48:51: "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" killed "Lallu mundus<4><STEAM_0:1:540695973><CT>" with "m4a1"
+L 08/15/2020 - 17:48:52: "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" killed "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" with "m4a1"
+L 08/15/2020 - 17:48:54: "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" killed "Stufu<13><STEAM_0:1:147341737><CT>" with "m4a1"
+L 08/15/2020 - 17:48:54: Team "TERRORIST" triggered "Terrorists_Win" (CT "19") (T "27")
+L 08/15/2020 - 17:48:54: World triggered "Round_End"
+L 08/15/2020 - 17:48:59: World triggered "Round_Start"
+L 08/15/2020 - 17:49:02: Rcon: "rcon 62388208 "Lauda2" changelevel rusg" from "49.207.212.224:40555"
+L 08/15/2020 - 17:49:04: Rcon: "rcon 62388208 "Lauda2" changelevel rush" from "49.207.212.224:40555"
+L 08/15/2020 - 17:49:04: [META] ini: Begin re-reading plugins list: g:/tcafiles/users/fkguxmko/7303/cstrike/addons/metamod/plugins.ini
+L 08/15/2020 - 17:49:04: [META] ini: Read plugin config for: AMX Mod X
+L 08/15/2020 - 17:49:04: [META] ini: Read plugin config for: dproto_EF
+L 08/15/2020 - 17:49:04: [META] ini: Finished reading plugins list: g:/tcafiles/users/fkguxmko/7303/cstrike/addons/metamod/plugins.ini; Found 2 plugins
+L 08/15/2020 - 17:49:04: [META] dll: Updating plugins...
+L 08/15/2020 - 17:49:04: [META] dll: Finished updating 5 plugins; kept 2, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 08/15/2020 - 17:49:04: "@cH!lL!eS<2><STEAM_0:0:1568553987><TERRORIST>" disconnected
+L 08/15/2020 - 17:49:04: "PPGod || N3m3s!$<3><STEAM_0:1:49729967><SPECTATOR>" disconnected
+L 08/15/2020 - 17:49:04: "Lallu mundus<4><STEAM_0:1:540695973><CT>" disconnected
+L 08/15/2020 - 17:49:04: "F5 STORME<5><STEAM_0:0:555673910><TERRORIST>" disconnected
+L 08/15/2020 - 17:49:04: "Bloodshot Eyes<9><STEAM_0:0:60684219><CT>" disconnected
+L 08/15/2020 - 17:49:04: "Viper<10><STEAM_0:1:555146948><TERRORIST>" disconnected
+L 08/15/2020 - 17:49:04: "PPGod || mundane mundus<11><STEAM_0:0:83230422><TERRORIST>" disconnected
+L 08/15/2020 - 17:49:04: "Sic Mundus Creatus Est<12><STEAM_0:1:66144441><CT>" disconnected
+L 08/15/2020 - 17:49:04: "Stufu<13><STEAM_0:1:147341737><CT>" disconnected
+L 08/15/2020 - 17:49:04: "Jo Bieg<14><STEAM_0:0:355901680><TERRORIST>" disconnected
+L 08/15/2020 - 17:49:04: World triggered "Round_Draw" (CT "19") (T "27")
+L 08/15/2020 - 17:49:04: World triggered "Round_End"
+L 08/15/2020 - 17:49:04: "PPG<15><STEAM_0:0:209561119><SPECTATOR>" disconnected
+L 08/15/2020 - 17:49:04: World triggered "Round_Draw" (CT "19") (T "27")
+L 08/15/2020 - 17:49:04: World triggered "Round_End"
+L 08/15/2020 - 17:49:04: Log file closed

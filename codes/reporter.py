@@ -46,7 +46,7 @@ def generate_report(final_KDA, final_frag_list, brownies, match_tags, team_playe
                num_plant, num_defuse, num_tk, kill_time/rounds_killed, death_time/num_death, 100*KST/num_round]
         KDA_data.append(row)
     
-    KDA_data = sorted(KDA_data, key=lambda x: x[3], reverse=True)
+    KDA_data = sorted(KDA_data, key=lambda x: (x[3], -x[5]), reverse=True)
     maxes = [max([item[i+1] for item in KDA_data]) for i in range(11)]
     mins = [min([item[i+1] for item in KDA_data]) for i in range(11)]
 
